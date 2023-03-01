@@ -1,794 +1,794 @@
-No,surname,first_name,Games,Age,Date of Birth,Height,Weight,Origin,Position_1,Position_2
-7,Baker,Liam,87,25yr 1mth,27 Jan 1998,173cm,72kg,Subiaco,Defender,Forward
-21,Balta,Noah,62,23yr 4mth,23 Oct 1999,194cm,102kg,Calder Cannons,Defender,Forward
-41,Banks,Sam,0,19yr 10mth,2 Apr 2003,186cm,71kg,Tasmania Devils,Defender,Midfield
-43,Bauer,Jacob,0,20yr 6mth,6 Aug 2002,191cm,80kg,North Adelaide,Forward,NA
-29,Bolton,Shai,90,24yr 2mth,8 Dec 1998,175cm,77kg,South Fremantle,Midfield,Forward
-37,Bradtke,Kaelan,0,21yr 9mth,21 May 2001,195cm,95kg,Corowa-Rutherglen,Defender,Forward
-35,Broad,Nathan,107,29yr 10mth,15 Apr 1993,192cm,89kg,Swan Districts,Defender,NA
-30,Brown,Tom,0,19yr 6mth,30 Jul 2003,186cm,77kg,Murray Bushrangers,Defender,NA
-44,Campbell,Seth,0,18yr 1mth,29 Dec 2004,182cm,73kg,Tasmania Devils,Forward,NA
-11,Castagna,Jason,134,26yr 7mth,12 Jul 1996,182cm,82kg,Northern Knights,Forward,NA
-42,Clarke,Judson,3,19yr 4mth,17 Oct 2003,179cm,69kg,Dandenong Stingrays,Forward,NA
-39,Colina,Mate,0,23yr 9mth,20 May 1999,213cm,111kg,Hawaii,Forward,Ruck
-9,Cotchin,Trent,287,32yr 10mth,7 Apr 1990,185cm,86kg,Northern Knights,Midfield,NA
-38,Cumberland,Noah,9,21yr 11mth,15 Mar 2001,183cm,80kg,Brisbane Lions Academy,Forward,NA
-27,Dow,Thomson,13,21yr 4mth,16 Oct 2001,183cm,77kg,Bendigo Pioneers,Midfield,NA
-28,Gibcus,Josh,18,19yr 10mth,4 Apr 2003,196cm,87kg,GWV Rebels,Defender,NA
-34,Graham,Jack,97,25yr,25 Feb 1998,181cm,83kg,North Adelaide,Midfield,Forward
-48,Green,Steely,0,19yr 1mth,9 Jan 2004,179cm,75kg,South Fremantle,Midfield,NA
-2,Grimes,Dylan,207,31yr 7mth,16 Jul 1991,194cm,91kg,Northern Knights,Defender,NA
-22,Hopper,Jacob,114,26yr,6 Feb 1997,187cm,88kg,North Ballarat Rebels,Midfield,NA
-19,Lynch,Tom,212,30yr 3mth,31 Oct 1992,199cm,98kg,Dandenong Stingrays,Forward,NA
-31,Mansell,Rhyan,15,22yr 8mth,4 Jun 2000,180cm,70kg,Woodville West-Torrens,Defender,NA
-4,Martin,Dustin,269,31yr 8mth,26 Jun 1991,187cm,91kg,Bendigo Pioneers,Midfield,Forward
-33,Mcintosh,Kamdyn,146,28yr 10mth,3 Apr 1994,191cm,92kg,Peel Thunder,Midfield,NA
-46,Miller,Ben,12,23yr 5mth,31 Aug 1999,198cm,96kg,Subiaco,Defender,NA
-25,Nankervis,Toby,121,28yr 6mth,12 Aug 1994,199cm,102kg,North Launceston,Ruck,NA
-47,Nyuon,Bigoa,1,21yr 9mth,18 May 2001,197cm,92kg,Dandenong Stingrays,Defender,NA
-50,Pickett,Marlion,57,31yr 1mth,6 Jan 1992,184cm,80kg,South Fremantle,Midfield,NA
-3,Prestia,Dion,192,30yr 4mth,12 Oct 1992,175cm,82kg,Calder Cannons,Midfield,NA
-13,Ralphsmith,Hugo,19,21yr 3mth,9 Nov 2001,188cm,83kg,Sandringham Dragons,Defender,NA
-8,Riewoldt,Jack,326,34yr 3mth,31 Oct 1988,193cm,92kg,Tassie Mariners,Forward,NA
-17,Rioli,Daniel,137,25yr 10mth,16 Apr 1997,179cm,77kg,North Ballarat Rebels,Defender,NA
-10,Rioli,Maurice,17,20yr 5mth,1 Sep 2002,179cm,75kg,Oakleigh Chargers,Forward,NA
-5,Ross,Jack,44,22yr 5mth,3 Sep 2000,187cm,85kg,Oakleigh Chargers,Midfield,NA
-32,Ryan,Samson,1,22yr 2mth,9 Dec 2000,206cm,96kg,Lions Academy,Forward,Ruck
-15,Short,Jayden,137,27yr 1mth,24 Jan 1996,178cm,76kg,Northern Knights,Midfield,NA
-49,Smith,Kaleb,0,18yr 3mth,20 Nov 2004,180cm,79kg,East Fremantle,Defender,NA
-20,Soldo,Ivan,49,26yr 10mth,14 Apr 1996,204cm,106kg,Daramalan College,Forward,Ruck
-40,Sonsie,Tyler,7,20yr 1mth,27 Jan 2003,181cm,78kg,Eastern Ranges,Midfield,Forward
-14,Taranto,Tim,114,25yr 1mth,28 Jan 1998,188cm,89kg,Sandringham Dragons,Midfield,Forward
-6,Tarrant,Robbie,194,33yr 10mth,25 Apr 1989,196cm,97kg,Bendigo Pioneers,Defender,NA
-1,Vlastuin,Nick,190,28yr 10mth,19 Apr 1994,187cm,88kg,Northern Knights,Defender,NA
-45,Young,Tylar,0,24yr 5mth,5 Sep 1998,196cm,92kg,Richmond VFL,Defender,NA
-26,Adams,Jed,0,18yr 9mth,14 May 2004,196cm,89kg,Peel Thunder,Defender,NA
-17,Bowey,Jake,24,20yr 5mth,12 Sep 2002,176cm,69kg,Sandringham Dragons,Defender,NA
-10,Brayshaw,Angus,143,27yr 1mth,9 Jan 1996,187cm,91kg,Sandringham Dragons,Defender,NA
-50,Brown,Ben,162,30yr 3mth,20 Nov 1992,200cm,100kg,Werribee Tigers,Forward,NA
-37,Chandler,Kade,10,23yr 1mth,13 Jan 2000,175cm,76kg,Norwood,Forward,NA
-27,Dunstan,Luke,121,28yr,29 Jan 1995,185cm,84kg,Woodville West Torrens,Midfield,NA
-43,Farris-White,Kyah,,,,,,,,NA
-31,Fritsch,Bayley,109,26yr 2mth,6 Dec 1996,188cm,84kg,Casey Demons,Forward,NA
-11,Gawn,Max,181,31yr 1mth,30 Dec 1991,208cm,108kg,Sandringham Dragons,Ruck,NA
-6,Grundy,Brodie,177,28yr 10mth,15 Apr 1994,203cm,108kg,Sturt,Ruck,NA
-4,Harmes,James,143,27yr 4mth,5 Oct 1995,185cm,85kg,Dandenong Stingrays,Midfield,Forward
-14,Hibberd,Michael,185,33yr 1mth,3 Jan 1990,186cm,94kg,Frankston,Defender,NA
-22,Howes,Blake,0,19yr 10mth,7 Apr 2003,190cm,79kg,Sandringham Dragons,Midfield,Forward
-12,Hunter,Lachlan,173,28yr 2mth,13 Dec 1994,182cm,81kg,Western Jets,Midfield,NA
-21,Jefferson,Matthew,0,18yr 11mth,8 Mar 2004,195cm,84kg,Oakleigh Chargers,Forward,NA
-23,Jordon,James,47,22yr 2mth,20 Dec 2000,187cm,82kg,Oakleigh Chargers,Midfield,NA
-15,Langdon,Ed,132,27yr,1 Feb 1996,182cm,76kg,Sandringham Dragons,Midfield,NA
-16,Laurie,Bailey,0,20yr 11mth,24 Mar 2002,181cm,77kg,Oakleigh Chargers,Midfield,Forward
-8,Lever,Jake,136,26yr 11mth,5 Mar 1996,195cm,89kg,Calder Cannons,Defender,NA
-1,May,Steven,193,31yr 1mth,10 Jan 1992,193cm,100kg,Southern Districts,Defender,NA
-25,McDonald,Tom,202,30yr 5mth,18 Sep 1992,194cm,99kg,North Ballarat,Forward,NA
-41,McVee,Judd,0,19yr 6mth,7 Aug 2003,183cm,72kg,East Fremantle,Defender,Midfield
-18,Melksham,Jake,208,31yr 5mth,29 Aug 1991,186cm,86kg,Calder Cannons,Forward,NA
-45,Moniz-Wakefield,Andy,0,19yr 4mth,26 Oct 2003,181cm,70kg,NT Thunder,Forward,NA
-30,Neal-Bullen,Alex,128,27yr 1mth,9 Jan 1996,183cm,80kg,Glenelg,Forward,NA
-13,Oliver,Clayton,147,25yr 7mth,22 Jul 1997,187cm,88kg,Murray Bushrangers,Midfield,NA
-5,Petracca,Christian,151,27yr 1mth,4 Jan 1996,186cm,97kg,Eastern Ranges,Midfield,NA
-35,Petty,Harrison,48,23yr 3mth,12 Nov 1999,197cm,90kg,Norwood,Defender,NA
-36,Pickett,Kysaiah,62,21yr 8mth,2 Jun 2001,171cm,72kg,Woodville West Torrens,Forward,NA
-24,Rivers,Trent,52,21yr 6mth,30 Jul 2001,188cm,88kg,East Fremantle,Defender,NA
-3,Salem,Christian,143,27yr 7mth,15 Jul 1995,183cm,84kg,Sandringham Dragons,Defender,NA
-19,Schache,Josh,72,25yr 6mth,21 Aug 1997,201cm,94kg,Murray Bushrangers,Forward,NA
-38,Sestan,Oliver,0,18yr 10mth,15 Apr 2004,186cm,88kg,Mansfield,Forward,NA
-34,Smith,Deakyn,0,20yr 6mth,22 Aug 2002,179cm,65kg,Dandenong Stingrays,Defender,NA
-29,Smith,Joel,28,27yr,25 Feb 1996,191cm,88kg,Geelong Supercats,Defender,NA
-9,Spargo,Charlie,83,23yr 3mth,25 Nov 1999,173cm,74kg,Murray Bushrangers,Forward,NA
-32,Sparrow,Tom,51,22yr 8mth,31 May 2000,183cm,84kg,South Adelaide,Midfield,Forward
-20,Tomlinson,Adam,168,29yr 6mth,10 Aug 1993,194cm,96kg,Oakleigh Chargers,Defender,NA
-42,Turner,Daniel,1,21yr 1mth,28 Jan 2002,192cm,80kg,Murray Bushrangers,Defender,NA
-33,Turner,Kye,0,21yr,6 Feb 2002,193cm,78kg,Frankston,Defender,NA
-2,Van Rooyen,Jacob,0,19yr 10mth,16 Apr 2003,193cm,91kg,Claremont,Forward,NA
-28,Verrall,Will,0,18yr 11mth,11 Mar 2004,199cm,95kg,South Adelaide,Ruck,NA
-7,Viney,Jack,172,28yr 10mth,13 Apr 1994,178cm,86kg,Oakleigh Chargers,Midfield,NA
-40,Woewodin,Taj,0,19yr 11mth,26 Mar 2003,183cm,78kg,East Fremantle,Midfield,Forward
-13,Baker,Oskar,15,24yr 9mth,25 May 1998,184cm,84kg,Aspley,Midfield,NA
-26,Bedendo,Dominic,2,20yr 7mth,9 Jul 2002,191cm,75kg,Murray Bushrangers,Midfield,NA
-4,Bontempelli,Marcus,193,27yr 3mth,24 Nov 1995,193cm,93kg,Northern Knights,Midfield,NA
-17,Bruce,Josh,155,30yr 8mth,8 Jun 1992,198cm,97kg,Canberra,Forward,NA
-5,Busslinger,Jedd,0,18yr 11mth,11 Mar 2004,196cm,83kg,East Perth,Defender,NA
-8,Clarke,Charlie,0,19yr 1mth,4 Jan 2004,183cm,79kg,Sandringham Dragons,Forward,NA
-36,Cleary,Luke,4,20yr 11mth,5 Mar 2002,190cm,80kg,Sandringham Dragons,Defender,NA
-9,Crozier,Hayden,138,29yr 2mth,24 Dec 1993,187cm,81kg,Eastern Ranges,Defender,NA
-31,Dale,Bailey,108,26yr 7mth,22 Jul 1996,187cm,83kg,Dandenong Stingrays,Defender,NA
-35,Daniel,Caleb,153,26yr 7mth,7 Jul 1996,170cm,69kg,South Adelaide,Defender,NA
-10,Darcy,Sam,4,19yr 7mth,19 Jul 2003,204cm,73kg,Oakleigh Chargers,Defender,Forward
-15,Duryea,Taylor,172,31yr 10mth,24 Apr 1991,181cm,79kg,Murray Bushrangers,Defender,NA
-44,English,Timothy,85,25yr 6mth,10 Aug 1997,207cm,103kg,South Fremantle,Ruck,NA
-12,Gallagher,Harvey,0,19yr 5mth,26 Sep 2003,179cm,77kg,Bendigo Pioneers,Defender,Forward
-38,Garcia,Riley,16,22yr,30 Jan 2001,177cm,72kg,Swan Districts,Forward,NA
-43,Gardner,Ryan,43,25yr 8mth,1 Jun 1997,197cm,95kg,Burnie Dockers,Defender,NA
-29,Hannan,Mitchell,74,28yr 11mth,9 Mar 1994,190cm,88kg,Footscray,Defender,NA
-39,Johannisen,Jason,176,30yr 3mth,8 Nov 1992,181cm,81kg,East Fremantle,Forward,NA
-32,Jones,Arthur,0,19yr 7mth,18 Jul 2003,179cm,65kg,Claremont,Forward,NA
-19,Jones,Liam,161,32yr,24 Feb 1991,199cm,97kg,Scotch College,Defender,NA
-42,Keath,Alex,86,31yr 1mth,20 Jan 1992,197cm,99kg,Murray Bushrangers,Defender,NA
-24,Khamis,Buku,9,22yr 11mth,24 Mar 2000,190cm,85kg,Western Jets,Defender,Forward
-21,Liberatore,Thomas,195,30yr 9mth,16 May 1992,184cm,85kg,Calder Cannons,Midfield,NA
-7,Lobb,Rory,140,30yr,9 Feb 1993,207cm,106kg,Swan Districts,Forward,NA
-11,Macrae,Jackson,208,28yr 6mth,3 Aug 1994,192cm,88kg,Oakleigh Chargers,Midfield,NA
-27,McComb,Robbie,15,27yr 2mth,19 Dec 1995,180cm,82kg,Footscray,Midfield,Forward
-16,McLean,Toby,96,27yr,31 Jan 1996,181cm,83kg,Oakleigh Chargers,Midfield,Forward
-30,McNeil,Lachlan,29,21yr 5mth,2 Sep 2001,184cm,78kg,Woodville-west Torrens,Midfield,Forward
-33,Naughton,Aaron,100,23yr 2mth,30 Nov 1999,195cm,93kg,Peel Thunder,Forward,NA
-22,O'Brien,Tim,108,28yr 11mth,28 Mar 1994,193cm,92kg,Glenelg,Defender,NA
-40,Raak,Cody,0,20yr 4mth,8 Oct 2002,192cm,80kg,Western Jets,Defender,Forward
-20,Richards,Ed,85,23yr 7mth,3 Jul 1999,188cm,86kg,Oakleigh Chargers,Defender,NA
-28,Scott,Anthony,35,28yr,28 Feb 1995,180cm,77kg,Footscray,Midfield,NA
-6,Smith,Bailey,84,22yr 2mth,7 Dec 2000,185cm,86kg,Sandringham Dragons,Midfield,NA
-37,Smith,Roarke,47,26yr 5mth,11 Sep 1996,184cm,82kg,Calder Cannons,Midfield,NA
-41,Sweet,Jordon,11,25yr,2 Feb 1998,205cm,103kg,North Adelaide,Ruck,NA
-1,Treloar,Adam,212,29yr 11mth,9 Mar 1993,184cm,89kg,Aspendale,Midfield,NA
-2,Ugle-Hagan,Jamarra,22,20yr 10mth,4 Apr 2002,197cm,91kg,Oakleigh Chargers,Forward,NA
-23,Vandermeer,Laitham,33,24yr,3 Feb 1999,181cm,79kg,Murray Bushrangers,Forward,NA
-3,Weightman,Cody,40,22yr 1mth,15 Jan 2001,178cm,74kg,Dandenong Stingrays,Forward,NA
-14,West,Rhylee,25,22yr 7mth,12 Jul 2000,182cm,81kg,Calder Cannons,Forward,NA
-34,Williams,Bailey,104,25yr 4mth,10 Oct 1997,189cm,86kg,Glenelg,Defender,Midfield
-13,Acres,Blake,120,27yr 4mth,7 Oct 1995,189cm,91kg,West Perth,Midfield,NA
-41,Akuei,Domanic,0,20yr 9mth,12 May 2002,194cm,76kg,Carlton Academy,Defender,Ruck
-32,Binns,Jaxon,0,18yr 3mth,29 Oct 2004,182cm,71kg,Dandenong Stingrays,Midfield,Forward
-37,Boyd,Jordan,7,24yr 5mth,22 Sep 1998,182cm,81kg,Footscray,Defender,NA
-16,Carroll,Jack,5,20yr 2mth,20 Dec 2002,188cm,81kg,East Fremantle,Forward,NA
-5,Cerra,Adam,94,23yr 4mth,7 Oct 1999,187cm,86kg,Eastern Ranges,Midfield,NA
-0,Cincotta,Alex,0,26yr 2mth,17 Dec 1996,186cm,86kg,Newtown,Defender,Midfield
-46,Cottrell,Matt,37,22yr 11mth,29 Feb 2000,185cm,80kg,Dandenong Stingrays,Midfield,Forward
-26,Cowan,Lachlan,0,18yr 2mth,1 Dec 2004,187cm,81kg,Tasmania Devils,Defender,NA
-9,Cripps,Patrick,159,27yr 11mth,18 Mar 1995,195cm,95kg,East Fremantle,Midfield,NA
-28,Cuningham,David,41,25yr 10mth,30 Mar 1997,186cm,84kg,Oakleigh Chargers,Midfield,Forward
-30,Curnow,Charlie,84,26yr,3 Feb 1997,192cm,94kg,Geelong Falcons,Forward,NA
-35,Curnow,Edward,204,33yr 3mth,7 Nov 1989,179cm,86kg,Geelong Falcons,Midfield,NA
-12,De Koning,Tom,41,23yr 7mth,16 Jul 1999,203cm,100kg,Dandenong Stingrays,Ruck,NA
-15,Docherty,Sam,144,29yr 4mth,17 Oct 1993,185cm,85kg,Gippsland Power,Defender,NA
-2,Dow,Paddy,63,23yr 4mth,16 Oct 1999,187cm,83kg,Bendigo Pioneers,Midfield,NA
-19,Durdin,Corey,23,20yr 10mth,14 Apr 2002,173cm,77kg,Central Districts,Forward,NA
-38,Durdin,Sam,23,26yr 8mth,6 Jun 1996,198cm,97kg,West Adelaide,Defender,NA
-25,Fisher,Zac,95,24yr 8mth,15 Jun 1998,179cm,76kg,Perth,Forward,NA
-8,Fogarty,Lachlan,43,23yr 10mth,1 Apr 1999,180cm,78kg,Western Jets,Midfield,Forward
-29,Hewett,George,135,27yr 1mth,29 Dec 1995,187cm,84kg,North Adelaide,Midfield,NA
-14,Hollands,Oliver,0,19yr 1mth,16 Jan 2004,183cm,71kg,Murray Bushrangers,Midfield,NA
-36,Honey,Josh,11,21yr 4mth,17 Oct 2001,186cm,84kg,Western Jets,Forward,NA
-17,Kemp,Brodie,6,21yr 9mth,1 May 2001,193cm,81kg,Bendigo Pioneers,Defender,Forward
-7,Kennedy,Matthew,78,25yr 10mth,6 Apr 1997,190cm,90kg,Collingullie Ashmont Kapooka,Midfield,NA
-31,Lemmey,Harry,0,19yr,30 Jan 2004,200cm,95kg,West Adelaide,Forward,NA
-22,Marchbank,Caleb,52,26yr 2mth,7 Dec 1996,193cm,94kg,Murray Bushrangers,Defender,NA
-21,Martin,Jack,135,28yr,29 Jan 1995,186cm,80kg,Geraldton,Forward,NA
-11,McGovern,Mitch,88,28yr 4mth,11 Oct 1994,191cm,89kg,Claremont,Defender,NA
-10,McKay,Harry,86,25yr 2mth,24 Dec 1997,204cm,105kg,Gippsland Power,Forward,NA
-45,Mirkov,Alex,0,23yr 3mth,17 Nov 1999,210cm,104kg,Carlton,Ruck,NA
-3,Motlop,Jesse,12,19yr 3mth,23 Nov 2003,179cm,80kg,South Fremantle,Forward,NA
-24,Newman,Nic,86,30yr 1mth,15 Jan 1993,187cm,83kg,Frankston,Defender,NA
-4,O'Brien,Lochie,60,23yr 5mth,18 Sep 1999,185cm,82kg,Bendigo Pioneers,Midfield,NA
-0,O'Keeffe,Hudson,0,18yr 2mth,16 Dec 2004,202cm,90kg,Oakleigh Chargers,Ruck,NA
-44,Owies,Matt,31,25yr 11mth,19 Mar 1997,180cm,81kg,St Kevins,Forward,NA
-34,Philp,Sam,2,21yr 6mth,4 Aug 2001,186cm,80kg,Northern Knights,Forward,NA
-27,Pittonet,Marc,41,26yr 8mth,3 Jun 1996,202cm,102kg,Oakleigh Chargers,Ruck,NA
-20,Plowman,Lachlan,144,28yr 5mth,11 Sep 1994,193cm,86kg,Calder Cannons,Defender,NA
-42,Saad,Adam,152,28yr 7mth,23 Jul 1994,178cm,76kg,Coburg,Defender,NA
-1,Silvagni,Jack,99,25yr 2mth,17 Dec 1997,194cm,91kg,Oakleigh Chargers,Forward,NA
-18,Walsh,Sam,81,22yr 7mth,2 Jul 2000,184cm,83kg,Geelong Falcons,Midfield,NA
-23,Weitering,Jacob,133,25yr 3mth,23 Nov 1997,196cm,101kg,Mount Eliza Football Club,Defender,NA
-6,Williams,Zachary,136,28yr 5mth,20 Sep 1994,185cm,86kg,Narrandera,Defender,NA
-33,Young,Lewis,43,24yr 2mth,20 Dec 1998,201cm,100kg,Sturt,Defender,NA
-27,Adams,Oscar,0,19yr 7mth,23 Jul 2003,197cm,85kg,Glenelg,Defender,NA
-30,Allison,Matthew,0,21yr,29 Jan 2002,195cm,79kg,Calder Cannons,Defender,Forward
-26,Battle,Josh,77,24yr 5mth,1 Sep 1998,193cm,92kg,Dandenong Stingrays,Defender,NA
-15,Billings,Jack,152,27yr 6mth,18 Aug 1995,185cm,82kg,Oakleigh Chargers,Midfield,NA
-16,Butler,Daniel,105,26yr 8mth,3 Jun 1996,182cm,80kg,North Ballarat Rebels,Forward,NA
-13,Byrnes,Ryan,28,21yr 9mth,3 May 2001,180cm,81kg,Sandringham Dragons,Midfield,Forward
-23,Bytel,Jack,16,22yr 11mth,14 Mar 2000,189cm,84kg,Calder Cannons,Midfield,NA
-47,Caminiti,Anthony,0,19yr 2mth,9 Dec 2003,196cm,83kg,Northern Knights,Forward,NA
-38,Campbell,Tom,56,31yr 3mth,2 Nov 1991,201cm,105kg,Bendigo Bombers,Forward,Ruck
-11,Clark,Hunter,68,23yr 11mth,26 Mar 1999,186cm,83kg,Dandenong Stingrays,Defender,NA
-1,Coffield,Nicholas,52,23yr 4mth,23 Oct 1999,191cm,88kg,Northern Knights,Defender,NA
-37,Connolly,Leo,7,21yr 6mth,7 Aug 2001,181cm,78kg,Gippsland Power,Defender,NA
-21,Cordy,Zaine,118,26yr 4mth,27 Oct 1996,195cm,92kg,Geelong Falcons,Defender,NA
-5,Crouch,Brad,136,29yr 1mth,14 Jan 1994,186cm,85kg,North Ballarat Rebels,Midfield,NA
-4,Gresham,Jade,113,25yr 6mth,24 Aug 1997,177cm,80kg,Northern Knights,Midfield,Forward
-18,Hayes,Jack,5,25yr 11mth,6 Mar 1997,193cm,91kg,Woodville-West Torrens,Forward,NA
-42,Heath,Max,0,20yr 4mth,24 Oct 2002,204cm,93kg,Sandringham Dragons,Forward,Ruck
-22,Higgins,Jack,80,23yr 11mth,19 Mar 1999,178cm,79kg,Oakleigh Chargers,Forward,NA
-34,Highmore,Tom,16,25yr,24 Feb 1998,193cm,89kg,South Adelaide,Defender,NA
-8,Hill,Bradley,211,29yr 7mth,9 Jul 1993,182cm,80kg,West Perth,Defender,Forward
-39,Hotton,Olli,0,18yr 5mth,6 Sep 2004,182cm,79kg,Sandringham Dragons,Midfield,Forward
-20,Howard,Dougal,102,26yr 11mth,25 Mar 1996,199cm,97kg,Murray Bushrangers,Defender,NA
-3,Jones,Zak,132,27yr 11mth,15 Mar 1995,182cm,80kg,Dandenong Stingrays,Midfield,NA
-40,Keeler,Isaac,0,18yr 10mth,23 Apr 2004,198cm,89kg,North Adelaide,Forward,Ruck
-12,King,Max,60,22yr 7mth,7 Jul 2000,202cm,97kg,Sandringham Dragons,Forward,NA
-19,Marshall,Rowan,86,27yr 3mth,24 Nov 1995,201cm,105kg,North Ballarat,Ruck,NA
-36,McKenzie,Daniel,73,26yr 9mth,17 May 1996,184cm,83kg,Oakleigh Chargers,Midfield,NA
-41,McLennan,Angus,,,,,,,,NA
-28,Membrey,Tim,153,28yr 9mth,26 May 1994,188cm,88kg,Gippsland Power,Forward,NA
-10,Owens,Mitchito,7,19yr 5mth,24 Sep 2003,190cm,85kg,Sandringham Dragons,Forward,NA
-33,Paton,Ben,55,24yr 4mth,19 Oct 1998,186cm,83kg,Murray Bushrangers,Defender,NA
-45,Peris,Jack,0,19yr 2mth,17 Dec 2003,176cm,69kg,Sandringham Dragons,Midfield,Forward
-25,Phillipou,Mattaes,0,18yr 2mth,27 Dec 2004,190cm,89kg,Eagles,Midfield,Forward
-6,Ross,Sebastian,181,29yr 9mth,7 May 1993,187cm,86kg,North Ballarat Rebels,Midfield,NA
-43,Sharman,Cooper,15,22yr 7mth,25 Jul 2000,193cm,83kg,Woodville-West Torrens,Defender,Forward
-35,Sinclair,Jack,141,28yr,12 Feb 1995,181cm,82kg,Oakleigh Chargers,Defender,NA
-9,Steele,Jack,137,27yr 2mth,13 Dec 1995,187cm,91kg,Belconnen,Midfield,NA
-14,Stocker,Liam,28,23yr 1mth,23 Jan 2000,184cm,85kg,Sandringham Dragons,Defender,NA
-31,Van Es,James,0,18yr 6mth,7 Aug 2004,197cm,98kg,Greater Western Victoria Rebels,Defender,NA
-7,Wanganeen-Milera,Nasiah,17,20yr,22 Feb 2003,187cm,71kg,Glenelg,Midfield,NA
-29,Webster,Jimmy,133,29yr 8mth,28 Jun 1993,188cm,84kg,Glenorchy,Defender,NA
-44,Wilkie,Callum,85,26yr 11mth,10 Mar 1996,191cm,88kg,North Adelaide,Defender,NA
-17,Windhager,Marcus,18,19yr 9mth,16 May 2003,185cm,85kg,Sandringham Dragons,Midfield,Forward
-32,Wood,Mason,93,29yr 5mth,13 Sep 1993,192cm,87kg,Geelong Falcons,Midfield,NA
-13,Adams,Taylor,183,29yr 5mth,20 Sep 1993,181cm,84kg,Geelong Falcons,Midfield,NA
-16,Allan,Edward,0,18yr 9mth,26 May 2004,194cm,83kg,Claremont,Midfield,NA
-39,Begg,Aiden,3,20yr 4mth,8 Oct 2002,197cm,87kg,Eastern Ranges,Forward,Ruck
-8,Bianco,Trent,22,22yr 1mth,20 Jan 2001,188cm,73kg,Oakleigh Chargers,Midfield,Forward
-14,Cameron,Darcy,53,27yr 7mth,18 Jul 1995,204cm,101kg,Claremont,Forward,Ruck
-45,Carmichael,Josh,7,23yr 1mth,1 Jan 2000,189cm,88kg,West Adelaide,Midfield,Forward
-46,Cox,Mason,94,31yr 11mth,14 Mar 1991,211cm,109kg,Oklahoma State,Forward,Ruck
-25,Crisp,Jack,200,29yr 4mth,2 Oct 1993,190cm,90kg,Murray Bushrangers,Midfield,NA
-7,Daicos,Josh,77,24yr 3mth,26 Nov 1998,178cm,77kg,Oakleigh Chargers,Midfield,NA
-35,Daicos,Nick,25,20yr 1mth,3 Jan 2003,182cm,73kg,Oakleigh Chargers,Defender,NA
-2,De Goey,Jordan,137,26yr 11mth,15 Mar 1996,188cm,92kg,Oakleigh Chargers,Midfield,NA
-43,Dean,Charlie,0,21yr 8mth,19 Jun 2001,195cm,86kg,Williamstown VFL,Defender,NA
-19,Draper,Arlo,0,20yr,30 Jan 2003,186cm,75kg,South Adelaide,Defender,NA
-5,Elliott,Jamie,155,30yr 6mth,21 Aug 1992,178cm,79kg,Murray Bushrangers,Forward,NA
-17,Frampton,Billy,24,26yr 3mth,20 Nov 1996,202cm,97kg,South Fremantle,Defender,NA
-33,Ginnivan,Jack,28,20yr 2mth,9 Dec 2002,184cm,78kg,Bendigo Pioneers,Forward,NA
-36,Harrison,Harvey,0,19yr 4mth,11 Oct 2003,178cm,70kg,North Adelaide,Forward,NA
-23,Hill,Bobby,41,23yr,9 Feb 2000,175cm,73kg,Perth,Forward,NA
-32,Hoskin-Elliott,Will,181,29yr 5mth,2 Sep 1993,186cm,81kg,Western Jets,Forward,NA
-38,Howe,Jeremy,219,32yr 7mth,29 Jun 1990,190cm,85kg,Hobart,Defender,NA
-40,Johnson,Ash,9,25yr 4mth,6 Oct 1997,193cm,85kg,Sturt,Forward,NA
-20,Kelly,Will,3,22yr 6mth,16 Aug 2000,194cm,93kg,Oakleigh Chargers,Defender,NA
-15,Kreuger,Nathan,7,23yr 8mth,25 Jun 1999,196cm,88kg,South Adelaide,Forward,NA
-1,Lipinski,Patrick,81,24yr 7mth,17 Jul 1998,187cm,84kg,Northern Knights,Midfield,Forward
-18,Macrae,Finlay,11,20yr 11mth,13 Mar 2002,187cm,81kg,Oakleigh Chargers,Midfield,Forward
-37,Markov,Oleg,51,26yr 9mth,8 May 1996,188cm,85kg,North Adelaide,Defender,NA
-4,Maynard,Brayden,161,26yr 5mth,20 Sep 1996,189cm,93kg,Sandringham Dragons,Defender,NA
-31,McCreery,Beau,35,21yr 10mth,19 Apr 2001,186cm,83kg,South Adelaide,Forward,NA
-26,McInnes,Reef,6,20yr 2mth,12 Dec 2002,193cm,85kg,Oakleigh Chargers,Forward,NA
-11,McStay,Daniel,161,27yr 8mth,24 Jun 1995,195cm,97kg,Eastern Ranges,Forward,NA
-41,Mihocek,Brody,102,30yr,4 Feb 1993,192cm,97kg,Port Melbourne,Forward,NA
-6,Mitchell,Tom,171,29yr 8mth,31 May 1993,182cm,83kg,Claremont,Midfield,NA
-30,Moore,Darcy,126,27yr 1mth,25 Jan 1996,203cm,100kg,Oakleigh Chargers,Defender,NA
-27,Murley,Cooper,0,19yr 8mth,20 Jun 2003,178cm,70kg,Norwood,Midfield,Forward
-28,Murphy,Nathan,33,23yr 2mth,15 Dec 1999,192cm,89kg,Sandringham Dragons,Defender,NA
-9,Noble,John,69,25yr 11mth,25 Mar 1997,180cm,73kg,West Adelaide,Defender,NA
-10,Pendlebury,Scott,358,35yr 1mth,7 Jan 1988,191cm,90kg,Gippsland Power,Midfield,NA
-3,Quaynor,Isaac,59,23yr 1mth,15 Jan 2000,180cm,84kg,Oakleigh Chargers,Defender,NA
-29,Richards,Joe,0,23yr 3mth,23 Nov 1999,177cm,71kg,Wangaratta Football & Netball Club Inc,Midfield,Forward
-21,Ruscoe,Trey,17,21yr 3mth,3 Nov 2001,193cm,92kg,East Fremantle,Defender,NA
-24,Ryan,Jakob,0,18yr 5mth,20 Sep 2004,189cm,79kg,Glenelg,Defender,NA
-22,Sidebottom,Steele,289,32yr 1mth,2 Jan 1991,184cm,84kg,Murray Bushrangers,Midfield,NA
-44,Steene,Oscar,0,19yr 6mth,23 Aug 2003,201cm,85kg,West Adelaide,Ruck,NA
-12,Wilson,Tom,7,25yr 8mth,24 Jun 1997,194cm,86kg,Vic Metro,Defender,Forward
-30,Atkins,Tom,82,27yr 5mth,18 Sep 1995,180cm,85kg,Geelong,Defender,Midfield
-24,Bews,Jed,151,29yr 2mth,14 Dec 1993,186cm,91kg,Geelong Falcons,Defender,NA
-46,Blicavs,Mark,227,31yr 11mth,28 Mar 1991,198cm,102kg,Geelong Vfl,Midfield,Ruck
-12,Bowes,Jack,83,25yr 1mth,26 Jan 1998,187cm,88kg,Cairns,Defender,NA
-4,Bruhn,Tanner,30,20yr 9mth,27 May 2002,183cm,77kg,Geelong Falcons,Midfield,Forward
-5,Cameron,Jeremy,210,29yr 10mth,1 Apr 1993,196cm,96kg,Dartmore,Forward,NA
-15,Ceglar,Jonathon,104,32yr,14 Feb 1991,204cm,102kg,Murray Bushrangers,Ruck,NA
-13,Clark,Jhye,0,18yr 7mth,23 Jul 2004,181cm,77kg,Geelong Falcons,Midfield,NA
-40,Clohesy,Ted,0,18yr 8mth,9 Jun 2004,184cm,76kg,Mayo,Midfield,NA
-45,Close,Bradley,55,24yr 6mth,30 Jul 1998,181cm,71kg,Glenelg,Forward,NA
-6,Conway,Toby,0,19yr 10mth,24 Apr 2003,205cm,97kg,Geelong Falcons,Ruck,NA
-35,Dangerfield,Patrick,303,32yr 10mth,5 Apr 1990,189cm,92kg,Geelong Falcons,Midfield,NA
-16,De Koning,Sam,24,22yr,26 Feb 2001,202cm,87kg,Dandenong Stingrays,Defender,NA
-28,Dempsey,Ollie,2,20yr 1mth,7 Jan 2003,185cm,70kg,Carey Grammar,Forward,NA
-22,Duncan,Mitchell,258,31yr 8mth,10 Jun 1991,188cm,88kg,East Perth,Defender,NA
-19,Foster,Phoenix,0,18yr 5mth,12 Sep 2004,198cm,90kg,Norwood,Forward,Ruck
-29,Guthrie,Cameron,230,30yr 6mth,19 Aug 1992,187cm,87kg,Calder Cannons,Midfield,NA
-39,Guthrie,Zach,54,24yr 7mth,30 Jun 1998,187cm,82kg,Calder Cannons,Defender,NA
-26,Hawkins,Tom,327,34yr 7mth,21 Jul 1988,198cm,102kg,Melbourne Grammar,Forward,NA
-38,Henry,Jack,107,24yr 5mth,29 Aug 1998,192cm,91kg,Geelong Falcons,Defender,NA
-36,Henry,Oliver,25,20yr 6mth,29 Jul 2002,189cm,80kg,Geelong Falcons,Forward,NA
-9,Holmes,Max,30,20yr 5mth,29 Aug 2002,189cm,74kg,Sandringham Dragons,Midfield,NA
-10,Knevitt,Mitchell,2,20yr 1mth,8 Jan 2003,193cm,81kg,Geelong Falcons,Midfield,NA
-8,Kolodjashnij,Jake,155,27yr 6mth,9 Aug 1995,193cm,94kg,Launceston,Defender,NA
-25,Kroeger,Flynn,0,19yr 7mth,23 Jul 2003,183cm,85kg,Eastern Ranges,Midfield,NA
-27,Menegola,Sam,116,30yr 11mth,7 Mar 1992,189cm,89kg,Subiaco,Midfield,NA
-32,Miers,Gryan,83,23yr 10mth,30 Mar 1999,179cm,81kg,Geelong Falcons,Forward,NA
-34,Mullin,Oisin,0,23yr,11 Feb 2000,178cm,75kg,Mayo,Defender,NA
-31,Murdoch,Oscar,0,18yr 5mth,24 Sep 2004,190cm,91kg,Geelong Falcons,Defender,NA
-33,Neale,Shannon,2,20yr 7mth,25 Jul 2002,202cm,92kg,South Fremantle,Forward,NA
-42,O'Connor,Mark,87,26yr 1mth,17 Jan 1997,191cm,88kg,Ireland,Defender,NA
-3,Parfitt,Brandan,112,24yr 10mth,27 Apr 1998,180cm,79kg,Nt Thunder,Midfield,NA
-17,Ratugolea,Esava,59,24yr 7mth,24 Jul 1998,198cm,104kg,Murray Bushrangers,Forward,Ruck
-21,Riccardi,Osca,0,18yr 6mth,23 Aug 2004,177cm,65kg,Geelong Falcons,Defender,Forward
-23,Rohan,Gary,177,31yr 8mth,7 Jun 1991,189cm,95kg,Geelong Falcons,Forward,NA
-37,Simpson,Sam,19,24yr 8mth,14 Jun 1998,183cm,77kg,Geelong Falcons,Midfield,Forward
-7,Smith,Isaac,258,34yr 1mth,30 Dec 1988,188cm,83kg,North Ballarat,Midfield,Forward
-1,Stanley,Rhys,183,32yr 2mth,1 Dec 1990,200cm,102kg,West Adelaide,Ruck,NA
-18,Stengle,Tyson,41,24yr 4mth,19 Oct 1998,172cm,73kg,Woodville West Torrens,Forward,NA
-44,Stewart,Thomas,126,29yr 11mth,15 Mar 1993,190cm,85kg,Geelong Vfl,Defender,NA
-2,Tuohy,Zach,250,33yr 2mth,10 Dec 1989,187cm,91kg,"County Laois, Ireland",Defender,Midfield
-11,Whyte,Cooper,0,20yr,24 Feb 2003,181cm,79kg,Geelong Falcons,Midfield,Forward
-20,Willis,James,0,19yr 7mth,10 Jul 2003,181cm,76kg,North Adelaide,Midfield,Forward
-26,Baldwin,Kaine,4,20yr 8mth,30 May 2002,193cm,89kg,Glenelg,Forward,NA
-24,Bryan,Nick,6,21yr 4mth,22 Oct 2001,203cm,97kg,Oakleigh Chargers,Forward,Ruck
-6,Caldwell,Jye,34,22yr 5mth,28 Sep 2000,183cm,83kg,Bendigo Pioneers,Midfield,NA
-13,Cox,Nikolas,27,21yr 1mth,15 Jan 2002,200cm,87kg,Northern Knights,Midfield,NA
-42,D'Ambrosio,Massimo,8,19yr 8mth,5 Jun 2003,178cm,80kg,Western Jets,Defender,NA
-33,Davey,Alwyn,0,19yr,26 Feb 2004,180cm,76kg,Oakleigh Chargers,Midfield,Forward
-36,Davey,Jayden,0,19yr,26 Feb 2004,180cm,78kg,Oakleigh Chargers,Forward,NA
-2,Draper,Sam,43,24yr 5mth,28 Sep 1998,205cm,105kg,South Adelaide,Ruck,NA
-22,Durham,Sam,27,21yr 7mth,9 Jul 2001,185cm,75kg,Richmond,Midfield,NA
-35,Guelfi,Matt,83,25yr 6mth,14 Aug 1997,184cm,84kg,Claremont,Forward,NA
-18,Hayes,Lewis,0,18yr 2mth,17 Dec 2004,199cm,84kg,Eastern Ranges,Defender,NA
-21,Heppell,Dyson,213,30yr 9mth,14 May 1992,189cm,87kg,Gippsland Power,Defender,Midfield
-19,Hind,Nick,64,28yr 6mth,19 Aug 1994,180cm,75kg,Essendon Vfl,Defender,NA
-8,Hobbs,Ben,17,19yr 5mth,16 Sep 2003,183cm,79kg,GWV Rebels,Forward,NA
-23,Jones,Harrison,26,22yr,25 Feb 2001,196cm,78kg,Calder Cannons,Forward,NA
-29,Kelly,Jake,131,28yr 1mth,21 Jan 1995,190cm,89kg,Oakleigh Chargers,Defender,NA
-4,Langford,Kyle,107,26yr 2mth,1 Dec 1996,192cm,88kg,Northern Knights,Midfield,Forward
-15,Laverde,Jayden,91,26yr 10mth,12 Apr 1996,193cm,91kg,Western Jets,Defender,NA
-28,Lord,Alastair,1,19yr 3mth,26 Nov 2003,180cm,76kg,Norwood,Defender,NA
-37,Martin,Nicholas,21,21yr 11mth,4 Mar 2001,190cm,86kg,Colts,Midfield,Forward
-41,McBride,Cian,0,21yr 10mth,19 Apr 2001,197cm,89kg,Ireland,Defender,Ruck
-43,McDonald-Tipungwuti,Anthony,126,29yr 10mth,22 Apr 1993,171cm,78kg,Gippsland Power,Forward,NA
-1,McGrath,Andrew,111,24yr 8mth,2 Jun 1998,180cm,83kg,Sandringham Dragons,Defender,Midfield
-47,Menzie,Jye,2,20yr 4mth,28 Oct 2002,181cm,79kg,South Adelaide,Forward,NA
-7,Merrett,Zachary,184,27yr 4mth,3 Oct 1995,179cm,83kg,Sandringham Dragons,Midfield,NA
-38,Montgomerie,Rhett,0,22yr 8mth,10 Jun 2000,190cm,83kg,SANFL CD,Defender,NA
-45,Munkara,Anthony,0,18yr 4mth,3 Oct 2004,187cm,81kg,West Adelaide,Forward,NA
-3,Parish,Darcy,132,25yr 7mth,25 Jul 1997,180cm,80kg,Geelong Falcons,Midfield,NA
-16,Perkins,Archie,39,20yr 11mth,26 Mar 2002,188cm,80kg,Sandringham Dragons,Forward,NA
-34,Phillips,Andrew,62,31yr 7mth,3 Jul 1991,201cm,100kg,Lauderdale,Ruck,NA
-27,Redman,Mason,80,25yr 6mth,26 Aug 1997,187cm,86kg,Glenelg,Defender,NA
-31,Reid,Zach,8,20yr 11mth,2 Mar 2002,202cm,84kg,Gippsland Power,Defender,NA
-14,Ridley,Jordan,68,24yr 4mth,20 Oct 1998,195cm,93kg,Oakleigh Chargers,Defender,NA
-12,Setterfield,Will,57,25yr,5 Feb 1998,192cm,86kg,Sandringham Dragons,Midfield,NA
-9,Shiel,Dylan,199,29yr 11mth,9 Mar 1993,182cm,84kg,Aspendale,Midfield,NA
-11,Snelling,Will,50,25yr 6mth,6 Aug 1997,175cm,76kg,West Adelaide,Forward,NA
-17,Stewart,James,78,28yr 11mth,4 Mar 1994,199cm,99kg,Sandringham Dragons,Defender,NA
-25,Stringer,Jake,172,28yr 10mth,25 Apr 1994,192cm,91kg,Bendigo Pioneers,Forward,NA
-5,Tsatas,Elijah,0,18yr 4mth,18 Oct 2004,187cm,80kg,Oakleigh Chargers,Midfield,NA
-39,Voss,Patrick,0,19yr 7mth,29 Jun 2003,194cm,84kg,Giants Academy,Forward,NA
-40,Wanganeen,Tex,5,19yr 4mth,10 Oct 2003,175cm,72kg,Oakleigh Chargers,Forward,NA
-10,Weideman,Sam,59,25yr 8mth,26 Jun 1997,195cm,94kg,Eastern Ranges,Forward,NA
-20,Wright,Peter,109,26yr 5mth,8 Sep 1996,203cm,100kg,Calder Cannons,Forward,NA
-30,Zerk-Thatcher,Brandon,29,24yr 6mth,25 Aug 1998,195cm,89kg,Sturt,Defender,NA
-21,Aleer,Leek,4,21yr 6mth,21 Aug 2001,195cm,81kg,Central District,Defender,NA
-9,Angwin,Ryan,1,20yr 2mth,12 Dec 2002,185cm,74kg,Gippsland Power,Midfield,Forward
-7,Ash,Lachlan,56,21yr 8mth,21 Jun 2001,186cm,82kg,Murray Bushrangers,Midfield,NA
-14,Bedford,Toby,18,22yr 9mth,27 May 2000,179cm,71kg,Dandenong Stingrays,Forward,NA
-32,Briggs,Kieren,9,23yr 4mth,6 Oct 1999,200cm,107kg,Pennant Hills,Ruck,NA
-46,Brown,Callum,10,22yr 6mth,15 Aug 2000,188cm,92kg,County Derry,Defender,NA
-44,Buckley,Jack,17,25yr 2mth,17 Dec 1997,194cm,90kg,Swans Academy,Defender,NA
-5,Cadman,Aaron,0,18yr 11mth,3 Mar 2004,195cm,92kg,Greater Western Victoria Rebels,Forward,NA
-17,Callaghan,Finn,5,19yr 10mth,26 Apr 2003,189cm,82kg,Sandringham Dragons,Midfield,NA
-3,Coniglio,Stephen,177,29yr 2mth,15 Dec 1993,182cm,86kg,Swan Districts,Midfield,Forward
-13,Cumming,Isaac,55,24yr 6mth,11 Aug 1998,185cm,84kg,Broken Hill,Defender,NA
-16,Daniels,Brent,62,23yr 11mth,9 Mar 1999,171cm,76kg,Bendigo Pioneers,Forward,NA
-1,Davis,Phil,192,32yr 5mth,30 Aug 1990,197cm,94kg,North Adelaide,Defender,NA
-45,Derksen,Wade,0,21yr 8mth,18 Jun 2001,197cm,90kg,Peel Thunder,Forward,NA
-34,Fahey,Josh,0,19yr 3mth,11 Nov 2003,186cm,76kg,GWS Academy,Defender,Midfield
-29,Fleeton,Cameron,0,20yr 8mth,17 Jun 2002,191cm,82kg,Geelong Falcons,Defender,NA
-30,Flynn,Matthew,24,25yr 5mth,13 Sep 1997,201cm,104kg,Narrandera,Ruck,NA
-42,Gillbee,Jason,0,18yr 9mth,15 May 2004,191cm,76kg,Bendigo Pioneers,Defender,Midfield
-12,Green,Tom,45,22yr 1mth,23 Jan 2001,191cm,92kg,GWS Giants Academy,Midfield,NA
-4,Greene,Toby,191,29yr 5mth,25 Sep 1993,182cm,84kg,Oakleigh Chargers,Forward,NA
-35,Gruzewski,Max,0,18yr 7mth,21 Jul 2004,193cm,85kg,Oakleigh Chargers,Defender,NA
-43,Hamilton,Cooper,4,19yr 5mth,24 Sep 2003,184cm,83kg,Bendigo Pioneers,Defender,NA
-19,Haynes,Nick,183,30yr 9mth,18 May 1992,193cm,90kg,Dandenong Stingrays,Defender,NA
-27,Himmelberg,Harrison,127,26yr 9mth,8 May 1996,195cm,95kg,Mangoplah Cookardinia United Eastlakes,Defender,Forward
-23,Hogan,Jesse,117,28yr,12 Feb 1995,195cm,102kg,Claremont,Forward,NA
-39,Idun,Connor,42,22yr 6mth,29 Jul 2000,191cm,88kg,Geelong Falcons,Defender,NA
-2,Jones,Darcy,0,18yr 10mth,3 Apr 2004,175cm,64kg,Swan Districts,Midfield,NA
-25,Keeffe,Lachlan,97,32yr 10mth,14 Apr 1990,204cm,104kg,Queensland Under 18s,Defender,NA
-22,Kelly,Joshua,176,28yr,12 Feb 1995,184cm,83kg,Sandringham Dragons,Midfield,NA
-40,Kennedy,Adam,148,30yr 7mth,12 Jul 1992,184cm,80kg,Western Jets,Defender,NA
-38,Lloyd,Daniel,78,31yr,18 Feb 1992,187cm,85kg,Killarney Vale,Forward,NA
-41,Madden,Nick,0,18yr 9mth,17 May 2004,204cm,112kg,Greater Western Sydney,Forward,Ruck
-31,McMullin,Toby,0,18yr 6mth,6 Aug 2004,183cm,82kg,Sandringham Dragons,Forward,NA
-33,O'Halloran,Xavier,33,22yr 7mth,11 Jul 2000,186cm,86kg,Western Jets,Midfield,NA
-20,Peatling,James,16,22yr 6mth,21 Aug 2000,182cm,73kg,GWS Giants,Forward,NA
-36,Perryman,Harry,86,24yr 2mth,19 Dec 1998,186cm,84kg,Collingullie,Midfield,NA
-11,Preuss,Braydon,28,27yr 8mth,16 Jun 1995,206cm,113kg,Surfers Paradise,Ruck,NA
-26,Riccardi,Jake,29,23yr 3mth,7 Nov 1999,195cm,93kg,Werribee,Forward,NA
-24,Rowston,Harry,0,18yr 6mth,12 Aug 2004,182cm,81kg,Griffith Swans FNC,Midfield,NA
-18,Stone,Conor,6,20yr 10mth,22 Apr 2002,188cm,85kg,Oakleigh Chargers,Forward,NA
-15,Taylor,Sam,75,23yr 9mth,5 May 1999,196cm,96kg,Swan Districts,Defender,NA
-8,Ward,Callan,270,32yr 10mth,10 Apr 1990,187cm,83kg,Western Jets,Midfield,NA
-10,Wehr,Jacob,10,24yr 7mth,5 Jul 1998,184cm,70kg,Woodville-west Torrens,Midfield,NA
-6,Whitfield,Lachie,185,28yr 7mth,18 Jul 1994,185cm,83kg,Dandenong Stingrays,Midfield,NA
-36,Amartey,Joel,13,23yr 5mth,2 Sep 1999,197cm,98kg,Sandringham Dragons,Forward,NA
-22,Blakey,Nick,78,23yr,27 Feb 2000,195cm,83kg,Unsw,Defender,NA
-16,Campbell,Braeden,25,21yr,4 Feb 2002,181cm,75kg,Sydney Academy,Defender,NA
-4,Clarke,Ryan,81,25yr 8mth,17 Jun 1997,186cm,85kg,Eastern Ranges,Forward,NA
-7,Cunningham,Harry,161,29yr 2mth,6 Dec 1993,181cm,78kg,Turvey Park,Defender,NA
-28,Edwards,Will,0,19yr 9mth,8 May 2003,197cm,100kg,Sydney,Defender,NA
-13,Florent,Oliver,118,24yr 7mth,22 Jul 1998,184cm,82kg,Sandringham Dragons,Defender,NA
-42,Fox,Robbie,67,29yr 10mth,16 Apr 1993,185cm,85kg,Coburg,Defender,NA
-10,Francis,Aaron,54,25yr 6mth,10 Aug 1997,193cm,92kg,West Adelaide,Defender,Forward
-23,Franklin,Lance,341,36yr,30 Jan 1987,199cm,107kg,Perth,Forward,NA
-17,Gould,Will,0,22yr 1mth,14 Jan 2001,191cm,100kg,Glenelg,Defender,NA
-21,Gulden,Errol,43,20yr 7mth,18 Jul 2002,176cm,76kg,Sydney Academy,Midfield,Forward
-45,Hall-Kahan,Hugo,0,19yr 5mth,22 Sep 2003,188cm,80kg,Sandringham Dragons,Forward,NA
-9,Hayward,Will,114,24yr 4mth,26 Oct 1998,186cm,84kg,North Adelaide,Forward,NA
-5,Heeney,Isaac,154,26yr 9mth,5 May 1996,185cm,83kg,Cardiff,Forward,NA
-31,Hickey,Tom,139,31yr 11mth,6 Mar 1991,202cm,96kg,Morningside,Ruck,NA
-18,Konstanty,Jacob,0,18yr 3mth,9 Nov 2004,177cm,73kg,Gippsland Power,Forward,NA
-19,Ladhams,Peter,43,25yr 1mth,14 Jan 1998,202cm,101kg,Norwood,Ruck,NA
-44,Lloyd,Jake,200,29yr 5mth,20 Sep 1993,180cm,79kg,North Ballarat Rebels,Defender,NA
-32,Magor,Jaiden,0,19yr,16 Feb 2004,185cm,79kg,South Adelaide,Midfield,Forward
-46,McAndrew,Lachlan,0,22yr 9mth,26 May 2000,209cm,91kg,Sydney,Forward,Ruck
-39,McCartin,Patrick,59,26yr 10mth,19 Apr 1996,195cm,97kg,Geelong Falcons,Defender,NA
-30,McCartin,Tom,95,23yr 1mth,30 Dec 1999,193cm,95kg,Geelong Falcons,Defender,NA
-6,McDonald,Logan,24,20yr 10mth,4 Apr 2002,196cm,86kg,Perth Fc,Forward,NA
-27,McInerney,Justin,53,22yr 6mth,18 Aug 2000,188cm,82kg,Northern Knights,Midfield,NA
-2,McLean,Hayden,31,24yr 1mth,20 Jan 1999,197cm,97kg,Sandringham,Forward,NA
-43,Melican,Lewis,52,26yr 3mth,4 Nov 1996,194cm,100kg,Geelong Falcons,Defender,NA
-14,Mills,Callum,135,25yr 10mth,2 Apr 1997,187cm,86kg,North Shore,Midfield,NA
-35,Mitchell,Caleb,0,18yr 6mth,10 Aug 2004,187cm,80kg,Murray Bushrangers,Defender,Midfield
-40,Owen,Cameron,0,18yr 9mth,28 May 2004,203cm,94kg,Tasmania Devils,Ruck,NA
-11,Papley,Tom,141,26yr 7mth,13 Jul 1996,177cm,79kg,Gippsland Power,Forward,NA
-26,Parker,Luke,260,30yr 4mth,25 Oct 1992,183cm,87kg,Dandenong Stingrays,Midfield,NA
-24,Rampe,Dane,215,32yr 8mth,2 Jun 1990,188cm,87kg,Williamstown,Defender,NA
-41,Rankin,Lachlan,0,20yr,5 Feb 2003,182cm,68kg,Oakleigh Chargers,Defender,NA
-20,Reid,Sam,181,31yr 2mth,27 Dec 1991,196cm,98kg,Murray Bushrangers,Forward,NA
-34,Roberts,Matthew,1,19yr 6mth,31 Jul 2003,183cm,81kg,South Adelaide,Midfield,NA
-8,Rowbottom,James,69,22yr 5mth,19 Sep 2000,186cm,82kg,Oakleigh Chargers,Midfield,NA
-33,Sheather,Marc,0,20yr 8mth,11 Jun 2002,185cm,84kg,Pennant Hills,Defender,Forward
-29,Sheldrick,Angus,2,19yr 3mth,7 Nov 2003,179cm,86kg,Claremont,Midfield,Forward
-3,Stephens,Dylan,30,22yr 1mth,8 Jan 2001,184cm,76kg,Norwood,Midfield,NA
-25,Vickery,Cooper,0,18yr 2mth,16 Dec 2004,181cm,72kg,Gippsland Power,Defender,NA
-1,Warner,Chad,39,21yr 9mth,19 May 2001,181cm,83kg,East Fremantle,Midfield,NA
-37,Warner,Corey,0,19yr 4mth,7 Oct 2003,182cm,72kg,East Fremantle,Midfield,Forward
-15,Wicks,Sam,39,23yr 5mth,14 Sep 1999,180cm,80kg,Swans Academy,Forward,NA
-24,Adams,Marcus,73,29yr 7mth,30 Jun 1993,192cm,98kg,West Perth,Defender,NA
-4,Ah Chee,Callum,105,25yr 4mth,9 Oct 1997,183cm,79kg,South Fremantle,Midfield,NA
-31,Andrews,Harris,160,26yr 2mth,11 Dec 1996,202cm,98kg,Aspley,Defender,NA
-43,Answerth,Noah,51,23yr 6mth,6 Aug 1999,183cm,80kg,Oakleigh Chargers,Defender,NA
-8,Ashcroft,Will,0,18yr 9mth,6 May 2004,182cm,78kg,Sandringham Dragons,Midfield,NA
-33,Bailey,Zac,94,23yr 5mth,23 Sep 1999,182cm,86kg,Norwood,Midfield,Forward
-7,Berry,Jarrod,108,25yr,5 Feb 1998,192cm,88kg,North Ballarat Rebels,Midfield,NA
-34,Brain,Shadeau,0,,,186cm,80kg,Noosa,Forward,NA
-23,Cameron,Charlie,176,28yr 7mth,5 Jul 1994,180cm,75kg,Swan Districts,Forward,NA
-12,Cockatoo,Nakia,49,26yr 4mth,23 Oct 1996,185cm,92kg,Nt Thunder,Forward,NA
-13,Coleman,Blake,0,20yr 6mth,6 Aug 2002,182cm,80kg,Brisbane Academy,Forward,NA
-18,Coleman,Keidean,41,22yr 10mth,31 Mar 2000,182cm,78kg,Brisbane,Defender,NA
-3,Daniher,Joe,151,28yr 11mth,4 Mar 1994,201cm,96kg,Calder Cannons,Forward,NA
-5,Dunkley,Josh,116,26yr 1mth,9 Jan 1997,191cm,91kg,Gippsland Power,Midfield,Forward
-28,Fletcher,Jaspa,0,19yr,24 Feb 2004,183cm,76kg,Brisbane Lions,Midfield,NA
-32,Fort,Darcy,26,29yr 6mth,6 Aug 1993,204cm,99kg,Central District,Forward,Ruck
-21,Fullarton,Tom,19,24yr,23 Feb 1999,200cm,92kg,Brisbane Bullets,Forward,NA
-27,Gardiner,Darcy,154,27yr 5mth,22 Sep 1995,192cm,91kg,Geelong Falcons,Defender,NA
-19,Gunston,Jack,225,31yr 4mth,16 Oct 1991,193cm,86kg,Sandringham,Forward,NA
-30,Hipwood,Eric,127,25yr 5mth,13 Sep 1997,203cm,91kg,Aspley,Forward,NA
-41,Joyce,Darragh,13,25yr 10mth,23 Apr 1997,194cm,96kg,Kilkenny,Defender,NA
-45,Lane,Kalin,0,21yr 2mth,5 Dec 2001,205cm,99kg,Claremont,Ruck,NA
-35,Lester,Ryan,161,30yr 6mth,26 Aug 1992,192cm,85kg,Oakleigh Chargers,Defender,NA
-1,Lohmann,Kai,2,19yr 9mth,6 May 2003,185cm,77kg,GWV Rebels,Forward,NA
-17,Lyons,Jarryd,181,30yr 7mth,22 Jul 1992,184cm,84kg,Sandringham Dragons,Midfield,NA
-14,Madden,James,11,23yr 3mth,15 Nov 1999,188cm,88kg,Dublin,Defender,NA
-36,Mathieson,Rhys,72,26yr 1mth,10 Jan 1997,186cm,87kg,Geelong Falcons,Midfield,Forward
-11,McCarthy,Lincoln,119,29yr 4mth,22 Oct 1993,178cm,81kg,Glenelg,Forward,NA
-6,McCluggage,Hugh,130,24yr 11mth,3 Mar 1998,185cm,87kg,North Ballarat Rebels,Midfield,NA
-50,McDowell-White,Daryl,0,,,183cm,79kg,Red City Roar,Midfield,Forward
-46,McInerney,Oscar,101,28yr 7mth,10 Jul 1994,204cm,108kg,Casey Scorpions,Ruck,NA
-26,McKenna,Conor,79,26yr 11mth,28 Mar 1996,184cm,88kg,"Eglish, Tyrone",Defender,NA
-39,Michael,Carter,1,20yr 9mth,22 May 2002,188cm,78kg,Maroochydore,Defender,NA
-9,Neale,Lachie,220,29yr 9mth,24 May 1993,178cm,85kg,Glenelg,Midfield,NA
-40,Payne,Jack,27,23yr 4mth,15 Oct 1999,197cm,101kg,Lions Academy,Defender,NA
-20,Prior,Jaxon,30,21yr 8mth,4 Jun 2001,189cm,84kg,West Perth,Midfield,NA
-16,Rayner,Cameron,87,23yr 4mth,21 Oct 1999,186cm,89kg,Western Jets,Forward,NA
-10,Rich,Daniel,268,32yr 8mth,7 Jun 1990,183cm,95kg,Subiaco Football Club,Defender,NA
-2,Robertson,Deven,25,21yr 7mth,30 Jun 2001,185cm,83kg,Perth,Midfield,NA
-22,Sharp,Harry,7,20yr 2mth,17 Dec 2002,182cm,72kg,Gwv Rebels,Midfield,NA
-25,Smith,Henry,0,20yr 5mth,24 Sep 2002,206cm,100kg,Woodville-west Torrens,Forward,Ruck
-37,Starcevich,Brandon,71,23yr 7mth,24 Jul 1999,187cm,92kg,East Perth,Defender,NA
-29,Tunstill,James,3,19yr 7mth,18 Jul 2003,187cm,76kg,East Perth,Midfield,NA
-44,Wilmot,Darcy,3,19yr 2mth,21 Dec 2003,183cm,75kg,Northern Knights,Defender,NA
-15,Zorko,Dayne,230,34yr,9 Feb 1989,175cm,78kg,Broadbeach,Forward,NA
-21,Aliir,Aliir,107,28yr 5mth,5 Sep 1994,194cm,96kg,East Fremantle,Defender,NA
-45,Barkla,Nathan,0,18yr 10mth,30 Mar 2004,190cm,79kg,Woodville-West Torrens,Midfield,NA
-14,Bergman,Miles,33,21yr 4mth,18 Oct 2001,189cm,83kg,Sandringham Dragons,Midfield,NA
-10,Boak,Travis,327,34yr 6mth,1 Aug 1988,183cm,85kg,Geelong Falcons,Midfield,NA
-26,Bonner,Riley,82,25yr 11mth,7 Mar 1997,190cm,85kg,West Adelaide,Defender,NA
-36,Burgoyne,Jase,8,19yr 7mth,15 Jul 2003,186cm,65kg,Eagles,Defender,NA
-3,Burton,Ryan,117,26yr,31 Jan 1997,191cm,90kg,North Adelaide,Defender,NA
-9,Butters,Zak,68,22yr 5mth,8 Sep 2000,181cm,75kg,Western Jets,Midfield,Forward
-33,Byrne-Jones,Darcy,150,27yr 5mth,20 Sep 1995,181cm,76kg,Oakleigh Chargers,Defender,NA
-17,Clurey,Tom,123,28yr 11mth,23 Mar 1994,193cm,95kg,Murray Bushrangers,Defender,NA
-22,Dixon,Charlie,189,32yr 5mth,23 Sep 1990,200cm,107kg,Redland,Forward,NA
-28,Drew,Willem,56,24yr 4mth,1 Oct 1998,188cm,87kg,North Ballarat Rebels,Midfield,NA
-43,Dumont,Trent,121,27yr 7mth,30 Jun 1995,186cm,87kg,Norwood,Midfield,NA
-7,Duursma,Xavier,57,22yr 7mth,7 Jul 2000,186cm,79kg,Gippsland Power,Midfield,NA
-31,Evans,Francis,7,21yr 6mth,23 Aug 2001,182cm,80kg,Calder Cannons,Forward,NA
-13,Fantasia,Orazio,96,27yr 5mth,14 Sep 1995,180cm,74kg,Norwood,Forward,NA
-6,Farrell,Kane,49,23yr 11mth,17 Mar 1999,182cm,77kg,Bendigo Pioneers,Midfield,NA
-11,Finlayson,Jeremy,86,27yr,9 Feb 1996,197cm,94kg,Hills Eagles,Forward,Ruck
-19,Georgiades,Mitch,47,21yr 5mth,28 Sep 2001,192cm,87kg,Subiaco,Forward,NA
-25,Hayes,Sam,7,23yr 8mth,9 Jun 1999,205cm,102kg,Eastern Ranges,Ruck,NA
-18,Horne-Francis,Jason,17,19yr 8mth,21 Jun 2003,185cm,81kg,South Adelaide,Midfield,Forward
-5,Houston,Dan,121,25yr 9mth,12 May 1997,186cm,88kg,Oakleigh Chargers,Defender,NA
-39,Jackson,Hugh,0,19yr 9mth,3 May 2003,182cm,72kg,North Adelaide,Midfield,Forward
-1,Jonas,Thomas,203,32yr 1mth,9 Jan 1991,188cm,90kg,Norwood,Defender,NA
-34,Jones,Lachlan,20,20yr 10mth,9 Apr 2002,186cm,90kg,-,Defender,Forward
-30,Lord,Ollie,0,21yr 1mth,2 Jan 2002,197cm,85kg,Sandringham Dragons,Defender,Forward
-29,Lycett,Scott,132,30yr 5mth,26 Sep 1992,203cm,102kg,Port Magpies,Ruck,NA
-40,Marshall,Kyle,0,18yr 10mth,10 Apr 2004,201cm,84kg,South Adelaide,Defender,NA
-4,Marshall,Todd,76,24yr 4mth,8 Oct 1998,198cm,90kg,Murray Bushrangers,Forward,NA
-37,McCallum,Tom,0,18yr 5mth,15 Sep 2004,193cm,82kg,Tasmania Devils,Defender,NA
-41,McEntee,Jed,10,22yr,15 Feb 2001,176cm,76kg,Sturt,Forward,NA
-12,McKenzie,Trent,146,30yr 10mth,3 Apr 1992,191cm,90kg,Western Jets,Defender,NA
-44,Mead,Jackson,11,21yr 4mth,30 Sep 2001,184cm,84kg,Woodville West Torrens,Midfield,Forward
-24,Pasini,Jake,0,22yr,6 Feb 2001,192cm,83kg,Swan Districts,Defender,NA
-2,Powell-Pepper,Sam,114,25yr 1mth,8 Jan 1998,187cm,96kg,East Perth,Forward,NA
-15,Rioli,Willie,51,27yr 8mth,4 Jun 1995,175cm,77kg,Glenelg,Midfield,Forward
-20,Rozee,Connor,81,23yr 1mth,22 Jan 2000,185cm,80kg,North Adelaide,Midfield,Forward
-32,Scully,Thomas,0,18yr 3mth,2 Nov 2004,203cm,89kg,West Adelaide,Forward,NA
-8,Sinn,Josh,1,20yr 1mth,7 Jan 2003,186cm,78kg,Sandringham Dragons,Midfield,Forward
-27,Teakle,Brynn,2,23yr 4mth,16 Oct 1999,203cm,97kg,East Fremantle,Ruck,NA
-38,Visentini,Dante,0,20yr,13 Feb 2003,201cm,88kg,Sandringham Dragons,Forward,Ruck
-23,Williams,Dylan,1,21yr 7mth,1 Jul 2001,186cm,81kg,Oakleigh Chargers,Forward,NA
-16,Wines,Oliver,203,28yr 4mth,7 Oct 1994,187cm,98kg,Bendigo Pioneers,Midfield,NA
-10,Amon,Karl,124,27yr 6mth,19 Aug 1995,181cm,77kg,Sandringham Dragons,Midfield,NA
-41,Bennetts,Joshua,0,18yr 6mth,9 Aug 2004,178cm,75kg,Eastern Ranges,Midfield,Forward
-36,Blanck,James,9,22yr 3mth,20 Nov 2000,195cm,85kg,Box Hill Hawks,Defender,NA
-16,Bramble,Lachlan,19,24yr 10mth,19 Apr 1998,181cm,76kg,Box Hill,Defender,NA
-22,Breust,Luke,260,32yr 3mth,11 Nov 1990,184cm,83kg,Temora,Forward,NA
-33,Brockman,Tyler,11,20yr 3mth,22 Nov 2002,181cm,80kg,Subiaco,Forward,NA
-30,Butler,Sam,9,20yr,10 Feb 2003,184cm,73kg,GWV Rebels,Forward,NA
-12,Day,Will,33,21yr 8mth,5 Jun 2001,189cm,79kg,West Adelaide,Defender,NA
-8,Frost,Sam,141,29yr 6mth,28 Aug 1993,194cm,94kg,Sandringham Dragons,Defender,NA
-24,Grainger-Barras,Denver,21,20yr 10mth,17 Apr 2002,195cm,81kg,Swan Districts,Defender,NA
-26,Greene,Fergus,5,25yr 2mth,20 Dec 1997,187cm,75kg,Bendigo Pioneers,Forward,NA
-15,Hardwick,Blake,124,26yr,5 Feb 1997,181cm,81kg,Eastern Ranges,Defender,NA
-44,Hustwaite,Henry,0,18yr 7mth,20 Jul 2004,195cm,84kg,Dandenong Stingrays,Midfield,NA
-4,Impey,Jarman,150,27yr 7mth,9 Jul 1995,178cm,81kg,Murray Bushrangers,Defender,NA
-39,Jeka,Emerson,7,21yr 5mth,18 Sep 2001,197cm,93kg,Western Jets,Defender,Forward
-9,Jiath,Changkuoth,37,23yr 8mth,13 Jun 1999,185cm,80kg,Ethiopia,Defender,NA
-23,Koschitzke,Jacob,36,22yr 7mth,11 Jul 2000,196cm,96kg,Albury,Forward,NA
-2,Lewis,Mitchell,51,24yr 4mth,14 Oct 1998,198cm,100kg,Calder Cannons,Forward,NA
-27,Long,Ned,1,20yr,5 Feb 2003,195cm,92kg,Northern Knights,Midfield,NA
-18,Lynch,Max,10,24yr 5mth,12 Sep 1998,200cm,99kg,Murray Bushrangers,Ruck,NA
-31,MacDonald,Connor,20,20yr 1mth,13 Jan 2003,184cm,77kg,Dandenong Stingrays,Forward,NA
-42,Macdonald,Bailey,0,18yr 6mth,4 Aug 2004,182cm,74kg,Oakleigh Chargers,Defender,NA
-28,Mackenzie,Cameron,0,19yr 1mth,21 Jan 2004,188cm,82kg,Sandringham Dragons,Midfield,NA
-32,Maginness,Finn,19,22yr,23 Feb 2001,189cm,84kg,Sandringham Dragons,Midfield,NA
-17,Meek,Lloyd,15,24yr 10mth,22 Apr 1998,203cm,109kg,Gwv Rebels,Ruck,NA
-40,Mitchell,Seamus,0,20yr 7mth,3 Jul 2002,181cm,76kg,Bendigo Pioneers,Defender,Forward
-13,Moore,Dylan,52,23yr 6mth,4 Aug 1999,176cm,76kg,Eastern Ranges,Forward,NA
-35,Morris,Josh,15,21yr 3mth,7 Nov 2001,186cm,80kg,Woodville West Torrens,Defender,NA
-1,Morrison,Harry,78,24yr 3mth,12 Nov 1998,180cm,81kg,Murray Bushrangers,Midfield,NA
-11,Nash,Conor,50,24yr 7mth,28 Jul 1998,197cm,94kg,Dublin,Midfield,NA
-3,Newcombe,Jai,29,21yr 6mth,2 Aug 2001,186cm,85kg,Box Hill,Midfield,NA
-34,O'Hara,Fionn,0,21yr,28 Feb 2002,186cm,81kg,Westmeath,Defender,NA
-43,O'Sullivan,Jack,0,18yr 4mth,22 Oct 2004,178cm,72kg,Oakleigh Chargers,Forward,NA
-38,Ramsden,Max,0,19yr 10mth,19 Apr 2003,202cm,86kg,Sandringham Dragons,Forward,Ruck
-7,Reeves,Ned,17,24yr 3mth,31 Oct 1998,208cm,104kg,Box Hill,Ruck,NA
-14,Scrimshaw,Jack,67,24yr 5mth,4 Sep 1998,193cm,89kg,Sandringham Dragons,Defender,NA
-29,Serong,Jai,3,20yr,16 Feb 2003,193cm,82kg,Gippsland Power,Forward,NA
-6,Sicily,James,115,28yr 1mth,6 Jan 1995,186cm,87kg,Western Jets,Defender,NA
-21,Stephens,Cooper,7,22yr 1mth,17 Jan 2001,188cm,87kg,Geelong Falcons,Midfield,NA
-25,Ward,Josh,14,19yr 6mth,17 Aug 2003,181cm,74kg,Northern Knights,Midfield,NA
-37,Weddle,Joshua,0,18yr 9mth,25 May 2004,192cm,92kg,Oakleigh Chargers,Defender,NA
-20,Wingard,Chad,204,29yr 6mth,29 Jul 1993,183cm,83kg,Sturt,Forward,NA
-5,Worpel,James,79,24yr 1mth,24 Jan 1999,185cm,86kg,Geelong Falcons,Midfield,NA
-34,Archer,Jackson,3,19yr 5mth,1 Sep 2003,183cm,70kg,Northern Knights,Defender,NA
-27,Bergman,Miller,1,20yr 1mth,25 Jan 2003,188cm,65kg,Dandenong Stingrays,Defender,NA
-16,Bonar,Aiden,32,23yr 11mth,8 Mar 1999,188cm,87kg,Dandenong Stingrays,Defender,NA
-21,Coleman-Jones,Callum,19,23yr 8mth,13 Jun 1999,200cm,105kg,Sturt,Forward,Ruck
-30,Comben,Charlie,2,21yr 7mth,20 Jul 2001,199cm,84kg,Gippsland Power,Forward,NA
-4,Corr,Aidan,120,28yr 9mth,17 May 1994,195cm,97kg,Northern Knights,Defender,NA
-10,Cunnington,Ben,229,31yr 7mth,30 Jun 1991,185cm,88kg,Geelong Falcons,Midfield,Forward
-25,Curtis,Paul,15,19yr 11mth,4 Mar 2003,185cm,75kg,Western Jets,Forward,NA
-9,Davies-Uniacke,Luke,71,23yr 8mth,8 Jun 1999,188cm,87kg,Dandenong Stingrays,Midfield,NA
-42,Dawson,Kallan,4,24yr 7mth,22 Jul 1998,194cm,78kg,Williamstown VFL,Defender,NA
-41,Drury,Blake,0,18yr 3mth,1 Nov 2004,176cm,73kg,Oakleigh Chargers,Midfield,Forward
-32,Edwards,Jacob,0,20yr 3mth,22 Nov 2002,202cm,85kg,Sandringham Dragons,Forward,Ruck
-40,Ford,Eddie,8,20yr 8mth,21 Jun 2002,189cm,83kg,Western Jets,Forward,NA
-45,Free,Hamish,0,24yr 7mth,23 Jul 1998,202cm,103kg,South Fremantle,Ruck,NA
-33,George,Brayden,0,19yr 1mth,13 Jan 2004,187cm,85kg,Murray Bushrangers,Forward,NA
-31,Goater,Josh,1,19yr 8mth,2 Jun 2003,190cm,80kg,Calder Cannons,Defender,Midfield
-22,Goldstein,Todd,295,34yr 7mth,1 Jul 1988,201cm,103kg,Oakleigh,Ruck,NA
-18,Greenwood,Hugh,104,30yr 11mth,6 Mar 1992,191cm,94kg,Perth Wildcats,Midfield,NA
-43,Hall,Aaron,155,32yr 3mth,9 Nov 1990,185cm,85kg,Hobart,Defender,NA
-37,Harvey,Cooper,0,18yr 7mth,12 Jul 2004,180cm,80kg,Northern Knights,Midfield,Forward
-15,Howe,Daniel,96,27yr 2mth,4 Dec 1995,191cm,88kg,Murray Bushrangers,Midfield,NA
-20,Larkey,Nick,71,24yr 8mth,6 Jun 1998,198cm,95kg,Oakleigh Chargers,Forward,NA
-35,Lazzaro,Charlie,24,20yr 11mth,25 Mar 2002,179cm,73kg,Geelong Falcons,Forward,NA
-19,Logue,Griffin,64,24yr 10mth,13 Apr 1998,194cm,100kg,Swan Districts,Defender,Forward
-1,Mahony,Jack,42,21yr 3mth,12 Nov 2001,178cm,72kg,Sandringham Dragons,Forward,NA
-11,McDonald,Luke,159,28yr,9 Feb 1995,189cm,86kg,Werribee,Defender,NA
-23,McKay,Ben,52,25yr 2mth,24 Dec 1997,201cm,99kg,Gippsland Power,Defender,NA
-39,Perez,Flynn,19,21yr 6mth,25 Aug 2001,188cm,85kg,Bendigo Pioneers,Defender,Midfield
-29,Phillips,Will,16,20yr 9mth,22 May 2002,181cm,80kg,Oakleigh Chargers,Midfield,NA
-24,Powell,Tom,31,20yr 11mth,2 Mar 2002,184cm,75kg,Sturt,Midfield,Forward
-8,Scott,Bailey,55,22yr 7mth,9 Jul 2000,186cm,77kg,Gc Suns Academy,Defender,Midfield
-3,Sheezel,Harry,0,18yr 4mth,13 Oct 2004,185cm,80kg,Sandringham Dragons,Forward,NA
-14,Shiels,Liam,255,31yr 9mth,29 Apr 1991,183cm,84kg,Hawthorn,Midfield,Forward
-12,Simpkin,Jy,116,24yr 11mth,5 Mar 1998,182cm,77kg,Murray Bushrangers,Midfield,NA
-36,Spicer,Phoenix,6,21yr,30 Jan 2002,173cm,64kg,South Adelaide,Forward,NA
-2,Stephenson,Jaidyn,89,24yr 1mth,15 Jan 1999,188cm,75kg,Eastern Ranges,Forward,NA
-5,Taylor,Curtis,52,22yr 10mth,6 Apr 2000,187cm,78kg,Calder Cannons,Midfield,NA
-26,Thomas,Tarryn,57,22yr 11mth,25 Mar 2000,189cm,76kg,North Launcestion,Midfield,Forward
-13,Tucker,Darcy,108,26yr 1mth,23 Jan 1997,185cm,84kg,North Ballarat Rebels,Midfield,Forward
-28,Turner,Kayne,118,27yr 1mth,31 Dec 1995,180cm,71kg,Wodonga Football,Defender,NA
-6,Wardlaw,George,0,18yr 8mth,11 Jun 2004,182cm,79kg,Oakleigh Chargers,Midfield,NA
-38,Xerri,Tristan,24,23yr 11mth,15 Mar 1999,201cm,99kg,Western Jets,Ruck,NA
-17,Young,Lachie,43,23yr 10mth,6 Apr 1999,189cm,81kg,Mt Eliza Football Netball Club,Defender,NA
-7,Ziebell,Jack,258,32yr,28 Feb 1991,188cm,89kg,Murray Bushrangers,Forward,NA
-44,Zurhaar,Cameron,83,24yr 9mth,22 May 1998,189cm,92kg,East Fremantle,Forward,NA
-3,Berry,Sam,35,21yr,12 Feb 2002,182cm,83kg,Gippsland Power,Midfield,NA
-40,Bond,Hugh,0,18yr 5mth,25 Sep 2004,185cm,81kg,Greater Western Victoria Rebels,Midfield,NA
-35,Borlase,James,0,20yr 7mth,18 Jul 2002,192cm,98kg,Sturt,Defender,NA
-21,Brown,Tyler,27,23yr 2mth,9 Dec 1999,192cm,86kg,Eastern Ranges,Midfield,Forward
-41,Butts,Jordon,43,23yr 1mth,31 Dec 1999,198cm,97kg,Murray Bushrangers,Defender,NA
-15,Cook,Brayden,11,20yr 7mth,18 Jul 2002,190cm,85kg,South Adelaide,Midfield,NA
-5,Crouch,Matt,136,27yr 10mth,21 Apr 1995,181cm,82kg,North Ballarat Rebels,Midfield,NA
-12,Dawson,Jordan,86,25yr 10mth,9 Apr 1997,192cm,86kg,Sturt,Defender,NA
-39,Doedee,Tom,71,25yr 11mth,1 Mar 1997,187cm,89kg,Geelong Falcons,Defender,NA
-31,Dowling,Billy,0,18yr 7mth,1 Jul 2004,187cm,80kg,North Adelaide,Midfield,NA
-32,Fogarty,Darcy,58,23yr 5mth,25 Sep 1999,194cm,99kg,Glenelg,Forward,NA
-44,Gollant,Lachlan,8,21yr 5mth,12 Sep 2001,192cm,83kg,Calder Cannons,Forward,NA
-17,Hamill,Will,38,22yr 3mth,17 Nov 2000,187cm,80kg,Dandenong Stingrays,Defender,NA
-6,Hately,Jackson,27,22yr 4mth,21 Oct 2000,191cm,91kg,Central District,Midfield,NA
-34,Himmelberg,Elliott,38,24yr 8mth,4 Jun 1998,200cm,98kg,Redlands,Forward,NA
-20,Hinge,Mitchell,21,24yr 8mth,26 Jun 1998,190cm,91kg,Glenelg,Defender,Midfield
-1,Jones,Chayce,58,23yr 1mth,14 Jan 2000,180cm,83kg,Launceston,Defender,NA
-48,Keane,Mark,5,22yr 11mth,17 Mar 2000,194cm,95kg,Cork,Defender,NA
-2,Keays,Ben,90,26yr,23 Feb 1997,185cm,89kg,Brisbane Reserves,Midfield,NA
-29,Laird,Rory,202,29yr 1mth,29 Dec 1993,177cm,78kg,West Adelaide,Midfield,NA
-23,McAdam,Shane,43,27yr 9mth,28 May 1995,183cm,79kg,Sturt,Forward,NA
-25,McHenry,Ned,49,22yr 7mth,13 Jul 2000,179cm,73kg,Geelong Falcons,Forward,NA
-36,McPherson,Andrew,28,23yr 8mth,20 Jun 1999,186cm,86kg,Woodville-West Torrens,Defender,NA
-16,Michalanney,Max,0,19yr,26 Feb 2004,190cm,78kg,Norwood,Defender,NA
-30,Milera,Wayne,74,25yr 5mth,14 Sep 1997,185cm,84kg,Central District,Forward,NA
-4,Murphy,Lachlan,76,24yr 2mth,4 Dec 1998,175cm,78kg,Adelaide Football Club,Forward,NA
-28,Murray,Nick,29,22yr 2mth,18 Dec 2000,193cm,92kg,Allies,Defender,NA
-27,Nankervis,Luke,0,19yr 9mth,25 May 2003,189cm,76kg,Sandringham Dragons,Midfield,Forward
-42,Newchurch,Tariek,0,20yr 7mth,21 Jul 2002,182cm,78kg,North Adelaide,Forward,NA
-43,O'Brien,Reilly,77,27yr 6mth,20 Aug 1995,202cm,102kg,Calder Cannons,Ruck,NA
-37,Parnell,Patrick,11,20yr 11mth,4 Mar 2002,178cm,70kg,Murray Bushrangers,Defender,NA
-10,Pedlar,Luke,5,20yr 9mth,17 May 2002,182cm,80kg,Glenelg,Forward,NA
-8,Rachele,Josh,13,19yr 10mth,11 Apr 2003,180cm,78kg,Murray Bushrangers,Forward,NA
-22,Rankine,Izak,48,22yr 10mth,23 Apr 2000,181cm,82kg,West Adelaide,Forward,NA
-26,Schoenberg,Harry,46,22yr,21 Feb 2001,182cm,86kg,Woodville West Torrens,Midfield,NA
-11,Seedsman,Paul,132,31yr 1mth,22 Jan 1992,190cm,84kg,Eastern Ranges,Midfield,NA
-38,Sholl,Lachlan,38,22yr 11mth,7 Mar 2000,186cm,80kg,Calder Cannons,Midfield,NA
-9,Sloane,Rory,233,32yr 11mth,17 Mar 1990,182cm,82kg,Eastern Ranges,Midfield,NA
-33,Smith,Brodie,225,31yr 1mth,14 Jan 1992,189cm,86kg,Woodville West Torrens,Defender,NA
-14,Soligo,Jake,16,20yr 1mth,25 Jan 2003,180cm,80kg,Eastern Ranges,Midfield,NA
-45,Strachan,Kieran,5,27yr 4mth,5 Oct 1995,204cm,103kg,Port Melbourne,Ruck,NA
-19,Taylor,Zac,0,20yr,31 Jan 2003,180cm,74kg,Calder Cannons,Midfield,NA
-7,Thilthorpe,Riley,25,20yr 7mth,7 Jul 2002,201cm,102kg,West Adelaide Fc,Forward,NA
-13,Walker,Taylor,238,32yr 10mth,25 Apr 1990,194cm,102kg,Broken Hill North,Forward,NA
-24,Worrell,Josh,5,21yr 10mth,11 Apr 2001,194cm,94kg,Sandringham Dragons,Defender,NA
-11,Aish,James,143,27yr 3mth,8 Nov 1995,183cm,80kg,Norwood,Midfield,NA
-24,Amiss,Jye,3,19yr 6mth,31 Jul 2003,196cm,83kg,East Perth,Forward,NA
-41,Banfield,Bailey,61,25yr,26 Feb 1998,190cm,89kg,Claremont,Forward,NA
-38,Benning,Eric,0,19yr 7mth,14 Jul 2003,195cm,84kg,Claremont,Ruck,NA
-8,Brayshaw,Andrew,100,23yr 3mth,8 Nov 1999,185cm,86kg,Sandringham Dragons,Midfield,NA
-17,Brodie,Will,49,24yr 6mth,23 Aug 1998,189cm,89kg,Murray Bushrangers,Midfield,NA
-27,Chapman,Heath,23,21yr,31 Jan 2002,193cm,81kg,West Perth,Defender,NA
-6,Clark,Jordan,56,22yr 4mth,16 Oct 2000,185cm,84kg,Claremont,Defender,NA
-33,Colyer,Travis,146,31yr 6mth,24 Aug 1991,173cm,75kg,Claremont,Forward,NA
-19,Corbett,Josh,36,26yr 10mth,23 Apr 1996,190cm,90kg,Werribee,Forward,NA
-36,Cox,Brennan,82,24yr 6mth,13 Aug 1998,195cm,98kg,Woodville-West Torrens,Defender,NA
-4,Darcy,Sean,83,24yr 8mth,12 Jun 1998,203cm,112kg,Geelong Falcons,Ruck,NA
-12,Davies,Hugh,0,18yr 5mth,28 Sep 2004,196cm,90kg,Claremont,Defender,NA
-37,Draper,Josh,0,19yr,8 Feb 2004,197cm,93kg,Peel Thunder,Forward,NA
-18,Emmett,Tom,0,21yr 2mth,30 Nov 2001,186cm,88kg,Sturt,Forward,NA
-28,Erasmus,Neil,5,19yr 2mth,2 Dec 2003,190cm,82kg,Subiaco,Midfield,NA
-32,Frederick,Michael,39,22yr 9mth,17 May 2000,183cm,75kg,Eagles,Forward,NA
-7,Fyfe,Nathan,209,31yr 5mth,18 Sep 1991,191cm,92kg,Claremont,Midfield,Forward
-21,Hamling,Joel,87,29yr 10mth,9 Apr 1993,194cm,92kg,Claremont,Defender,NA
-23,Henry,Liam,27,21yr 6mth,28 Aug 2001,180cm,73kg,Claremont,Midfield,Forward
-15,Hughes,Ethan,81,28yr 2mth,7 Dec 1994,188cm,88kg,Swan Districts,Defender,Midfield
-9,Jackson,Luke,52,21yr 4mth,29 Sep 2001,199cm,100kg,East Fremantle,Forward,Ruck
-44,Johnson,Matt,0,19yr 11mth,16 Mar 2003,192cm,81kg,Subiaco,Midfield,NA
-22,Knobel,Max,0,18yr 8mth,27 Jun 2004,206cm,91kg,Gippsland Power,Ruck,NA
-43,Kuek,Sebit,0,22yr 3mth,11 Nov 2000,195cm,73kg,East Perth,Forward,NA
-30,O'Driscoll,Nathan,12,20yr 9mth,17 May 2002,187cm,77kg,Perth,Midfield,NA
-2,O'Meara,Jaeger,143,29yr,23 Feb 1994,183cm,83kg,Perth Demons,Midfield,NA
-25,Pearce,Alex,84,27yr 8mth,9 Jun 1995,201cm,99kg,Devonport,Defender,NA
-42,Reidy,Liam,0,22yr 8mth,14 Jun 2000,204cm,102kg,Frankston Dolphins,Ruck,NA
-13,Ryan,Luke,109,27yr,6 Feb 1996,186cm,89kg,Coburg,Defender,NA
-5,Schultz,Lachlan,67,25yr 2mth,30 Nov 1997,178cm,82kg,Williamstown,Forward,NA
-3,Serong,Caleb,58,22yr,9 Feb 2001,179cm,85kg,Gippsland Power,Midfield,NA
-1,Sturt,Sam,4,22yr 9mth,12 May 2000,188cm,80kg,Dandenong Stingrays,Forward,NA
-39,Switkowski,Sam,46,26yr 3mth,20 Nov 1996,179cm,73kg,Box Hill Hawks,Forward,NA
-20,Taberner,Matthew,116,29yr 8mth,17 Jun 1993,198cm,98kg,Murray Bushrangers,Forward,NA
-35,Treacy,Josh,19,20yr 6mth,4 Aug 2002,193cm,94kg,Bendigo Pioneers,Forward,NA
-34,Wagner,Corey,19,25yr 11mth,23 Mar 1997,181cm,75kg,Aspley,Defender,Midfield
-31,Walker,Brandon,31,20yr 4mth,17 Oct 2002,186cm,77kg,East Fremantle,Defender,NA
-10,Walters,Michael,202,32yr 1mth,7 Jan 1991,176cm,79kg,Swan Districts,Forward,NA
-45,Williams,Conrad,0,18yr 2mth,30 Nov 2004,185cm,63kg,Claremont,Midfield,NA
-14,Wilson,Nathan,151,30yr 1mth,7 Jan 1993,185cm,80kg,WA,Defender,NA
-40,Worner,Karl,0,20yr 8mth,16 Jun 2002,188cm,81kg,Oakleigh Chargers,Defender,Midfield
-26,Young,Hayden,35,21yr 10mth,11 Apr 2001,189cm,84kg,Dandenong Stingrays,Defender,NA
-12,Allen,Oscar,59,23yr 11mth,19 Mar 1999,192cm,87kg,West Perth,Forward,NA
-38,Baker,Jordyn,0,18yr 9mth,10 May 2004,185cm,72kg,East Perth,Midfield,NA
-30,Barnett,Harry,0,19yr 1mth,22 Jan 2004,202cm,96kg,West Adelaide,Ruck,NA
-37,Barrass,Tom,118,27yr 4mth,8 Oct 1995,196cm,96kg,Claremont,Defender,NA
-33,Bazzo,Rhett,9,19yr 4mth,17 Oct 2003,194cm,81kg,Swan Districts,Defender,NA
-45,Burgiel,Coby,0,18yr 5mth,9 Sep 2004,183cm,80kg,Gippsland Power,Midfield,Forward
-18,Chesser,Campbell,0,19yr 10mth,27 Apr 2003,186cm,83kg,Sandringham Dragons,Defender,Midfield
-39,Clark,Greg,9,25yr 9mth,24 May 1997,193cm,94kg,Subiaco,Midfield,NA
-28,Cole,Tom,78,25yr 9mth,28 May 1997,186cm,81kg,Sandhurst Football Netball Club,Defender,NA
-15,Cripps,Jamie,216,30yr 10mth,23 Apr 1992,183cm,84kg,East Fremantle,Forward,NA
-49,Culley,Jai,4,20yr,24 Feb 2003,193cm,87kg,Dandenong Stingrays,Midfield,NA
-27,Darling,Jack,257,30yr 8mth,13 Jun 1992,191cm,95kg,West Perth,Forward,NA
-43,Dewar,Tyrell,0,18yr 11mth,27 Mar 2004,183cm,67kg,Subiaco,Defender,Forward
-14,Duggan,Liam,136,26yr 2mth,11 Dec 1996,184cm,83kg,Western Jets,Defender,NA
-42,Edwards,Harry,28,22yr 4mth,1 Oct 2000,200cm,87kg,Swan Districts,Defender,NA
-16,Edwards,Luke,11,21yr 1mth,12 Jan 2002,188cm,83kg,Glenelg,Midfield,NA
-29,Foley,Luke,23,23yr 4mth,8 Oct 1999,188cm,75kg,Subiaco,Defender,NA
-3,Gaff,Andrew,252,30yr 8mth,16 Jun 1992,183cm,85kg,Oakleigh Chargers,Midfield,NA
-7,Ginbey,Reuben,0,18yr 5mth,10 Sep 2004,189cm,82kg,East Perth,Defender,Midfield
-8,Hewett,Elijah,0,18yr 9mth,27 May 2004,185cm,84kg,Swan Districts,Midfield,NA
-19,Hough,Brady,15,19yr 11mth,5 Mar 2003,189cm,71kg,Peel Thunder,Defender,Midfield
-5,Hunt,Jayden,114,27yr 10mth,3 Apr 1995,187cm,81kg,Brighton Grammar,Defender,NA
-25,Hurn,Shannon,320,35yr 5mth,4 Sep 1987,187cm,95kg,Central District,Defender,NA
-40,Jamieson,Callum,9,22yr 6mth,31 Jul 2000,200cm,81kg,Claremont,Ruck,NA
-31,Jones,Jamaine,42,24yr 4mth,29 Sep 1998,180cm,81kg,North Ballarat Rebels,Defender,NA
-11,Kelly,Tim,102,28yr 7mth,26 Jul 1994,182cm,81kg,South Fremantle,Midfield,NA
-44,Long,Noah,0,18yr 6mth,23 Aug 2004,178cm,74kg,Bendigo Pioneeers,Midfield,Forward
-20,McGovern,Jeremy,163,30yr 10mth,15 Apr 1992,196cm,99kg,Claremont,Defender,NA
-9,Naitanui,Nicholas,213,32yr 9mth,4 May 1990,201cm,110kg,Swan Districts,Ruck,NA
-24,O'Neill,Xavier,24,22yr 6mth,3 Aug 2000,185cm,81kg,Oakleigh Chargers,Midfield,NA
-10,Petrevski-Seton,Sam,108,25yr,19 Feb 1998,181cm,76kg,Claremont,Forward,NA
-21,Petruccelle,Jack,54,23yr 10mth,12 Apr 1999,185cm,80kg,Northern Knights,Forward,NA
-35,Rotham,Josh,46,25yr,25 Feb 1998,193cm,86kg,West Perth,Defender,NA
-1,Ryan,Liam,86,26yr 4mth,2 Oct 1996,179cm,72kg,Subiaco,Forward,NA
-4,Sheed,Dominic,142,27yr 10mth,10 Apr 1995,185cm,87kg,Subiaco,Midfield,NA
-13,Shuey,Luke,238,32yr 8mth,2 Jun 1990,183cm,90kg,Oakleigh Chargers,Midfield,NA
-26,Trew,Zane,2,20yr 10mth,26 Apr 2002,187cm,78kg,Swan Districts,Midfield,Forward
-2,Waterman,Jake,73,24yr 9mth,6 May 1998,191cm,92kg,Claremont,Forward,NA
-36,West,Connor,19,23yr 9mth,7 May 1999,183cm,80kg,West Perth,Midfield,Forward
-32,Williams,Bailey,26,22yr 10mth,17 Apr 2000,199cm,95kg,Dandenong Stingrays,Ruck,NA
-34,Williams,Jack,1,19yr 2mth,1 Dec 2003,195cm,94kg,East Fremantle,Forward,Ruck
-22,Winder,Isiah,7,20yr 9mth,16 May 2002,180cm,79kg,Peel Thunder,Forward,NA
-23,Witherden,Alex,81,24yr 5mth,10 Sep 1998,188cm,85kg,Geelong Falcons,Defender,NA
-6,Yeo,Elliot,182,29yr 4mth,1 Oct 1993,190cm,89kg,East Fremantle,Defender,NA
-9,Ainsworth,Ben,96,25yr,10 Feb 1998,179cm,77kg,Gippsland Power,Forward,NA
-17,Anderson,Jed,99,29yr,2 Feb 1994,179cm,81kg,Territory Thunder,Midfield,Forward
-15,Anderson,Noah,58,22yr,17 Feb 2001,192cm,86kg,Oakleigh Chargers,Midfield,NA
-31,Andrew,Mac,4,19yr 10mth,12 Apr 2003,201cm,74kg,Dandenong Stingrays,Defender,NA
-2,Atkins,Rory,118,28yr 7mth,12 Jul 1994,186cm,85kg,Calder Cannons,Defender,Midfield
-10,Ballard,Charlie,87,23yr 7mth,23 Jul 1999,196cm,93kg,Sturt,Defender,NA
-16,Berry,Thomas,20,22yr 9mth,1 May 2000,185cm,79kg,Gwv Rebels,Forward,NA
-26,Blakely,Connor,78,26yr 11mth,2 Mar 1996,189cm,88kg,Swan Districts,Midfield,NA
-45,Brock,Sandy,0,20yr 2mth,14 Dec 2002,198cm,86kg,Peel Thunder,Defender,NA
-35,Budarick,Connor,26,21yr 10mth,6 Apr 2001,175cm,74kg,Gold Coast Suns Academy,Defender,NA
-29,Burgess,Chris,35,27yr 3mth,26 Nov 1995,191cm,94kg,,Defender,Forward
-30,Casboult,Levi,175,32yr 11mth,15 Mar 1990,201cm,101kg,Dandenong Stingrays,Forward,NA
-1,Chol,Mabior,53,26yr,29 Jan 1997,200cm,96kg,Aspley,Forward,NA
-25,Collins,Samuel,81,28yr 8mth,15 Jun 1994,194cm,99kg,Box Hill Hawks,Defender,NA
-33,Constable,Charlie,14,23yr 9mth,18 May 1999,191cm,86kg,Sandringham Dragons,Defender,Midfield
-5,Davies,Alex,16,20yr 11mth,18 Mar 2002,191cm,85kg,Suns Academy,Midfield,Forward
-12,Day,Sam,147,30yr 5mth,6 Sep 1992,197cm,99kg,Sturt,Forward,NA
-4,Ellis,Brandon,231,29yr 6mth,3 Aug 1993,181cm,82kg,Calder Cannons,Defender,Midfield
-50,Farrar,Jy,25,26yr 2mth,7 Dec 1996,191cm,77kg,Scotch OC,Defender,NA
-37,Faulkhead,Oskar,0,20yr,11 Feb 2003,182cm,76kg,Bendigo Pioneers,Midfield,Forward
-8,Fiorini,Brayden,76,25yr 6mth,22 Aug 1997,186cm,84kg,Northern Knights,Midfield,NA
-3,Flanders,Sam,30,21yr 7mth,24 Jul 2001,183cm,82kg,Gippsland Power,Midfield,Forward
-46,Graham,Caleb,37,22yr 5mth,12 Sep 2000,195cm,96kg,Gold Coast Academy,Defender,NA
-36,Hollands,Elijah,5,20yr 10mth,25 Apr 2002,189cm,85kg,Murray Bushrangers,Midfield,NA
-7,Holman,Nicholas,91,27yr 8mth,29 May 1995,189cm,86kg,Central District,Forward,NA
-19,Humphrey,Bailey,0,18yr 5mth,11 Sep 2004,186cm,83kg,Gippsland Power,Midfield,Forward
-40,Jeffrey,Joel,9,20yr 11mth,12 Mar 2002,192cm,80kg,Suns Academy,Forward,NA
-38,Johnston,Lloyd,0,18yr 5mth,21 Sep 2004,185cm,76kg,NT Thunder,Defender,NA
-34,King,Ben,53,22yr 7mth,7 Jul 2000,202cm,96kg,Sandringham Dragons,Forward,NA
-23,Lemmens,Sean,134,28yr 3mth,2 Nov 1994,184cm,81kg,Port Adelaide,Defender,NA
-22,Long,Ben,79,25yr 6mth,21 Aug 1997,183cm,80kg,Nt Thunder,Defender,Forward
-13,Lukosius,Jack,73,22yr 6mth,9 Aug 2000,195cm,89kg,Woodville-West Torrens,Forward,NA
-44,Macpherson,Darcy,72,25yr 3mth,29 Oct 1997,174cm,79kg,Northern Knights,Defender,Forward
-43,McLaughlin,Brodie,0,25yr 3mth,20 Nov 1997,193cm,85kg,Frankston,Forward,NA
-11,Miller,Touk,160,27yr,22 Feb 1996,178cm,84kg,Calder Cannons,Midfield,NA
-49,Moyle,Ned,0,21yr,15 Feb 2002,205cm,96kg,Oakleigh Chargers,Ruck,NA
-47,Oea,Hewago,5,21yr 3mth,13 Nov 2001,172cm,70kg,Suns Academy,Forward,NA
-27,Powell,Wil,69,23yr 6mth,26 Aug 1999,185cm,79kg,Claremont,Defender,NA
-41,Rosas,Malcolm,19,21yr 8mth,27 Jun 2001,175cm,70kg,NT Thunder,Forward,NA
-18,Rowell,Matt,39,21yr 7mth,1 Jul 2001,180cm,78kg,Oakleigh Chargers,Midfield,NA
-6,Sexton,Alex,158,29yr 2mth,3 Dec 1993,186cm,82kg,Redland,Forward,NA
-20,Sharp,Jeremy,23,21yr 6mth,13 Aug 2001,189cm,81kg,East Fremantle,Midfield,NA
-42,Stein,Jake,20,29yr 1mth,17 Jan 1994,195cm,96kg,Penrith,Defender,NA
-24,Swallow,David,197,30yr 3mth,19 Nov 1992,185cm,87kg,East Fremantle,Midfield,NA
-21,Tsitas,James,1,27yr 11mth,3 Mar 1995,181cm,78kg,Geelong Falcons,Midfield,Forward
-32,Uwland,Bodhi,0,19yr 7mth,25 Jul 2003,185cm,84kg,Allies,Defender,Midfield
-14,Weller,Lachlan,127,27yr,23 Feb 1996,181cm,83kg,Southport,Defender,NA
-28,Witts,Jarrod,144,30yr 5mth,13 Sep 1992,209cm,111kg,Sydney University,Ruck,NA
+No,Player,surname,first_name,Games,Age,Date of Birth,Height,Weight,Origin,Position_1,Position_2
+7,Liam Baker,Baker,Liam,87,25yr 1mth,27 Jan 1998,173cm,72kg,Subiaco,Defender,Forward
+21,Noah Balta,Balta,Noah,62,23yr 4mth,23 Oct 1999,194cm,102kg,Calder Cannons,Defender,Forward
+41,Sam Banks,Banks,Sam,0,19yr 10mth,2 Apr 2003,186cm,71kg,Tasmania Devils,Defender,Midfield
+43,Jacob Bauer,Bauer,Jacob,0,20yr 6mth,6 Aug 2002,191cm,80kg,North Adelaide,Forward,NA
+29,Shai Bolton,Bolton,Shai,90,24yr 2mth,8 Dec 1998,175cm,77kg,South Fremantle,Midfield,Forward
+37,Kaelan Bradtke,Bradtke,Kaelan,0,21yr 9mth,21 May 2001,195cm,95kg,Corowa-Rutherglen,Defender,Forward
+35,Nathan Broad,Broad,Nathan,107,29yr 10mth,15 Apr 1993,192cm,89kg,Swan Districts,Defender,NA
+30,Tom Brown,Brown,Tom,0,19yr 6mth,30 Jul 2003,186cm,77kg,Murray Bushrangers,Defender,NA
+44,Seth Campbell,Campbell,Seth,0,18yr 1mth,29 Dec 2004,182cm,73kg,Tasmania Devils,Forward,NA
+11,Jason Castagna,Castagna,Jason,134,26yr 7mth,12 Jul 1996,182cm,82kg,Northern Knights,Forward,NA
+42,Judson Clarke,Clarke,Judson,3,19yr 4mth,17 Oct 2003,179cm,69kg,Dandenong Stingrays,Forward,NA
+39,Mate Colina,Colina,Mate,0,23yr 9mth,20 May 1999,213cm,111kg,Hawaii,Forward,Ruck
+9,Trent Cotchin,Cotchin,Trent,287,32yr 10mth,7 Apr 1990,185cm,86kg,Northern Knights,Midfield,NA
+38,Noah Cumberland,Cumberland,Noah,9,21yr 11mth,15 Mar 2001,183cm,80kg,Brisbane Lions Academy,Forward,NA
+27,Thomson Dow,Dow,Thomson,13,21yr 4mth,16 Oct 2001,183cm,77kg,Bendigo Pioneers,Midfield,NA
+28,Josh Gibcus,Gibcus,Josh,18,19yr 10mth,4 Apr 2003,196cm,87kg,GWV Rebels,Defender,NA
+34,Jack Graham,Graham,Jack,97,25yr,25 Feb 1998,181cm,83kg,North Adelaide,Midfield,Forward
+48,Steely Green,Green,Steely,0,19yr 1mth,9 Jan 2004,179cm,75kg,South Fremantle,Midfield,NA
+2,Dylan Grimes,Grimes,Dylan,207,31yr 7mth,16 Jul 1991,194cm,91kg,Northern Knights,Defender,NA
+22,Jacob Hopper,Hopper,Jacob,114,26yr,6 Feb 1997,187cm,88kg,North Ballarat Rebels,Midfield,NA
+19,Tom Lynch,Lynch,Tom,212,30yr 3mth,31 Oct 1992,199cm,98kg,Dandenong Stingrays,Forward,NA
+31,Rhyan Mansell,Mansell,Rhyan,15,22yr 8mth,4 Jun 2000,180cm,70kg,Woodville West-Torrens,Defender,NA
+4,Dustin Martin,Martin,Dustin,269,31yr 8mth,26 Jun 1991,187cm,91kg,Bendigo Pioneers,Midfield,Forward
+33,Kamdyn Mcintosh,Mcintosh,Kamdyn,146,28yr 10mth,3 Apr 1994,191cm,92kg,Peel Thunder,Midfield,NA
+46,Ben Miller,Miller,Ben,12,23yr 5mth,31 Aug 1999,198cm,96kg,Subiaco,Defender,NA
+25,Toby Nankervis,Nankervis,Toby,121,28yr 6mth,12 Aug 1994,199cm,102kg,North Launceston,Ruck,NA
+47,Bigoa Nyuon,Nyuon,Bigoa,1,21yr 9mth,18 May 2001,197cm,92kg,Dandenong Stingrays,Defender,NA
+50,Marlion Pickett,Pickett,Marlion,57,31yr 1mth,6 Jan 1992,184cm,80kg,South Fremantle,Midfield,NA
+3,Dion Prestia,Prestia,Dion,192,30yr 4mth,12 Oct 1992,175cm,82kg,Calder Cannons,Midfield,NA
+13,Hugo Ralphsmith,Ralphsmith,Hugo,19,21yr 3mth,9 Nov 2001,188cm,83kg,Sandringham Dragons,Defender,NA
+8,Jack Riewoldt,Riewoldt,Jack,326,34yr 3mth,31 Oct 1988,193cm,92kg,Tassie Mariners,Forward,NA
+17,Daniel Rioli,Rioli,Daniel,137,25yr 10mth,16 Apr 1997,179cm,77kg,North Ballarat Rebels,Defender,NA
+10,Maurice Rioli,Rioli,Maurice,17,20yr 5mth,1 Sep 2002,179cm,75kg,Oakleigh Chargers,Forward,NA
+5,Jack Ross,Ross,Jack,44,22yr 5mth,3 Sep 2000,187cm,85kg,Oakleigh Chargers,Midfield,NA
+32,Samson Ryan,Ryan,Samson,1,22yr 2mth,9 Dec 2000,206cm,96kg,Lions Academy,Forward,Ruck
+15,Jayden Short,Short,Jayden,137,27yr 1mth,24 Jan 1996,178cm,76kg,Northern Knights,Midfield,NA
+49,Kaleb Smith,Smith,Kaleb,0,18yr 3mth,20 Nov 2004,180cm,79kg,East Fremantle,Defender,NA
+20,Ivan Soldo,Soldo,Ivan,49,26yr 10mth,14 Apr 1996,204cm,106kg,Daramalan College,Forward,Ruck
+40,Tyler Sonsie,Sonsie,Tyler,7,20yr 1mth,27 Jan 2003,181cm,78kg,Eastern Ranges,Midfield,Forward
+14,Tim Taranto,Taranto,Tim,114,25yr 1mth,28 Jan 1998,188cm,89kg,Sandringham Dragons,Midfield,Forward
+6,Robbie Tarrant,Tarrant,Robbie,194,33yr 10mth,25 Apr 1989,196cm,97kg,Bendigo Pioneers,Defender,NA
+1,Nick Vlastuin,Vlastuin,Nick,190,28yr 10mth,19 Apr 1994,187cm,88kg,Northern Knights,Defender,NA
+45,Tylar Young,Young,Tylar,0,24yr 5mth,5 Sep 1998,196cm,92kg,Richmond VFL,Defender,NA
+26,Jed Adams,Adams,Jed,0,18yr 9mth,14 May 2004,196cm,89kg,Peel Thunder,Defender,NA
+17,Jake Bowey,Bowey,Jake,24,20yr 5mth,12 Sep 2002,176cm,69kg,Sandringham Dragons,Defender,NA
+10,Angus Brayshaw,Brayshaw,Angus,143,27yr 1mth,9 Jan 1996,187cm,91kg,Sandringham Dragons,Defender,NA
+50,Ben Brown,Brown,Ben,162,30yr 3mth,20 Nov 1992,200cm,100kg,Werribee Tigers,Forward,NA
+37,Kade Chandler,Chandler,Kade,10,23yr 1mth,13 Jan 2000,175cm,76kg,Norwood,Forward,NA
+27,Luke Dunstan,Dunstan,Luke,121,28yr,29 Jan 1995,185cm,84kg,Woodville West Torrens,Midfield,NA
+43,Kyah Farris-White,Farris-White,Kyah,NA,NA,NA,NA,NA,NA,NA,NA
+31,Bayley Fritsch,Fritsch,Bayley,109,26yr 2mth,6 Dec 1996,188cm,84kg,Casey Demons,Forward,NA
+11,Max Gawn,Gawn,Max,181,31yr 1mth,30 Dec 1991,208cm,108kg,Sandringham Dragons,Ruck,NA
+6,Brodie Grundy,Grundy,Brodie,177,28yr 10mth,15 Apr 1994,203cm,108kg,Sturt,Ruck,NA
+4,James Harmes,Harmes,James,143,27yr 4mth,5 Oct 1995,185cm,85kg,Dandenong Stingrays,Midfield,Forward
+14,Michael Hibberd,Hibberd,Michael,185,33yr 1mth,3 Jan 1990,186cm,94kg,Frankston,Defender,NA
+22,Blake Howes,Howes,Blake,0,19yr 10mth,7 Apr 2003,190cm,79kg,Sandringham Dragons,Midfield,Forward
+12,Lachlan Hunter,Hunter,Lachlan,173,28yr 2mth,13 Dec 1994,182cm,81kg,Western Jets,Midfield,NA
+21,Matthew Jefferson,Jefferson,Matthew,0,18yr 11mth,8 Mar 2004,195cm,84kg,Oakleigh Chargers,Forward,NA
+23,James Jordon,Jordon,James,47,22yr 2mth,20 Dec 2000,187cm,82kg,Oakleigh Chargers,Midfield,NA
+15,Ed Langdon,Langdon,Ed,132,27yr,1 Feb 1996,182cm,76kg,Sandringham Dragons,Midfield,NA
+16,Bailey Laurie,Laurie,Bailey,0,20yr 11mth,24 Mar 2002,181cm,77kg,Oakleigh Chargers,Midfield,Forward
+8,Jake Lever,Lever,Jake,136,26yr 11mth,5 Mar 1996,195cm,89kg,Calder Cannons,Defender,NA
+1,Steven May,May,Steven,193,31yr 1mth,10 Jan 1992,193cm,100kg,Southern Districts,Defender,NA
+25,Tom McDonald,McDonald,Tom,202,30yr 5mth,18 Sep 1992,194cm,99kg,North Ballarat,Forward,NA
+41,Judd McVee,McVee,Judd,0,19yr 6mth,7 Aug 2003,183cm,72kg,East Fremantle,Defender,Midfield
+18,Jake Melksham,Melksham,Jake,208,31yr 5mth,29 Aug 1991,186cm,86kg,Calder Cannons,Forward,NA
+45,Andy Moniz-Wakefield,Moniz-Wakefield,Andy,0,19yr 4mth,26 Oct 2003,181cm,70kg,NT Thunder,Forward,NA
+30,Alex Neal-Bullen,Neal-Bullen,Alex,128,27yr 1mth,9 Jan 1996,183cm,80kg,Glenelg,Forward,NA
+13,Clayton Oliver,Oliver,Clayton,147,25yr 7mth,22 Jul 1997,187cm,88kg,Murray Bushrangers,Midfield,NA
+5,Christian Petracca,Petracca,Christian,151,27yr 1mth,4 Jan 1996,186cm,97kg,Eastern Ranges,Midfield,NA
+35,Harrison Petty,Petty,Harrison,48,23yr 3mth,12 Nov 1999,197cm,90kg,Norwood,Defender,NA
+36,Kysaiah Pickett,Pickett,Kysaiah,62,21yr 8mth,2 Jun 2001,171cm,72kg,Woodville West Torrens,Forward,NA
+24,Trent Rivers,Rivers,Trent,52,21yr 6mth,30 Jul 2001,188cm,88kg,East Fremantle,Defender,NA
+3,Christian Salem,Salem,Christian,143,27yr 7mth,15 Jul 1995,183cm,84kg,Sandringham Dragons,Defender,NA
+19,Josh Schache,Schache,Josh,72,25yr 6mth,21 Aug 1997,201cm,94kg,Murray Bushrangers,Forward,NA
+38,Oliver Sestan,Sestan,Oliver,0,18yr 10mth,15 Apr 2004,186cm,88kg,Mansfield,Forward,NA
+34,Deakyn Smith,Smith,Deakyn,0,20yr 6mth,22 Aug 2002,179cm,65kg,Dandenong Stingrays,Defender,NA
+29,Joel Smith,Smith,Joel,28,27yr,25 Feb 1996,191cm,88kg,Geelong Supercats,Defender,NA
+9,Charlie Spargo,Spargo,Charlie,83,23yr 3mth,25 Nov 1999,173cm,74kg,Murray Bushrangers,Forward,NA
+32,Tom Sparrow,Sparrow,Tom,51,22yr 8mth,31 May 2000,183cm,84kg,South Adelaide,Midfield,Forward
+20,Adam Tomlinson,Tomlinson,Adam,168,29yr 6mth,10 Aug 1993,194cm,96kg,Oakleigh Chargers,Defender,NA
+42,Daniel Turner,Turner,Daniel,1,21yr 1mth,28 Jan 2002,192cm,80kg,Murray Bushrangers,Defender,NA
+33,Kye Turner,Turner,Kye,0,21yr,6 Feb 2002,193cm,78kg,Frankston,Defender,NA
+2,Jacob Van Rooyen,Van Rooyen,Jacob,0,19yr 10mth,16 Apr 2003,193cm,91kg,Claremont,Forward,NA
+28,Will Verrall,Verrall,Will,0,18yr 11mth,11 Mar 2004,199cm,95kg,South Adelaide,Ruck,NA
+7,Jack Viney,Viney,Jack,172,28yr 10mth,13 Apr 1994,178cm,86kg,Oakleigh Chargers,Midfield,NA
+40,Taj Woewodin,Woewodin,Taj,0,19yr 11mth,26 Mar 2003,183cm,78kg,East Fremantle,Midfield,Forward
+13,Oskar Baker,Baker,Oskar,15,24yr 9mth,25 May 1998,184cm,84kg,Aspley,Midfield,NA
+26,Dominic Bedendo,Bedendo,Dominic,2,20yr 7mth,9 Jul 2002,191cm,75kg,Murray Bushrangers,Midfield,NA
+4,Marcus Bontempelli,Bontempelli,Marcus,193,27yr 3mth,24 Nov 1995,193cm,93kg,Northern Knights,Midfield,NA
+17,Josh Bruce,Bruce,Josh,155,30yr 8mth,8 Jun 1992,198cm,97kg,Canberra,Forward,NA
+5,Jedd Busslinger,Busslinger,Jedd,0,18yr 11mth,11 Mar 2004,196cm,83kg,East Perth,Defender,NA
+8,Charlie Clarke,Clarke,Charlie,0,19yr 1mth,4 Jan 2004,183cm,79kg,Sandringham Dragons,Forward,NA
+36,Luke Cleary,Cleary,Luke,4,20yr 11mth,5 Mar 2002,190cm,80kg,Sandringham Dragons,Defender,NA
+9,Hayden Crozier,Crozier,Hayden,138,29yr 2mth,24 Dec 1993,187cm,81kg,Eastern Ranges,Defender,NA
+31,Bailey Dale,Dale,Bailey,108,26yr 7mth,22 Jul 1996,187cm,83kg,Dandenong Stingrays,Defender,NA
+35,Caleb Daniel,Daniel,Caleb,153,26yr 7mth,7 Jul 1996,170cm,69kg,South Adelaide,Defender,NA
+10,Sam Darcy,Darcy,Sam,4,19yr 7mth,19 Jul 2003,204cm,73kg,Oakleigh Chargers,Defender,Forward
+15,Taylor Duryea,Duryea,Taylor,172,31yr 10mth,24 Apr 1991,181cm,79kg,Murray Bushrangers,Defender,NA
+44,Timothy English,English,Timothy,85,25yr 6mth,10 Aug 1997,207cm,103kg,South Fremantle,Ruck,NA
+12,Harvey Gallagher,Gallagher,Harvey,0,19yr 5mth,26 Sep 2003,179cm,77kg,Bendigo Pioneers,Defender,Forward
+38,Riley Garcia,Garcia,Riley,16,22yr,30 Jan 2001,177cm,72kg,Swan Districts,Forward,NA
+43,Ryan Gardner,Gardner,Ryan,43,25yr 8mth,1 Jun 1997,197cm,95kg,Burnie Dockers,Defender,NA
+29,Mitchell Hannan,Hannan,Mitchell,74,28yr 11mth,9 Mar 1994,190cm,88kg,Footscray,Defender,NA
+39,Jason Johannisen,Johannisen,Jason,176,30yr 3mth,8 Nov 1992,181cm,81kg,East Fremantle,Forward,NA
+32,Arthur Jones,Jones,Arthur,0,19yr 7mth,18 Jul 2003,179cm,65kg,Claremont,Forward,NA
+19,Liam Jones,Jones,Liam,161,32yr,24 Feb 1991,199cm,97kg,Scotch College,Defender,NA
+42,Alex Keath,Keath,Alex,86,31yr 1mth,20 Jan 1992,197cm,99kg,Murray Bushrangers,Defender,NA
+24,Buku Khamis,Khamis,Buku,9,22yr 11mth,24 Mar 2000,190cm,85kg,Western Jets,Defender,Forward
+21,Thomas Liberatore,Liberatore,Thomas,195,30yr 9mth,16 May 1992,184cm,85kg,Calder Cannons,Midfield,NA
+7,Rory Lobb,Lobb,Rory,140,30yr,9 Feb 1993,207cm,106kg,Swan Districts,Forward,NA
+11,Jackson Macrae,Macrae,Jackson,208,28yr 6mth,3 Aug 1994,192cm,88kg,Oakleigh Chargers,Midfield,NA
+27,Robbie McComb,McComb,Robbie,15,27yr 2mth,19 Dec 1995,180cm,82kg,Footscray,Midfield,Forward
+16,Toby McLean,McLean,Toby,96,27yr,31 Jan 1996,181cm,83kg,Oakleigh Chargers,Midfield,Forward
+30,Lachlan McNeil,McNeil,Lachlan,29,21yr 5mth,2 Sep 2001,184cm,78kg,Woodville-west Torrens,Midfield,Forward
+33,Aaron Naughton,Naughton,Aaron,100,23yr 2mth,30 Nov 1999,195cm,93kg,Peel Thunder,Forward,NA
+22,Tim O'Brien,O'Brien,Tim,108,28yr 11mth,28 Mar 1994,193cm,92kg,Glenelg,Defender,NA
+40,Cody Raak,Raak,Cody,0,20yr 4mth,8 Oct 2002,192cm,80kg,Western Jets,Defender,Forward
+20,Ed Richards,Richards,Ed,85,23yr 7mth,3 Jul 1999,188cm,86kg,Oakleigh Chargers,Defender,NA
+28,Anthony Scott,Scott,Anthony,35,28yr,28 Feb 1995,180cm,77kg,Footscray,Midfield,NA
+6,Bailey Smith,Smith,Bailey,84,22yr 2mth,7 Dec 2000,185cm,86kg,Sandringham Dragons,Midfield,NA
+37,Roarke Smith,Smith,Roarke,47,26yr 5mth,11 Sep 1996,184cm,82kg,Calder Cannons,Midfield,NA
+41,Jordon Sweet,Sweet,Jordon,11,25yr,2 Feb 1998,205cm,103kg,North Adelaide,Ruck,NA
+1,Adam Treloar,Treloar,Adam,212,29yr 11mth,9 Mar 1993,184cm,89kg,Aspendale,Midfield,NA
+2,Jamarra Ugle-Hagan,Ugle-Hagan,Jamarra,22,20yr 10mth,4 Apr 2002,197cm,91kg,Oakleigh Chargers,Forward,NA
+23,Laitham Vandermeer,Vandermeer,Laitham,33,24yr,3 Feb 1999,181cm,79kg,Murray Bushrangers,Forward,NA
+3,Cody Weightman,Weightman,Cody,40,22yr 1mth,15 Jan 2001,178cm,74kg,Dandenong Stingrays,Forward,NA
+14,Rhylee West,West,Rhylee,25,22yr 7mth,12 Jul 2000,182cm,81kg,Calder Cannons,Forward,NA
+34,Bailey Williams,Williams,Bailey,104,25yr 4mth,10 Oct 1997,189cm,86kg,Glenelg,Defender,Midfield
+13,Blake Acres,Acres,Blake,120,27yr 4mth,7 Oct 1995,189cm,91kg,West Perth,Midfield,NA
+41,Domanic Akuei,Akuei,Domanic,0,20yr 9mth,12 May 2002,194cm,76kg,Carlton Academy,Defender,Ruck
+32,Jaxon Binns,Binns,Jaxon,0,18yr 3mth,29 Oct 2004,182cm,71kg,Dandenong Stingrays,Midfield,Forward
+37,Jordan Boyd,Boyd,Jordan,7,24yr 5mth,22 Sep 1998,182cm,81kg,Footscray,Defender,NA
+16,Jack Carroll,Carroll,Jack,5,20yr 2mth,20 Dec 2002,188cm,81kg,East Fremantle,Forward,NA
+5,Adam Cerra,Cerra,Adam,94,23yr 4mth,7 Oct 1999,187cm,86kg,Eastern Ranges,Midfield,NA
+0,Alex Cincotta,Cincotta,Alex,0,26yr 2mth,17 Dec 1996,186cm,86kg,Newtown,Defender,Midfield
+46,Matt Cottrell,Cottrell,Matt,37,22yr 11mth,29 Feb 2000,185cm,80kg,Dandenong Stingrays,Midfield,Forward
+26,Lachlan Cowan,Cowan,Lachlan,0,18yr 2mth,1 Dec 2004,187cm,81kg,Tasmania Devils,Defender,NA
+9,Patrick Cripps,Cripps,Patrick,159,27yr 11mth,18 Mar 1995,195cm,95kg,East Fremantle,Midfield,NA
+28,David Cuningham,Cuningham,David,41,25yr 10mth,30 Mar 1997,186cm,84kg,Oakleigh Chargers,Midfield,Forward
+30,Charlie Curnow,Curnow,Charlie,84,26yr,3 Feb 1997,192cm,94kg,Geelong Falcons,Forward,NA
+35,Edward Curnow,Curnow,Edward,204,33yr 3mth,7 Nov 1989,179cm,86kg,Geelong Falcons,Midfield,NA
+12,Tom De Koning,De Koning,Tom,41,23yr 7mth,16 Jul 1999,203cm,100kg,Dandenong Stingrays,Ruck,NA
+15,Sam Docherty,Docherty,Sam,144,29yr 4mth,17 Oct 1993,185cm,85kg,Gippsland Power,Defender,NA
+2,Paddy Dow,Dow,Paddy,63,23yr 4mth,16 Oct 1999,187cm,83kg,Bendigo Pioneers,Midfield,NA
+19,Corey Durdin,Durdin,Corey,23,20yr 10mth,14 Apr 2002,173cm,77kg,Central Districts,Forward,NA
+38,Sam Durdin,Durdin,Sam,23,26yr 8mth,6 Jun 1996,198cm,97kg,West Adelaide,Defender,NA
+25,Zac Fisher,Fisher,Zac,95,24yr 8mth,15 Jun 1998,179cm,76kg,Perth,Forward,NA
+8,Lachlan Fogarty,Fogarty,Lachlan,43,23yr 10mth,1 Apr 1999,180cm,78kg,Western Jets,Midfield,Forward
+29,George Hewett,Hewett,George,135,27yr 1mth,29 Dec 1995,187cm,84kg,North Adelaide,Midfield,NA
+14,Oliver Hollands,Hollands,Oliver,0,19yr 1mth,16 Jan 2004,183cm,71kg,Murray Bushrangers,Midfield,NA
+36,Josh Honey,Honey,Josh,11,21yr 4mth,17 Oct 2001,186cm,84kg,Western Jets,Forward,NA
+17,Brodie Kemp,Kemp,Brodie,6,21yr 9mth,1 May 2001,193cm,81kg,Bendigo Pioneers,Defender,Forward
+7,Matthew Kennedy,Kennedy,Matthew,78,25yr 10mth,6 Apr 1997,190cm,90kg,Collingullie Ashmont Kapooka,Midfield,NA
+31,Harry Lemmey,Lemmey,Harry,0,19yr,30 Jan 2004,200cm,95kg,West Adelaide,Forward,NA
+22,Caleb Marchbank,Marchbank,Caleb,52,26yr 2mth,7 Dec 1996,193cm,94kg,Murray Bushrangers,Defender,NA
+21,Jack Martin,Martin,Jack,135,28yr,29 Jan 1995,186cm,80kg,Geraldton,Forward,NA
+11,Mitch McGovern,McGovern,Mitch,88,28yr 4mth,11 Oct 1994,191cm,89kg,Claremont,Defender,NA
+10,Harry McKay,McKay,Harry,86,25yr 2mth,24 Dec 1997,204cm,105kg,Gippsland Power,Forward,NA
+45,Alex Mirkov,Mirkov,Alex,0,23yr 3mth,17 Nov 1999,210cm,104kg,Carlton,Ruck,NA
+3,Jesse Motlop,Motlop,Jesse,12,19yr 3mth,23 Nov 2003,179cm,80kg,South Fremantle,Forward,NA
+24,Nic Newman,Newman,Nic,86,30yr 1mth,15 Jan 1993,187cm,83kg,Frankston,Defender,NA
+4,Lochie O'Brien,O'Brien,Lochie,60,23yr 5mth,18 Sep 1999,185cm,82kg,Bendigo Pioneers,Midfield,NA
+0,Hudson O'Keeffe,O'Keeffe,Hudson,0,18yr 2mth,16 Dec 2004,202cm,90kg,Oakleigh Chargers,Ruck,NA
+44,Matt Owies,Owies,Matt,31,25yr 11mth,19 Mar 1997,180cm,81kg,St Kevins,Forward,NA
+34,Sam Philp,Philp,Sam,2,21yr 6mth,4 Aug 2001,186cm,80kg,Northern Knights,Forward,NA
+27,Marc Pittonet,Pittonet,Marc,41,26yr 8mth,3 Jun 1996,202cm,102kg,Oakleigh Chargers,Ruck,NA
+20,Lachlan Plowman,Plowman,Lachlan,144,28yr 5mth,11 Sep 1994,193cm,86kg,Calder Cannons,Defender,NA
+42,Adam Saad,Saad,Adam,152,28yr 7mth,23 Jul 1994,178cm,76kg,Coburg,Defender,NA
+1,Jack Silvagni,Silvagni,Jack,99,25yr 2mth,17 Dec 1997,194cm,91kg,Oakleigh Chargers,Forward,NA
+18,Sam Walsh,Walsh,Sam,81,22yr 7mth,2 Jul 2000,184cm,83kg,Geelong Falcons,Midfield,NA
+23,Jacob Weitering,Weitering,Jacob,133,25yr 3mth,23 Nov 1997,196cm,101kg,Mount Eliza Football Club,Defender,NA
+6,Zachary Williams,Williams,Zachary,136,28yr 5mth,20 Sep 1994,185cm,86kg,Narrandera,Defender,NA
+33,Lewis Young,Young,Lewis,43,24yr 2mth,20 Dec 1998,201cm,100kg,Sturt,Defender,NA
+27,Oscar Adams,Adams,Oscar,0,19yr 7mth,23 Jul 2003,197cm,85kg,Glenelg,Defender,NA
+30,Matthew Allison,Allison,Matthew,0,21yr,29 Jan 2002,195cm,79kg,Calder Cannons,Defender,Forward
+26,Josh Battle,Battle,Josh,77,24yr 5mth,1 Sep 1998,193cm,92kg,Dandenong Stingrays,Defender,NA
+15,Jack Billings,Billings,Jack,152,27yr 6mth,18 Aug 1995,185cm,82kg,Oakleigh Chargers,Midfield,NA
+16,Daniel Butler,Butler,Daniel,105,26yr 8mth,3 Jun 1996,182cm,80kg,North Ballarat Rebels,Forward,NA
+13,Ryan Byrnes,Byrnes,Ryan,28,21yr 9mth,3 May 2001,180cm,81kg,Sandringham Dragons,Midfield,Forward
+23,Jack Bytel,Bytel,Jack,16,22yr 11mth,14 Mar 2000,189cm,84kg,Calder Cannons,Midfield,NA
+47,Anthony Caminiti,Caminiti,Anthony,0,19yr 2mth,9 Dec 2003,196cm,83kg,Northern Knights,Forward,NA
+38,Tom Campbell,Campbell,Tom,56,31yr 3mth,2 Nov 1991,201cm,105kg,Bendigo Bombers,Forward,Ruck
+11,Hunter Clark,Clark,Hunter,68,23yr 11mth,26 Mar 1999,186cm,83kg,Dandenong Stingrays,Defender,NA
+1,Nicholas Coffield,Coffield,Nicholas,52,23yr 4mth,23 Oct 1999,191cm,88kg,Northern Knights,Defender,NA
+37,Leo Connolly,Connolly,Leo,7,21yr 6mth,7 Aug 2001,181cm,78kg,Gippsland Power,Defender,NA
+21,Zaine Cordy,Cordy,Zaine,118,26yr 4mth,27 Oct 1996,195cm,92kg,Geelong Falcons,Defender,NA
+5,Brad Crouch,Crouch,Brad,136,29yr 1mth,14 Jan 1994,186cm,85kg,North Ballarat Rebels,Midfield,NA
+4,Jade Gresham,Gresham,Jade,113,25yr 6mth,24 Aug 1997,177cm,80kg,Northern Knights,Midfield,Forward
+18,Jack Hayes,Hayes,Jack,5,25yr 11mth,6 Mar 1997,193cm,91kg,Woodville-West Torrens,Forward,NA
+42,Max Heath,Heath,Max,0,20yr 4mth,24 Oct 2002,204cm,93kg,Sandringham Dragons,Forward,Ruck
+22,Jack Higgins,Higgins,Jack,80,23yr 11mth,19 Mar 1999,178cm,79kg,Oakleigh Chargers,Forward,NA
+34,Tom Highmore,Highmore,Tom,16,25yr,24 Feb 1998,193cm,89kg,South Adelaide,Defender,NA
+8,Bradley Hill,Hill,Bradley,211,29yr 7mth,9 Jul 1993,182cm,80kg,West Perth,Defender,Forward
+39,Olli Hotton,Hotton,Olli,0,18yr 5mth,6 Sep 2004,182cm,79kg,Sandringham Dragons,Midfield,Forward
+20,Dougal Howard,Howard,Dougal,102,26yr 11mth,25 Mar 1996,199cm,97kg,Murray Bushrangers,Defender,NA
+3,Zak Jones,Jones,Zak,132,27yr 11mth,15 Mar 1995,182cm,80kg,Dandenong Stingrays,Midfield,NA
+40,Isaac Keeler,Keeler,Isaac,0,18yr 10mth,23 Apr 2004,198cm,89kg,North Adelaide,Forward,Ruck
+12,Max King,King,Max,60,22yr 7mth,7 Jul 2000,202cm,97kg,Sandringham Dragons,Forward,NA
+19,Rowan Marshall,Marshall,Rowan,86,27yr 3mth,24 Nov 1995,201cm,105kg,North Ballarat,Ruck,NA
+36,Daniel McKenzie,McKenzie,Daniel,73,26yr 9mth,17 May 1996,184cm,83kg,Oakleigh Chargers,Midfield,NA
+41,Angus McLennan,McLennan,Angus,NA,NA,NA,NA,NA,NA,NA,NA
+28,Tim Membrey,Membrey,Tim,153,28yr 9mth,26 May 1994,188cm,88kg,Gippsland Power,Forward,NA
+10,Mitchito Owens,Owens,Mitchito,7,19yr 5mth,24 Sep 2003,190cm,85kg,Sandringham Dragons,Forward,NA
+33,Ben Paton,Paton,Ben,55,24yr 4mth,19 Oct 1998,186cm,83kg,Murray Bushrangers,Defender,NA
+45,Jack Peris,Peris,Jack,0,19yr 2mth,17 Dec 2003,176cm,69kg,Sandringham Dragons,Midfield,Forward
+25,Mattaes Phillipou,Phillipou,Mattaes,0,18yr 2mth,27 Dec 2004,190cm,89kg,Eagles,Midfield,Forward
+6,Sebastian Ross,Ross,Sebastian,181,29yr 9mth,7 May 1993,187cm,86kg,North Ballarat Rebels,Midfield,NA
+43,Cooper Sharman,Sharman,Cooper,15,22yr 7mth,25 Jul 2000,193cm,83kg,Woodville-West Torrens,Defender,Forward
+35,Jack Sinclair,Sinclair,Jack,141,28yr,12 Feb 1995,181cm,82kg,Oakleigh Chargers,Defender,NA
+9,Jack Steele,Steele,Jack,137,27yr 2mth,13 Dec 1995,187cm,91kg,Belconnen,Midfield,NA
+14,Liam Stocker,Stocker,Liam,28,23yr 1mth,23 Jan 2000,184cm,85kg,Sandringham Dragons,Defender,NA
+31,James Van Es,Van Es,James,0,18yr 6mth,7 Aug 2004,197cm,98kg,Greater Western Victoria Rebels,Defender,NA
+7,Nasiah Wanganeen-Milera,Wanganeen-Milera,Nasiah,17,20yr,22 Feb 2003,187cm,71kg,Glenelg,Midfield,NA
+29,Jimmy Webster,Webster,Jimmy,133,29yr 8mth,28 Jun 1993,188cm,84kg,Glenorchy,Defender,NA
+44,Callum Wilkie,Wilkie,Callum,85,26yr 11mth,10 Mar 1996,191cm,88kg,North Adelaide,Defender,NA
+17,Marcus Windhager,Windhager,Marcus,18,19yr 9mth,16 May 2003,185cm,85kg,Sandringham Dragons,Midfield,Forward
+32,Mason Wood,Wood,Mason,93,29yr 5mth,13 Sep 1993,192cm,87kg,Geelong Falcons,Midfield,NA
+13,Taylor Adams,Adams,Taylor,183,29yr 5mth,20 Sep 1993,181cm,84kg,Geelong Falcons,Midfield,NA
+16,Edward Allan,Allan,Edward,0,18yr 9mth,26 May 2004,194cm,83kg,Claremont,Midfield,NA
+39,Aiden Begg,Begg,Aiden,3,20yr 4mth,8 Oct 2002,197cm,87kg,Eastern Ranges,Forward,Ruck
+8,Trent Bianco,Bianco,Trent,22,22yr 1mth,20 Jan 2001,188cm,73kg,Oakleigh Chargers,Midfield,Forward
+14,Darcy Cameron,Cameron,Darcy,53,27yr 7mth,18 Jul 1995,204cm,101kg,Claremont,Forward,Ruck
+45,Josh Carmichael,Carmichael,Josh,7,23yr 1mth,1 Jan 2000,189cm,88kg,West Adelaide,Midfield,Forward
+46,Mason Cox,Cox,Mason,94,31yr 11mth,14 Mar 1991,211cm,109kg,Oklahoma State,Forward,Ruck
+25,Jack Crisp,Crisp,Jack,200,29yr 4mth,2 Oct 1993,190cm,90kg,Murray Bushrangers,Midfield,NA
+7,Josh Daicos,Daicos,Josh,77,24yr 3mth,26 Nov 1998,178cm,77kg,Oakleigh Chargers,Midfield,NA
+35,Nick Daicos,Daicos,Nick,25,20yr 1mth,3 Jan 2003,182cm,73kg,Oakleigh Chargers,Defender,NA
+2,Jordan De Goey,De Goey,Jordan,137,26yr 11mth,15 Mar 1996,188cm,92kg,Oakleigh Chargers,Midfield,NA
+43,Charlie Dean,Dean,Charlie,0,21yr 8mth,19 Jun 2001,195cm,86kg,Williamstown VFL,Defender,NA
+19,Arlo Draper,Draper,Arlo,0,20yr,30 Jan 2003,186cm,75kg,South Adelaide,Defender,NA
+5,Jamie Elliott,Elliott,Jamie,155,30yr 6mth,21 Aug 1992,178cm,79kg,Murray Bushrangers,Forward,NA
+17,Billy Frampton,Frampton,Billy,24,26yr 3mth,20 Nov 1996,202cm,97kg,South Fremantle,Defender,NA
+33,Jack Ginnivan,Ginnivan,Jack,28,20yr 2mth,9 Dec 2002,184cm,78kg,Bendigo Pioneers,Forward,NA
+36,Harvey Harrison,Harrison,Harvey,0,19yr 4mth,11 Oct 2003,178cm,70kg,North Adelaide,Forward,NA
+23,Bobby Hill,Hill,Bobby,41,23yr,9 Feb 2000,175cm,73kg,Perth,Forward,NA
+32,Will Hoskin-Elliott,Hoskin-Elliott,Will,181,29yr 5mth,2 Sep 1993,186cm,81kg,Western Jets,Forward,NA
+38,Jeremy Howe,Howe,Jeremy,219,32yr 7mth,29 Jun 1990,190cm,85kg,Hobart,Defender,NA
+40,Ash Johnson,Johnson,Ash,9,25yr 4mth,6 Oct 1997,193cm,85kg,Sturt,Forward,NA
+20,Will Kelly,Kelly,Will,3,22yr 6mth,16 Aug 2000,194cm,93kg,Oakleigh Chargers,Defender,NA
+15,Nathan Kreuger,Kreuger,Nathan,7,23yr 8mth,25 Jun 1999,196cm,88kg,South Adelaide,Forward,NA
+1,Patrick Lipinski,Lipinski,Patrick,81,24yr 7mth,17 Jul 1998,187cm,84kg,Northern Knights,Midfield,Forward
+18,Finlay Macrae,Macrae,Finlay,11,20yr 11mth,13 Mar 2002,187cm,81kg,Oakleigh Chargers,Midfield,Forward
+37,Oleg Markov,Markov,Oleg,51,26yr 9mth,8 May 1996,188cm,85kg,North Adelaide,Defender,NA
+4,Brayden Maynard,Maynard,Brayden,161,26yr 5mth,20 Sep 1996,189cm,93kg,Sandringham Dragons,Defender,NA
+31,Beau McCreery,McCreery,Beau,35,21yr 10mth,19 Apr 2001,186cm,83kg,South Adelaide,Forward,NA
+26,Reef McInnes,McInnes,Reef,6,20yr 2mth,12 Dec 2002,193cm,85kg,Oakleigh Chargers,Forward,NA
+11,Daniel McStay,McStay,Daniel,161,27yr 8mth,24 Jun 1995,195cm,97kg,Eastern Ranges,Forward,NA
+41,Brody Mihocek,Mihocek,Brody,102,30yr,4 Feb 1993,192cm,97kg,Port Melbourne,Forward,NA
+6,Tom Mitchell,Mitchell,Tom,171,29yr 8mth,31 May 1993,182cm,83kg,Claremont,Midfield,NA
+30,Darcy Moore,Moore,Darcy,126,27yr 1mth,25 Jan 1996,203cm,100kg,Oakleigh Chargers,Defender,NA
+27,Cooper Murley,Murley,Cooper,0,19yr 8mth,20 Jun 2003,178cm,70kg,Norwood,Midfield,Forward
+28,Nathan Murphy,Murphy,Nathan,33,23yr 2mth,15 Dec 1999,192cm,89kg,Sandringham Dragons,Defender,NA
+9,John Noble,Noble,John,69,25yr 11mth,25 Mar 1997,180cm,73kg,West Adelaide,Defender,NA
+10,Scott Pendlebury,Pendlebury,Scott,358,35yr 1mth,7 Jan 1988,191cm,90kg,Gippsland Power,Midfield,NA
+3,Isaac Quaynor,Quaynor,Isaac,59,23yr 1mth,15 Jan 2000,180cm,84kg,Oakleigh Chargers,Defender,NA
+29,Joe Richards,Richards,Joe,0,23yr 3mth,23 Nov 1999,177cm,71kg,Wangaratta Football & Netball Club Inc,Midfield,Forward
+21,Trey Ruscoe,Ruscoe,Trey,17,21yr 3mth,3 Nov 2001,193cm,92kg,East Fremantle,Defender,NA
+24,Jakob Ryan,Ryan,Jakob,0,18yr 5mth,20 Sep 2004,189cm,79kg,Glenelg,Defender,NA
+22,Steele Sidebottom,Sidebottom,Steele,289,32yr 1mth,2 Jan 1991,184cm,84kg,Murray Bushrangers,Midfield,NA
+44,Oscar Steene,Steene,Oscar,0,19yr 6mth,23 Aug 2003,201cm,85kg,West Adelaide,Ruck,NA
+12,Tom Wilson,Wilson,Tom,7,25yr 8mth,24 Jun 1997,194cm,86kg,Vic Metro,Defender,Forward
+30,Tom Atkins,Atkins,Tom,82,27yr 5mth,18 Sep 1995,180cm,85kg,Geelong,Defender,Midfield
+24,Jed Bews,Bews,Jed,151,29yr 2mth,14 Dec 1993,186cm,91kg,Geelong Falcons,Defender,NA
+46,Mark Blicavs,Blicavs,Mark,227,31yr 11mth,28 Mar 1991,198cm,102kg,Geelong Vfl,Midfield,Ruck
+12,Jack Bowes,Bowes,Jack,83,25yr 1mth,26 Jan 1998,187cm,88kg,Cairns,Defender,NA
+4,Tanner Bruhn,Bruhn,Tanner,30,20yr 9mth,27 May 2002,183cm,77kg,Geelong Falcons,Midfield,Forward
+5,Jeremy Cameron,Cameron,Jeremy,210,29yr 10mth,1 Apr 1993,196cm,96kg,Dartmore,Forward,NA
+15,Jonathon Ceglar,Ceglar,Jonathon,104,32yr,14 Feb 1991,204cm,102kg,Murray Bushrangers,Ruck,NA
+13,Jhye Clark,Clark,Jhye,0,18yr 7mth,23 Jul 2004,181cm,77kg,Geelong Falcons,Midfield,NA
+40,Ted Clohesy,Clohesy,Ted,0,18yr 8mth,9 Jun 2004,184cm,76kg,Mayo,Midfield,NA
+45,Bradley Close,Close,Bradley,55,24yr 6mth,30 Jul 1998,181cm,71kg,Glenelg,Forward,NA
+6,Toby Conway,Conway,Toby,0,19yr 10mth,24 Apr 2003,205cm,97kg,Geelong Falcons,Ruck,NA
+35,Patrick Dangerfield,Dangerfield,Patrick,303,32yr 10mth,5 Apr 1990,189cm,92kg,Geelong Falcons,Midfield,NA
+16,Sam De Koning,De Koning,Sam,24,22yr,26 Feb 2001,202cm,87kg,Dandenong Stingrays,Defender,NA
+28,Ollie Dempsey,Dempsey,Ollie,2,20yr 1mth,7 Jan 2003,185cm,70kg,Carey Grammar,Forward,NA
+22,Mitchell Duncan,Duncan,Mitchell,258,31yr 8mth,10 Jun 1991,188cm,88kg,East Perth,Defender,NA
+19,Phoenix Foster,Foster,Phoenix,0,18yr 5mth,12 Sep 2004,198cm,90kg,Norwood,Forward,Ruck
+29,Cameron Guthrie,Guthrie,Cameron,230,30yr 6mth,19 Aug 1992,187cm,87kg,Calder Cannons,Midfield,NA
+39,Zach Guthrie,Guthrie,Zach,54,24yr 7mth,30 Jun 1998,187cm,82kg,Calder Cannons,Defender,NA
+26,Tom Hawkins,Hawkins,Tom,327,34yr 7mth,21 Jul 1988,198cm,102kg,Melbourne Grammar,Forward,NA
+38,Jack Henry,Henry,Jack,107,24yr 5mth,29 Aug 1998,192cm,91kg,Geelong Falcons,Defender,NA
+36,Oliver Henry,Henry,Oliver,25,20yr 6mth,29 Jul 2002,189cm,80kg,Geelong Falcons,Forward,NA
+9,Max Holmes,Holmes,Max,30,20yr 5mth,29 Aug 2002,189cm,74kg,Sandringham Dragons,Midfield,NA
+10,Mitchell Knevitt,Knevitt,Mitchell,2,20yr 1mth,8 Jan 2003,193cm,81kg,Geelong Falcons,Midfield,NA
+8,Jake Kolodjashnij,Kolodjashnij,Jake,155,27yr 6mth,9 Aug 1995,193cm,94kg,Launceston,Defender,NA
+25,Flynn Kroeger,Kroeger,Flynn,0,19yr 7mth,23 Jul 2003,183cm,85kg,Eastern Ranges,Midfield,NA
+27,Sam Menegola,Menegola,Sam,116,30yr 11mth,7 Mar 1992,189cm,89kg,Subiaco,Midfield,NA
+32,Gryan Miers,Miers,Gryan,83,23yr 10mth,30 Mar 1999,179cm,81kg,Geelong Falcons,Forward,NA
+34,Oisin Mullin,Mullin,Oisin,0,23yr,11 Feb 2000,178cm,75kg,Mayo,Defender,NA
+31,Oscar Murdoch,Murdoch,Oscar,0,18yr 5mth,24 Sep 2004,190cm,91kg,Geelong Falcons,Defender,NA
+33,Shannon Neale,Neale,Shannon,2,20yr 7mth,25 Jul 2002,202cm,92kg,South Fremantle,Forward,NA
+42,Mark O'Connor,O'Connor,Mark,87,26yr 1mth,17 Jan 1997,191cm,88kg,Ireland,Defender,NA
+3,Brandan Parfitt,Parfitt,Brandan,112,24yr 10mth,27 Apr 1998,180cm,79kg,Nt Thunder,Midfield,NA
+17,Esava Ratugolea,Ratugolea,Esava,59,24yr 7mth,24 Jul 1998,198cm,104kg,Murray Bushrangers,Forward,Ruck
+21,Osca Riccardi,Riccardi,Osca,0,18yr 6mth,23 Aug 2004,177cm,65kg,Geelong Falcons,Defender,Forward
+23,Gary Rohan,Rohan,Gary,177,31yr 8mth,7 Jun 1991,189cm,95kg,Geelong Falcons,Forward,NA
+37,Sam Simpson,Simpson,Sam,19,24yr 8mth,14 Jun 1998,183cm,77kg,Geelong Falcons,Midfield,Forward
+7,Isaac Smith,Smith,Isaac,258,34yr 1mth,30 Dec 1988,188cm,83kg,North Ballarat,Midfield,Forward
+1,Rhys Stanley,Stanley,Rhys,183,32yr 2mth,1 Dec 1990,200cm,102kg,West Adelaide,Ruck,NA
+18,Tyson Stengle,Stengle,Tyson,41,24yr 4mth,19 Oct 1998,172cm,73kg,Woodville West Torrens,Forward,NA
+44,Thomas Stewart,Stewart,Thomas,126,29yr 11mth,15 Mar 1993,190cm,85kg,Geelong Vfl,Defender,NA
+2,Zach Tuohy,Tuohy,Zach,250,33yr 2mth,10 Dec 1989,187cm,91kg,"County Laois, Ireland",Defender,Midfield
+11,Cooper Whyte,Whyte,Cooper,0,20yr,24 Feb 2003,181cm,79kg,Geelong Falcons,Midfield,Forward
+20,James Willis,Willis,James,0,19yr 7mth,10 Jul 2003,181cm,76kg,North Adelaide,Midfield,Forward
+26,Kaine Baldwin,Baldwin,Kaine,4,20yr 8mth,30 May 2002,193cm,89kg,Glenelg,Forward,NA
+24,Nick Bryan,Bryan,Nick,6,21yr 4mth,22 Oct 2001,203cm,97kg,Oakleigh Chargers,Forward,Ruck
+6,Jye Caldwell,Caldwell,Jye,34,22yr 5mth,28 Sep 2000,183cm,83kg,Bendigo Pioneers,Midfield,NA
+13,Nikolas Cox,Cox,Nikolas,27,21yr 1mth,15 Jan 2002,200cm,87kg,Northern Knights,Midfield,NA
+42,Massimo D'Ambrosio,D'Ambrosio,Massimo,8,19yr 8mth,5 Jun 2003,178cm,80kg,Western Jets,Defender,NA
+33,Alwyn Davey,Davey,Alwyn,0,19yr,26 Feb 2004,180cm,76kg,Oakleigh Chargers,Midfield,Forward
+36,Jayden Davey,Davey,Jayden,0,19yr,26 Feb 2004,180cm,78kg,Oakleigh Chargers,Forward,NA
+2,Sam Draper,Draper,Sam,43,24yr 5mth,28 Sep 1998,205cm,105kg,South Adelaide,Ruck,NA
+22,Sam Durham,Durham,Sam,27,21yr 7mth,9 Jul 2001,185cm,75kg,Richmond,Midfield,NA
+35,Matt Guelfi,Guelfi,Matt,83,25yr 6mth,14 Aug 1997,184cm,84kg,Claremont,Forward,NA
+18,Lewis Hayes,Hayes,Lewis,0,18yr 2mth,17 Dec 2004,199cm,84kg,Eastern Ranges,Defender,NA
+21,Dyson Heppell,Heppell,Dyson,213,30yr 9mth,14 May 1992,189cm,87kg,Gippsland Power,Defender,Midfield
+19,Nick Hind,Hind,Nick,64,28yr 6mth,19 Aug 1994,180cm,75kg,Essendon Vfl,Defender,NA
+8,Ben Hobbs,Hobbs,Ben,17,19yr 5mth,16 Sep 2003,183cm,79kg,GWV Rebels,Forward,NA
+23,Harrison Jones,Jones,Harrison,26,22yr,25 Feb 2001,196cm,78kg,Calder Cannons,Forward,NA
+29,Jake Kelly,Kelly,Jake,131,28yr 1mth,21 Jan 1995,190cm,89kg,Oakleigh Chargers,Defender,NA
+4,Kyle Langford,Langford,Kyle,107,26yr 2mth,1 Dec 1996,192cm,88kg,Northern Knights,Midfield,Forward
+15,Jayden Laverde,Laverde,Jayden,91,26yr 10mth,12 Apr 1996,193cm,91kg,Western Jets,Defender,NA
+28,Alastair Lord,Lord,Alastair,1,19yr 3mth,26 Nov 2003,180cm,76kg,Norwood,Defender,NA
+37,Nicholas Martin,Martin,Nicholas,21,21yr 11mth,4 Mar 2001,190cm,86kg,Colts,Midfield,Forward
+41,Cian McBride,McBride,Cian,0,21yr 10mth,19 Apr 2001,197cm,89kg,Ireland,Defender,Ruck
+43,Anthony McDonald-Tipungwuti,McDonald-Tipungwuti,Anthony,126,29yr 10mth,22 Apr 1993,171cm,78kg,Gippsland Power,Forward,NA
+1,Andrew McGrath,McGrath,Andrew,111,24yr 8mth,2 Jun 1998,180cm,83kg,Sandringham Dragons,Defender,Midfield
+47,Jye Menzie,Menzie,Jye,2,20yr 4mth,28 Oct 2002,181cm,79kg,South Adelaide,Forward,NA
+7,Zachary Merrett,Merrett,Zachary,184,27yr 4mth,3 Oct 1995,179cm,83kg,Sandringham Dragons,Midfield,NA
+38,Rhett Montgomerie,Montgomerie,Rhett,0,22yr 8mth,10 Jun 2000,190cm,83kg,SANFL CD,Defender,NA
+45,Anthony Munkara,Munkara,Anthony,0,18yr 4mth,3 Oct 2004,187cm,81kg,West Adelaide,Forward,NA
+3,Darcy Parish,Parish,Darcy,132,25yr 7mth,25 Jul 1997,180cm,80kg,Geelong Falcons,Midfield,NA
+16,Archie Perkins,Perkins,Archie,39,20yr 11mth,26 Mar 2002,188cm,80kg,Sandringham Dragons,Forward,NA
+34,Andrew Phillips,Phillips,Andrew,62,31yr 7mth,3 Jul 1991,201cm,100kg,Lauderdale,Ruck,NA
+27,Mason Redman,Redman,Mason,80,25yr 6mth,26 Aug 1997,187cm,86kg,Glenelg,Defender,NA
+31,Zach Reid,Reid,Zach,8,20yr 11mth,2 Mar 2002,202cm,84kg,Gippsland Power,Defender,NA
+14,Jordan Ridley,Ridley,Jordan,68,24yr 4mth,20 Oct 1998,195cm,93kg,Oakleigh Chargers,Defender,NA
+12,Will Setterfield,Setterfield,Will,57,25yr,5 Feb 1998,192cm,86kg,Sandringham Dragons,Midfield,NA
+9,Dylan Shiel,Shiel,Dylan,199,29yr 11mth,9 Mar 1993,182cm,84kg,Aspendale,Midfield,NA
+11,Will Snelling,Snelling,Will,50,25yr 6mth,6 Aug 1997,175cm,76kg,West Adelaide,Forward,NA
+17,James Stewart,Stewart,James,78,28yr 11mth,4 Mar 1994,199cm,99kg,Sandringham Dragons,Defender,NA
+25,Jake Stringer,Stringer,Jake,172,28yr 10mth,25 Apr 1994,192cm,91kg,Bendigo Pioneers,Forward,NA
+5,Elijah Tsatas,Tsatas,Elijah,0,18yr 4mth,18 Oct 2004,187cm,80kg,Oakleigh Chargers,Midfield,NA
+39,Patrick Voss,Voss,Patrick,0,19yr 7mth,29 Jun 2003,194cm,84kg,Giants Academy,Forward,NA
+40,Tex Wanganeen,Wanganeen,Tex,5,19yr 4mth,10 Oct 2003,175cm,72kg,Oakleigh Chargers,Forward,NA
+10,Sam Weideman,Weideman,Sam,59,25yr 8mth,26 Jun 1997,195cm,94kg,Eastern Ranges,Forward,NA
+20,Peter Wright,Wright,Peter,109,26yr 5mth,8 Sep 1996,203cm,100kg,Calder Cannons,Forward,NA
+30,Brandon Zerk-Thatcher,Zerk-Thatcher,Brandon,29,24yr 6mth,25 Aug 1998,195cm,89kg,Sturt,Defender,NA
+21,Leek Aleer,Aleer,Leek,4,21yr 6mth,21 Aug 2001,195cm,81kg,Central District,Defender,NA
+9,Ryan Angwin,Angwin,Ryan,1,20yr 2mth,12 Dec 2002,185cm,74kg,Gippsland Power,Midfield,Forward
+7,Lachlan Ash,Ash,Lachlan,56,21yr 8mth,21 Jun 2001,186cm,82kg,Murray Bushrangers,Midfield,NA
+14,Toby Bedford,Bedford,Toby,18,22yr 9mth,27 May 2000,179cm,71kg,Dandenong Stingrays,Forward,NA
+32,Kieren Briggs,Briggs,Kieren,9,23yr 4mth,6 Oct 1999,200cm,107kg,Pennant Hills,Ruck,NA
+46,Callum Brown,Brown,Callum,10,22yr 6mth,15 Aug 2000,188cm,92kg,County Derry,Defender,NA
+44,Jack Buckley,Buckley,Jack,17,25yr 2mth,17 Dec 1997,194cm,90kg,Swans Academy,Defender,NA
+5,Aaron Cadman,Cadman,Aaron,0,18yr 11mth,3 Mar 2004,195cm,92kg,Greater Western Victoria Rebels,Forward,NA
+17,Finn Callaghan,Callaghan,Finn,5,19yr 10mth,26 Apr 2003,189cm,82kg,Sandringham Dragons,Midfield,NA
+3,Stephen Coniglio,Coniglio,Stephen,177,29yr 2mth,15 Dec 1993,182cm,86kg,Swan Districts,Midfield,Forward
+13,Isaac Cumming,Cumming,Isaac,55,24yr 6mth,11 Aug 1998,185cm,84kg,Broken Hill,Defender,NA
+16,Brent Daniels,Daniels,Brent,62,23yr 11mth,9 Mar 1999,171cm,76kg,Bendigo Pioneers,Forward,NA
+1,Phil Davis,Davis,Phil,192,32yr 5mth,30 Aug 1990,197cm,94kg,North Adelaide,Defender,NA
+45,Wade Derksen,Derksen,Wade,0,21yr 8mth,18 Jun 2001,197cm,90kg,Peel Thunder,Forward,NA
+34,Josh Fahey,Fahey,Josh,0,19yr 3mth,11 Nov 2003,186cm,76kg,GWS Academy,Defender,Midfield
+29,Cameron Fleeton,Fleeton,Cameron,0,20yr 8mth,17 Jun 2002,191cm,82kg,Geelong Falcons,Defender,NA
+30,Matthew Flynn,Flynn,Matthew,24,25yr 5mth,13 Sep 1997,201cm,104kg,Narrandera,Ruck,NA
+42,Jason Gillbee,Gillbee,Jason,0,18yr 9mth,15 May 2004,191cm,76kg,Bendigo Pioneers,Defender,Midfield
+12,Tom Green,Green,Tom,45,22yr 1mth,23 Jan 2001,191cm,92kg,GWS Giants Academy,Midfield,NA
+4,Toby Greene,Greene,Toby,191,29yr 5mth,25 Sep 1993,182cm,84kg,Oakleigh Chargers,Forward,NA
+35,Max Gruzewski,Gruzewski,Max,0,18yr 7mth,21 Jul 2004,193cm,85kg,Oakleigh Chargers,Defender,NA
+43,Cooper Hamilton,Hamilton,Cooper,4,19yr 5mth,24 Sep 2003,184cm,83kg,Bendigo Pioneers,Defender,NA
+19,Nick Haynes,Haynes,Nick,183,30yr 9mth,18 May 1992,193cm,90kg,Dandenong Stingrays,Defender,NA
+27,Harrison Himmelberg,Himmelberg,Harrison,127,26yr 9mth,8 May 1996,195cm,95kg,Mangoplah Cookardinia United Eastlakes,Defender,Forward
+23,Jesse Hogan,Hogan,Jesse,117,28yr,12 Feb 1995,195cm,102kg,Claremont,Forward,NA
+39,Connor Idun,Idun,Connor,42,22yr 6mth,29 Jul 2000,191cm,88kg,Geelong Falcons,Defender,NA
+2,Darcy Jones,Jones,Darcy,0,18yr 10mth,3 Apr 2004,175cm,64kg,Swan Districts,Midfield,NA
+25,Lachlan Keeffe,Keeffe,Lachlan,97,32yr 10mth,14 Apr 1990,204cm,104kg,Queensland Under 18s,Defender,NA
+22,Joshua Kelly,Kelly,Joshua,176,28yr,12 Feb 1995,184cm,83kg,Sandringham Dragons,Midfield,NA
+40,Adam Kennedy,Kennedy,Adam,148,30yr 7mth,12 Jul 1992,184cm,80kg,Western Jets,Defender,NA
+38,Daniel Lloyd,Lloyd,Daniel,78,31yr,18 Feb 1992,187cm,85kg,Killarney Vale,Forward,NA
+41,Nick Madden,Madden,Nick,0,18yr 9mth,17 May 2004,204cm,112kg,Greater Western Sydney,Forward,Ruck
+31,Toby McMullin,McMullin,Toby,0,18yr 6mth,6 Aug 2004,183cm,82kg,Sandringham Dragons,Forward,NA
+33,Xavier O'Halloran,O'Halloran,Xavier,33,22yr 7mth,11 Jul 2000,186cm,86kg,Western Jets,Midfield,NA
+20,James Peatling,Peatling,James,16,22yr 6mth,21 Aug 2000,182cm,73kg,GWS Giants,Forward,NA
+36,Harry Perryman,Perryman,Harry,86,24yr 2mth,19 Dec 1998,186cm,84kg,Collingullie,Midfield,NA
+11,Braydon Preuss,Preuss,Braydon,28,27yr 8mth,16 Jun 1995,206cm,113kg,Surfers Paradise,Ruck,NA
+26,Jake Riccardi,Riccardi,Jake,29,23yr 3mth,7 Nov 1999,195cm,93kg,Werribee,Forward,NA
+24,Harry Rowston,Rowston,Harry,0,18yr 6mth,12 Aug 2004,182cm,81kg,Griffith Swans FNC,Midfield,NA
+18,Conor Stone,Stone,Conor,6,20yr 10mth,22 Apr 2002,188cm,85kg,Oakleigh Chargers,Forward,NA
+15,Sam Taylor,Taylor,Sam,75,23yr 9mth,5 May 1999,196cm,96kg,Swan Districts,Defender,NA
+8,Callan Ward,Ward,Callan,270,32yr 10mth,10 Apr 1990,187cm,83kg,Western Jets,Midfield,NA
+10,Jacob Wehr,Wehr,Jacob,10,24yr 7mth,5 Jul 1998,184cm,70kg,Woodville-west Torrens,Midfield,NA
+6,Lachie Whitfield,Whitfield,Lachie,185,28yr 7mth,18 Jul 1994,185cm,83kg,Dandenong Stingrays,Midfield,NA
+36,Joel Amartey,Amartey,Joel,13,23yr 5mth,2 Sep 1999,197cm,98kg,Sandringham Dragons,Forward,NA
+22,Nick Blakey,Blakey,Nick,78,23yr,27 Feb 2000,195cm,83kg,Unsw,Defender,NA
+16,Braeden Campbell,Campbell,Braeden,25,21yr,4 Feb 2002,181cm,75kg,Sydney Academy,Defender,NA
+4,Ryan Clarke,Clarke,Ryan,81,25yr 8mth,17 Jun 1997,186cm,85kg,Eastern Ranges,Forward,NA
+7,Harry Cunningham,Cunningham,Harry,161,29yr 2mth,6 Dec 1993,181cm,78kg,Turvey Park,Defender,NA
+28,Will Edwards,Edwards,Will,0,19yr 9mth,8 May 2003,197cm,100kg,Sydney,Defender,NA
+13,Oliver Florent,Florent,Oliver,118,24yr 7mth,22 Jul 1998,184cm,82kg,Sandringham Dragons,Defender,NA
+42,Robbie Fox,Fox,Robbie,67,29yr 10mth,16 Apr 1993,185cm,85kg,Coburg,Defender,NA
+10,Aaron Francis,Francis,Aaron,54,25yr 6mth,10 Aug 1997,193cm,92kg,West Adelaide,Defender,Forward
+23,Lance Franklin,Franklin,Lance,341,36yr,30 Jan 1987,199cm,107kg,Perth,Forward,NA
+17,Will Gould,Gould,Will,0,22yr 1mth,14 Jan 2001,191cm,100kg,Glenelg,Defender,NA
+21,Errol Gulden,Gulden,Errol,43,20yr 7mth,18 Jul 2002,176cm,76kg,Sydney Academy,Midfield,Forward
+45,Hugo Hall-Kahan,Hall-Kahan,Hugo,0,19yr 5mth,22 Sep 2003,188cm,80kg,Sandringham Dragons,Forward,NA
+9,Will Hayward,Hayward,Will,114,24yr 4mth,26 Oct 1998,186cm,84kg,North Adelaide,Forward,NA
+5,Isaac Heeney,Heeney,Isaac,154,26yr 9mth,5 May 1996,185cm,83kg,Cardiff,Forward,NA
+31,Tom Hickey,Hickey,Tom,139,31yr 11mth,6 Mar 1991,202cm,96kg,Morningside,Ruck,NA
+18,Jacob Konstanty,Konstanty,Jacob,0,18yr 3mth,9 Nov 2004,177cm,73kg,Gippsland Power,Forward,NA
+19,Peter Ladhams,Ladhams,Peter,43,25yr 1mth,14 Jan 1998,202cm,101kg,Norwood,Ruck,NA
+44,Jake Lloyd,Lloyd,Jake,200,29yr 5mth,20 Sep 1993,180cm,79kg,North Ballarat Rebels,Defender,NA
+32,Jaiden Magor,Magor,Jaiden,0,19yr,16 Feb 2004,185cm,79kg,South Adelaide,Midfield,Forward
+46,Lachlan McAndrew,McAndrew,Lachlan,0,22yr 9mth,26 May 2000,209cm,91kg,Sydney,Forward,Ruck
+39,Patrick McCartin,McCartin,Patrick,59,26yr 10mth,19 Apr 1996,195cm,97kg,Geelong Falcons,Defender,NA
+30,Tom McCartin,McCartin,Tom,95,23yr 1mth,30 Dec 1999,193cm,95kg,Geelong Falcons,Defender,NA
+6,Logan McDonald,McDonald,Logan,24,20yr 10mth,4 Apr 2002,196cm,86kg,Perth Fc,Forward,NA
+27,Justin McInerney,McInerney,Justin,53,22yr 6mth,18 Aug 2000,188cm,82kg,Northern Knights,Midfield,NA
+2,Hayden McLean,McLean,Hayden,31,24yr 1mth,20 Jan 1999,197cm,97kg,Sandringham,Forward,NA
+43,Lewis Melican,Melican,Lewis,52,26yr 3mth,4 Nov 1996,194cm,100kg,Geelong Falcons,Defender,NA
+14,Callum Mills,Mills,Callum,135,25yr 10mth,2 Apr 1997,187cm,86kg,North Shore,Midfield,NA
+35,Caleb Mitchell,Mitchell,Caleb,0,18yr 6mth,10 Aug 2004,187cm,80kg,Murray Bushrangers,Defender,Midfield
+40,Cameron Owen,Owen,Cameron,0,18yr 9mth,28 May 2004,203cm,94kg,Tasmania Devils,Ruck,NA
+11,Tom Papley,Papley,Tom,141,26yr 7mth,13 Jul 1996,177cm,79kg,Gippsland Power,Forward,NA
+26,Luke Parker,Parker,Luke,260,30yr 4mth,25 Oct 1992,183cm,87kg,Dandenong Stingrays,Midfield,NA
+24,Dane Rampe,Rampe,Dane,215,32yr 8mth,2 Jun 1990,188cm,87kg,Williamstown,Defender,NA
+41,Lachlan Rankin,Rankin,Lachlan,0,20yr,5 Feb 2003,182cm,68kg,Oakleigh Chargers,Defender,NA
+20,Sam Reid,Reid,Sam,181,31yr 2mth,27 Dec 1991,196cm,98kg,Murray Bushrangers,Forward,NA
+34,Matthew Roberts,Roberts,Matthew,1,19yr 6mth,31 Jul 2003,183cm,81kg,South Adelaide,Midfield,NA
+8,James Rowbottom,Rowbottom,James,69,22yr 5mth,19 Sep 2000,186cm,82kg,Oakleigh Chargers,Midfield,NA
+33,Marc Sheather,Sheather,Marc,0,20yr 8mth,11 Jun 2002,185cm,84kg,Pennant Hills,Defender,Forward
+29,Angus Sheldrick,Sheldrick,Angus,2,19yr 3mth,7 Nov 2003,179cm,86kg,Claremont,Midfield,Forward
+3,Dylan Stephens,Stephens,Dylan,30,22yr 1mth,8 Jan 2001,184cm,76kg,Norwood,Midfield,NA
+25,Cooper Vickery,Vickery,Cooper,0,18yr 2mth,16 Dec 2004,181cm,72kg,Gippsland Power,Defender,NA
+1,Chad Warner,Warner,Chad,39,21yr 9mth,19 May 2001,181cm,83kg,East Fremantle,Midfield,NA
+37,Corey Warner,Warner,Corey,0,19yr 4mth,7 Oct 2003,182cm,72kg,East Fremantle,Midfield,Forward
+15,Sam Wicks,Wicks,Sam,39,23yr 5mth,14 Sep 1999,180cm,80kg,Swans Academy,Forward,NA
+24,Marcus Adams,Adams,Marcus,73,29yr 7mth,30 Jun 1993,192cm,98kg,West Perth,Defender,NA
+4,Callum Ah Chee,Ah Chee,Callum,105,25yr 4mth,9 Oct 1997,183cm,79kg,South Fremantle,Midfield,NA
+31,Harris Andrews,Andrews,Harris,160,26yr 2mth,11 Dec 1996,202cm,98kg,Aspley,Defender,NA
+43,Noah Answerth,Answerth,Noah,51,23yr 6mth,6 Aug 1999,183cm,80kg,Oakleigh Chargers,Defender,NA
+8,Will Ashcroft,Ashcroft,Will,0,18yr 9mth,6 May 2004,182cm,78kg,Sandringham Dragons,Midfield,NA
+33,Zac Bailey,Bailey,Zac,94,23yr 5mth,23 Sep 1999,182cm,86kg,Norwood,Midfield,Forward
+7,Jarrod Berry,Berry,Jarrod,108,25yr,5 Feb 1998,192cm,88kg,North Ballarat Rebels,Midfield,NA
+34,Shadeau Brain,Brain,Shadeau,0,NA,NA,186cm,80kg,Noosa,Forward,NA
+23,Charlie Cameron,Cameron,Charlie,176,28yr 7mth,5 Jul 1994,180cm,75kg,Swan Districts,Forward,NA
+12,Nakia Cockatoo,Cockatoo,Nakia,49,26yr 4mth,23 Oct 1996,185cm,92kg,Nt Thunder,Forward,NA
+13,Blake Coleman,Coleman,Blake,0,20yr 6mth,6 Aug 2002,182cm,80kg,Brisbane Academy,Forward,NA
+18,Keidean Coleman,Coleman,Keidean,41,22yr 10mth,31 Mar 2000,182cm,78kg,Brisbane,Defender,NA
+3,Joe Daniher,Daniher,Joe,151,28yr 11mth,4 Mar 1994,201cm,96kg,Calder Cannons,Forward,NA
+5,Josh Dunkley,Dunkley,Josh,116,26yr 1mth,9 Jan 1997,191cm,91kg,Gippsland Power,Midfield,Forward
+28,Jaspa Fletcher,Fletcher,Jaspa,0,19yr,24 Feb 2004,183cm,76kg,Brisbane Lions,Midfield,NA
+32,Darcy Fort,Fort,Darcy,26,29yr 6mth,6 Aug 1993,204cm,99kg,Central District,Forward,Ruck
+21,Tom Fullarton,Fullarton,Tom,19,24yr,23 Feb 1999,200cm,92kg,Brisbane Bullets,Forward,NA
+27,Darcy Gardiner,Gardiner,Darcy,154,27yr 5mth,22 Sep 1995,192cm,91kg,Geelong Falcons,Defender,NA
+19,Jack Gunston,Gunston,Jack,225,31yr 4mth,16 Oct 1991,193cm,86kg,Sandringham,Forward,NA
+30,Eric Hipwood,Hipwood,Eric,127,25yr 5mth,13 Sep 1997,203cm,91kg,Aspley,Forward,NA
+41,Darragh Joyce,Joyce,Darragh,13,25yr 10mth,23 Apr 1997,194cm,96kg,Kilkenny,Defender,NA
+45,Kalin Lane,Lane,Kalin,0,21yr 2mth,5 Dec 2001,205cm,99kg,Claremont,Ruck,NA
+35,Ryan Lester,Lester,Ryan,161,30yr 6mth,26 Aug 1992,192cm,85kg,Oakleigh Chargers,Defender,NA
+1,Kai Lohmann,Lohmann,Kai,2,19yr 9mth,6 May 2003,185cm,77kg,GWV Rebels,Forward,NA
+17,Jarryd Lyons,Lyons,Jarryd,181,30yr 7mth,22 Jul 1992,184cm,84kg,Sandringham Dragons,Midfield,NA
+14,James Madden,Madden,James,11,23yr 3mth,15 Nov 1999,188cm,88kg,Dublin,Defender,NA
+36,Rhys Mathieson,Mathieson,Rhys,72,26yr 1mth,10 Jan 1997,186cm,87kg,Geelong Falcons,Midfield,Forward
+11,Lincoln McCarthy,McCarthy,Lincoln,119,29yr 4mth,22 Oct 1993,178cm,81kg,Glenelg,Forward,NA
+6,Hugh McCluggage,McCluggage,Hugh,130,24yr 11mth,3 Mar 1998,185cm,87kg,North Ballarat Rebels,Midfield,NA
+50,Daryl McDowell-White,McDowell-White,Daryl,0,NA,NA,183cm,79kg,Red City Roar,Midfield,Forward
+46,Oscar McInerney,McInerney,Oscar,101,28yr 7mth,10 Jul 1994,204cm,108kg,Casey Scorpions,Ruck,NA
+26,Conor McKenna,McKenna,Conor,79,26yr 11mth,28 Mar 1996,184cm,88kg,"Eglish, Tyrone",Defender,NA
+39,Carter Michael,Michael,Carter,1,20yr 9mth,22 May 2002,188cm,78kg,Maroochydore,Defender,NA
+9,Lachie Neale,Neale,Lachie,220,29yr 9mth,24 May 1993,178cm,85kg,Glenelg,Midfield,NA
+40,Jack Payne,Payne,Jack,27,23yr 4mth,15 Oct 1999,197cm,101kg,Lions Academy,Defender,NA
+20,Jaxon Prior,Prior,Jaxon,30,21yr 8mth,4 Jun 2001,189cm,84kg,West Perth,Midfield,NA
+16,Cameron Rayner,Rayner,Cameron,87,23yr 4mth,21 Oct 1999,186cm,89kg,Western Jets,Forward,NA
+10,Daniel Rich,Rich,Daniel,268,32yr 8mth,7 Jun 1990,183cm,95kg,Subiaco Football Club,Defender,NA
+2,Deven Robertson,Robertson,Deven,25,21yr 7mth,30 Jun 2001,185cm,83kg,Perth,Midfield,NA
+22,Harry Sharp,Sharp,Harry,7,20yr 2mth,17 Dec 2002,182cm,72kg,Gwv Rebels,Midfield,NA
+25,Henry Smith,Smith,Henry,0,20yr 5mth,24 Sep 2002,206cm,100kg,Woodville-west Torrens,Forward,Ruck
+37,Brandon Starcevich,Starcevich,Brandon,71,23yr 7mth,24 Jul 1999,187cm,92kg,East Perth,Defender,NA
+29,James Tunstill,Tunstill,James,3,19yr 7mth,18 Jul 2003,187cm,76kg,East Perth,Midfield,NA
+44,Darcy Wilmot,Wilmot,Darcy,3,19yr 2mth,21 Dec 2003,183cm,75kg,Northern Knights,Defender,NA
+15,Dayne Zorko,Zorko,Dayne,230,34yr,9 Feb 1989,175cm,78kg,Broadbeach,Forward,NA
+21,Aliir Aliir,Aliir,Aliir,107,28yr 5mth,5 Sep 1994,194cm,96kg,East Fremantle,Defender,NA
+45,Nathan Barkla,Barkla,Nathan,0,18yr 10mth,30 Mar 2004,190cm,79kg,Woodville-West Torrens,Midfield,NA
+14,Miles Bergman,Bergman,Miles,33,21yr 4mth,18 Oct 2001,189cm,83kg,Sandringham Dragons,Midfield,NA
+10,Travis Boak,Boak,Travis,327,34yr 6mth,1 Aug 1988,183cm,85kg,Geelong Falcons,Midfield,NA
+26,Riley Bonner,Bonner,Riley,82,25yr 11mth,7 Mar 1997,190cm,85kg,West Adelaide,Defender,NA
+36,Jase Burgoyne,Burgoyne,Jase,8,19yr 7mth,15 Jul 2003,186cm,65kg,Eagles,Defender,NA
+3,Ryan Burton,Burton,Ryan,117,26yr,31 Jan 1997,191cm,90kg,North Adelaide,Defender,NA
+9,Zak Butters,Butters,Zak,68,22yr 5mth,8 Sep 2000,181cm,75kg,Western Jets,Midfield,Forward
+33,Darcy Byrne-Jones,Byrne-Jones,Darcy,150,27yr 5mth,20 Sep 1995,181cm,76kg,Oakleigh Chargers,Defender,NA
+17,Tom Clurey,Clurey,Tom,123,28yr 11mth,23 Mar 1994,193cm,95kg,Murray Bushrangers,Defender,NA
+22,Charlie Dixon,Dixon,Charlie,189,32yr 5mth,23 Sep 1990,200cm,107kg,Redland,Forward,NA
+28,Willem Drew,Drew,Willem,56,24yr 4mth,1 Oct 1998,188cm,87kg,North Ballarat Rebels,Midfield,NA
+43,Trent Dumont,Dumont,Trent,121,27yr 7mth,30 Jun 1995,186cm,87kg,Norwood,Midfield,NA
+7,Xavier Duursma,Duursma,Xavier,57,22yr 7mth,7 Jul 2000,186cm,79kg,Gippsland Power,Midfield,NA
+31,Francis Evans,Evans,Francis,7,21yr 6mth,23 Aug 2001,182cm,80kg,Calder Cannons,Forward,NA
+13,Orazio Fantasia,Fantasia,Orazio,96,27yr 5mth,14 Sep 1995,180cm,74kg,Norwood,Forward,NA
+6,Kane Farrell,Farrell,Kane,49,23yr 11mth,17 Mar 1999,182cm,77kg,Bendigo Pioneers,Midfield,NA
+11,Jeremy Finlayson,Finlayson,Jeremy,86,27yr,9 Feb 1996,197cm,94kg,Hills Eagles,Forward,Ruck
+19,Mitch Georgiades,Georgiades,Mitch,47,21yr 5mth,28 Sep 2001,192cm,87kg,Subiaco,Forward,NA
+25,Sam Hayes,Hayes,Sam,7,23yr 8mth,9 Jun 1999,205cm,102kg,Eastern Ranges,Ruck,NA
+18,Jason Horne-Francis,Horne-Francis,Jason,17,19yr 8mth,21 Jun 2003,185cm,81kg,South Adelaide,Midfield,Forward
+5,Dan Houston,Houston,Dan,121,25yr 9mth,12 May 1997,186cm,88kg,Oakleigh Chargers,Defender,NA
+39,Hugh Jackson,Jackson,Hugh,0,19yr 9mth,3 May 2003,182cm,72kg,North Adelaide,Midfield,Forward
+1,Thomas Jonas,Jonas,Thomas,203,32yr 1mth,9 Jan 1991,188cm,90kg,Norwood,Defender,NA
+34,Lachlan Jones,Jones,Lachlan,20,20yr 10mth,9 Apr 2002,186cm,90kg,-,Defender,Forward
+30,Ollie Lord,Lord,Ollie,0,21yr 1mth,2 Jan 2002,197cm,85kg,Sandringham Dragons,Defender,Forward
+29,Scott Lycett,Lycett,Scott,132,30yr 5mth,26 Sep 1992,203cm,102kg,Port Magpies,Ruck,NA
+40,Kyle Marshall,Marshall,Kyle,0,18yr 10mth,10 Apr 2004,201cm,84kg,South Adelaide,Defender,NA
+4,Todd Marshall,Marshall,Todd,76,24yr 4mth,8 Oct 1998,198cm,90kg,Murray Bushrangers,Forward,NA
+37,Tom McCallum,McCallum,Tom,0,18yr 5mth,15 Sep 2004,193cm,82kg,Tasmania Devils,Defender,NA
+41,Jed McEntee,McEntee,Jed,10,22yr,15 Feb 2001,176cm,76kg,Sturt,Forward,NA
+12,Trent McKenzie,McKenzie,Trent,146,30yr 10mth,3 Apr 1992,191cm,90kg,Western Jets,Defender,NA
+44,Jackson Mead,Mead,Jackson,11,21yr 4mth,30 Sep 2001,184cm,84kg,Woodville West Torrens,Midfield,Forward
+24,Jake Pasini,Pasini,Jake,0,22yr,6 Feb 2001,192cm,83kg,Swan Districts,Defender,NA
+2,Sam Powell-Pepper,Powell-Pepper,Sam,114,25yr 1mth,8 Jan 1998,187cm,96kg,East Perth,Forward,NA
+15,Willie Rioli,Rioli,Willie,51,27yr 8mth,4 Jun 1995,175cm,77kg,Glenelg,Midfield,Forward
+20,Connor Rozee,Rozee,Connor,81,23yr 1mth,22 Jan 2000,185cm,80kg,North Adelaide,Midfield,Forward
+32,Thomas Scully,Scully,Thomas,0,18yr 3mth,2 Nov 2004,203cm,89kg,West Adelaide,Forward,NA
+8,Josh Sinn,Sinn,Josh,1,20yr 1mth,7 Jan 2003,186cm,78kg,Sandringham Dragons,Midfield,Forward
+27,Brynn Teakle,Teakle,Brynn,2,23yr 4mth,16 Oct 1999,203cm,97kg,East Fremantle,Ruck,NA
+38,Dante Visentini,Visentini,Dante,0,20yr,13 Feb 2003,201cm,88kg,Sandringham Dragons,Forward,Ruck
+23,Dylan Williams,Williams,Dylan,1,21yr 7mth,1 Jul 2001,186cm,81kg,Oakleigh Chargers,Forward,NA
+16,Oliver Wines,Wines,Oliver,203,28yr 4mth,7 Oct 1994,187cm,98kg,Bendigo Pioneers,Midfield,NA
+10,Karl Amon,Amon,Karl,124,27yr 6mth,19 Aug 1995,181cm,77kg,Sandringham Dragons,Midfield,NA
+41,Joshua Bennetts,Bennetts,Joshua,0,18yr 6mth,9 Aug 2004,178cm,75kg,Eastern Ranges,Midfield,Forward
+36,James Blanck,Blanck,James,9,22yr 3mth,20 Nov 2000,195cm,85kg,Box Hill Hawks,Defender,NA
+16,Lachlan Bramble,Bramble,Lachlan,19,24yr 10mth,19 Apr 1998,181cm,76kg,Box Hill,Defender,NA
+22,Luke Breust,Breust,Luke,260,32yr 3mth,11 Nov 1990,184cm,83kg,Temora,Forward,NA
+33,Tyler Brockman,Brockman,Tyler,11,20yr 3mth,22 Nov 2002,181cm,80kg,Subiaco,Forward,NA
+30,Sam Butler,Butler,Sam,9,20yr,10 Feb 2003,184cm,73kg,GWV Rebels,Forward,NA
+12,Will Day,Day,Will,33,21yr 8mth,5 Jun 2001,189cm,79kg,West Adelaide,Defender,NA
+8,Sam Frost,Frost,Sam,141,29yr 6mth,28 Aug 1993,194cm,94kg,Sandringham Dragons,Defender,NA
+24,Denver Grainger-Barras,Grainger-Barras,Denver,21,20yr 10mth,17 Apr 2002,195cm,81kg,Swan Districts,Defender,NA
+26,Fergus Greene,Greene,Fergus,5,25yr 2mth,20 Dec 1997,187cm,75kg,Bendigo Pioneers,Forward,NA
+15,Blake Hardwick,Hardwick,Blake,124,26yr,5 Feb 1997,181cm,81kg,Eastern Ranges,Defender,NA
+44,Henry Hustwaite,Hustwaite,Henry,0,18yr 7mth,20 Jul 2004,195cm,84kg,Dandenong Stingrays,Midfield,NA
+4,Jarman Impey,Impey,Jarman,150,27yr 7mth,9 Jul 1995,178cm,81kg,Murray Bushrangers,Defender,NA
+39,Emerson Jeka,Jeka,Emerson,7,21yr 5mth,18 Sep 2001,197cm,93kg,Western Jets,Defender,Forward
+9,Changkuoth Jiath,Jiath,Changkuoth,37,23yr 8mth,13 Jun 1999,185cm,80kg,Ethiopia,Defender,NA
+23,Jacob Koschitzke,Koschitzke,Jacob,36,22yr 7mth,11 Jul 2000,196cm,96kg,Albury,Forward,NA
+2,Mitchell Lewis,Lewis,Mitchell,51,24yr 4mth,14 Oct 1998,198cm,100kg,Calder Cannons,Forward,NA
+27,Ned Long,Long,Ned,1,20yr,5 Feb 2003,195cm,92kg,Northern Knights,Midfield,NA
+18,Max Lynch,Lynch,Max,10,24yr 5mth,12 Sep 1998,200cm,99kg,Murray Bushrangers,Ruck,NA
+31,Connor MacDonald,MacDonald,Connor,20,20yr 1mth,13 Jan 2003,184cm,77kg,Dandenong Stingrays,Forward,NA
+42,Bailey Macdonald,Macdonald,Bailey,0,18yr 6mth,4 Aug 2004,182cm,74kg,Oakleigh Chargers,Defender,NA
+28,Cameron Mackenzie,Mackenzie,Cameron,0,19yr 1mth,21 Jan 2004,188cm,82kg,Sandringham Dragons,Midfield,NA
+32,Finn Maginness,Maginness,Finn,19,22yr,23 Feb 2001,189cm,84kg,Sandringham Dragons,Midfield,NA
+17,Lloyd Meek,Meek,Lloyd,15,24yr 10mth,22 Apr 1998,203cm,109kg,Gwv Rebels,Ruck,NA
+40,Seamus Mitchell,Mitchell,Seamus,0,20yr 7mth,3 Jul 2002,181cm,76kg,Bendigo Pioneers,Defender,Forward
+13,Dylan Moore,Moore,Dylan,52,23yr 6mth,4 Aug 1999,176cm,76kg,Eastern Ranges,Forward,NA
+35,Josh Morris,Morris,Josh,15,21yr 3mth,7 Nov 2001,186cm,80kg,Woodville West Torrens,Defender,NA
+1,Harry Morrison,Morrison,Harry,78,24yr 3mth,12 Nov 1998,180cm,81kg,Murray Bushrangers,Midfield,NA
+11,Conor Nash,Nash,Conor,50,24yr 7mth,28 Jul 1998,197cm,94kg,Dublin,Midfield,NA
+3,Jai Newcombe,Newcombe,Jai,29,21yr 6mth,2 Aug 2001,186cm,85kg,Box Hill,Midfield,NA
+34,Fionn O'Hara,O'Hara,Fionn,0,21yr,28 Feb 2002,186cm,81kg,Westmeath,Defender,NA
+43,Jack O'Sullivan,O'Sullivan,Jack,0,18yr 4mth,22 Oct 2004,178cm,72kg,Oakleigh Chargers,Forward,NA
+38,Max Ramsden,Ramsden,Max,0,19yr 10mth,19 Apr 2003,202cm,86kg,Sandringham Dragons,Forward,Ruck
+7,Ned Reeves,Reeves,Ned,17,24yr 3mth,31 Oct 1998,208cm,104kg,Box Hill,Ruck,NA
+14,Jack Scrimshaw,Scrimshaw,Jack,67,24yr 5mth,4 Sep 1998,193cm,89kg,Sandringham Dragons,Defender,NA
+29,Jai Serong,Serong,Jai,3,20yr,16 Feb 2003,193cm,82kg,Gippsland Power,Forward,NA
+6,James Sicily,Sicily,James,115,28yr 1mth,6 Jan 1995,186cm,87kg,Western Jets,Defender,NA
+21,Cooper Stephens,Stephens,Cooper,7,22yr 1mth,17 Jan 2001,188cm,87kg,Geelong Falcons,Midfield,NA
+25,Josh Ward,Ward,Josh,14,19yr 6mth,17 Aug 2003,181cm,74kg,Northern Knights,Midfield,NA
+37,Joshua Weddle,Weddle,Joshua,0,18yr 9mth,25 May 2004,192cm,92kg,Oakleigh Chargers,Defender,NA
+20,Chad Wingard,Wingard,Chad,204,29yr 6mth,29 Jul 1993,183cm,83kg,Sturt,Forward,NA
+5,James Worpel,Worpel,James,79,24yr 1mth,24 Jan 1999,185cm,86kg,Geelong Falcons,Midfield,NA
+34,Jackson Archer,Archer,Jackson,3,19yr 5mth,1 Sep 2003,183cm,70kg,Northern Knights,Defender,NA
+27,Miller Bergman,Bergman,Miller,1,20yr 1mth,25 Jan 2003,188cm,65kg,Dandenong Stingrays,Defender,NA
+16,Aiden Bonar,Bonar,Aiden,32,23yr 11mth,8 Mar 1999,188cm,87kg,Dandenong Stingrays,Defender,NA
+21,Callum Coleman-Jones,Coleman-Jones,Callum,19,23yr 8mth,13 Jun 1999,200cm,105kg,Sturt,Forward,Ruck
+30,Charlie Comben,Comben,Charlie,2,21yr 7mth,20 Jul 2001,199cm,84kg,Gippsland Power,Forward,NA
+4,Aidan Corr,Corr,Aidan,120,28yr 9mth,17 May 1994,195cm,97kg,Northern Knights,Defender,NA
+10,Ben Cunnington,Cunnington,Ben,229,31yr 7mth,30 Jun 1991,185cm,88kg,Geelong Falcons,Midfield,Forward
+25,Paul Curtis,Curtis,Paul,15,19yr 11mth,4 Mar 2003,185cm,75kg,Western Jets,Forward,NA
+9,Luke Davies-Uniacke,Davies-Uniacke,Luke,71,23yr 8mth,8 Jun 1999,188cm,87kg,Dandenong Stingrays,Midfield,NA
+42,Kallan Dawson,Dawson,Kallan,4,24yr 7mth,22 Jul 1998,194cm,78kg,Williamstown VFL,Defender,NA
+41,Blake Drury,Drury,Blake,0,18yr 3mth,1 Nov 2004,176cm,73kg,Oakleigh Chargers,Midfield,Forward
+32,Jacob Edwards,Edwards,Jacob,0,20yr 3mth,22 Nov 2002,202cm,85kg,Sandringham Dragons,Forward,Ruck
+40,Eddie Ford,Ford,Eddie,8,20yr 8mth,21 Jun 2002,189cm,83kg,Western Jets,Forward,NA
+45,Hamish Free,Free,Hamish,0,24yr 7mth,23 Jul 1998,202cm,103kg,South Fremantle,Ruck,NA
+33,Brayden George,George,Brayden,0,19yr 1mth,13 Jan 2004,187cm,85kg,Murray Bushrangers,Forward,NA
+31,Josh Goater,Goater,Josh,1,19yr 8mth,2 Jun 2003,190cm,80kg,Calder Cannons,Defender,Midfield
+22,Todd Goldstein,Goldstein,Todd,295,34yr 7mth,1 Jul 1988,201cm,103kg,Oakleigh,Ruck,NA
+18,Hugh Greenwood,Greenwood,Hugh,104,30yr 11mth,6 Mar 1992,191cm,94kg,Perth Wildcats,Midfield,NA
+43,Aaron Hall,Hall,Aaron,155,32yr 3mth,9 Nov 1990,185cm,85kg,Hobart,Defender,NA
+37,Cooper Harvey,Harvey,Cooper,0,18yr 7mth,12 Jul 2004,180cm,80kg,Northern Knights,Midfield,Forward
+15,Daniel Howe,Howe,Daniel,96,27yr 2mth,4 Dec 1995,191cm,88kg,Murray Bushrangers,Midfield,NA
+20,Nick Larkey,Larkey,Nick,71,24yr 8mth,6 Jun 1998,198cm,95kg,Oakleigh Chargers,Forward,NA
+35,Charlie Lazzaro,Lazzaro,Charlie,24,20yr 11mth,25 Mar 2002,179cm,73kg,Geelong Falcons,Forward,NA
+19,Griffin Logue,Logue,Griffin,64,24yr 10mth,13 Apr 1998,194cm,100kg,Swan Districts,Defender,Forward
+1,Jack Mahony,Mahony,Jack,42,21yr 3mth,12 Nov 2001,178cm,72kg,Sandringham Dragons,Forward,NA
+11,Luke McDonald,McDonald,Luke,159,28yr,9 Feb 1995,189cm,86kg,Werribee,Defender,NA
+23,Ben McKay,McKay,Ben,52,25yr 2mth,24 Dec 1997,201cm,99kg,Gippsland Power,Defender,NA
+39,Flynn Perez,Perez,Flynn,19,21yr 6mth,25 Aug 2001,188cm,85kg,Bendigo Pioneers,Defender,Midfield
+29,Will Phillips,Phillips,Will,16,20yr 9mth,22 May 2002,181cm,80kg,Oakleigh Chargers,Midfield,NA
+24,Tom Powell,Powell,Tom,31,20yr 11mth,2 Mar 2002,184cm,75kg,Sturt,Midfield,Forward
+8,Bailey Scott,Scott,Bailey,55,22yr 7mth,9 Jul 2000,186cm,77kg,Gc Suns Academy,Defender,Midfield
+3,Harry Sheezel,Sheezel,Harry,0,18yr 4mth,13 Oct 2004,185cm,80kg,Sandringham Dragons,Forward,NA
+14,Liam Shiels,Shiels,Liam,255,31yr 9mth,29 Apr 1991,183cm,84kg,Hawthorn,Midfield,Forward
+12,Jy Simpkin,Simpkin,Jy,116,24yr 11mth,5 Mar 1998,182cm,77kg,Murray Bushrangers,Midfield,NA
+36,Phoenix Spicer,Spicer,Phoenix,6,21yr,30 Jan 2002,173cm,64kg,South Adelaide,Forward,NA
+2,Jaidyn Stephenson,Stephenson,Jaidyn,89,24yr 1mth,15 Jan 1999,188cm,75kg,Eastern Ranges,Forward,NA
+5,Curtis Taylor,Taylor,Curtis,52,22yr 10mth,6 Apr 2000,187cm,78kg,Calder Cannons,Midfield,NA
+26,Tarryn Thomas,Thomas,Tarryn,57,22yr 11mth,25 Mar 2000,189cm,76kg,North Launcestion,Midfield,Forward
+13,Darcy Tucker,Tucker,Darcy,108,26yr 1mth,23 Jan 1997,185cm,84kg,North Ballarat Rebels,Midfield,Forward
+28,Kayne Turner,Turner,Kayne,118,27yr 1mth,31 Dec 1995,180cm,71kg,Wodonga Football,Defender,NA
+6,George Wardlaw,Wardlaw,George,0,18yr 8mth,11 Jun 2004,182cm,79kg,Oakleigh Chargers,Midfield,NA
+38,Tristan Xerri,Xerri,Tristan,24,23yr 11mth,15 Mar 1999,201cm,99kg,Western Jets,Ruck,NA
+17,Lachie Young,Young,Lachie,43,23yr 10mth,6 Apr 1999,189cm,81kg,Mt Eliza Football Netball Club,Defender,NA
+7,Jack Ziebell,Ziebell,Jack,258,32yr,28 Feb 1991,188cm,89kg,Murray Bushrangers,Forward,NA
+44,Cameron Zurhaar,Zurhaar,Cameron,83,24yr 9mth,22 May 1998,189cm,92kg,East Fremantle,Forward,NA
+3,Sam Berry,Berry,Sam,35,21yr,12 Feb 2002,182cm,83kg,Gippsland Power,Midfield,NA
+40,Hugh Bond,Bond,Hugh,0,18yr 5mth,25 Sep 2004,185cm,81kg,Greater Western Victoria Rebels,Midfield,NA
+35,James Borlase,Borlase,James,0,20yr 7mth,18 Jul 2002,192cm,98kg,Sturt,Defender,NA
+21,Tyler Brown,Brown,Tyler,27,23yr 2mth,9 Dec 1999,192cm,86kg,Eastern Ranges,Midfield,Forward
+41,Jordon Butts,Butts,Jordon,43,23yr 1mth,31 Dec 1999,198cm,97kg,Murray Bushrangers,Defender,NA
+15,Brayden Cook,Cook,Brayden,11,20yr 7mth,18 Jul 2002,190cm,85kg,South Adelaide,Midfield,NA
+5,Matt Crouch,Crouch,Matt,136,27yr 10mth,21 Apr 1995,181cm,82kg,North Ballarat Rebels,Midfield,NA
+12,Jordan Dawson,Dawson,Jordan,86,25yr 10mth,9 Apr 1997,192cm,86kg,Sturt,Defender,NA
+39,Tom Doedee,Doedee,Tom,71,25yr 11mth,1 Mar 1997,187cm,89kg,Geelong Falcons,Defender,NA
+31,Billy Dowling,Dowling,Billy,0,18yr 7mth,1 Jul 2004,187cm,80kg,North Adelaide,Midfield,NA
+32,Darcy Fogarty,Fogarty,Darcy,58,23yr 5mth,25 Sep 1999,194cm,99kg,Glenelg,Forward,NA
+44,Lachlan Gollant,Gollant,Lachlan,8,21yr 5mth,12 Sep 2001,192cm,83kg,Calder Cannons,Forward,NA
+17,Will Hamill,Hamill,Will,38,22yr 3mth,17 Nov 2000,187cm,80kg,Dandenong Stingrays,Defender,NA
+6,Jackson Hately,Hately,Jackson,27,22yr 4mth,21 Oct 2000,191cm,91kg,Central District,Midfield,NA
+34,Elliott Himmelberg,Himmelberg,Elliott,38,24yr 8mth,4 Jun 1998,200cm,98kg,Redlands,Forward,NA
+20,Mitchell Hinge,Hinge,Mitchell,21,24yr 8mth,26 Jun 1998,190cm,91kg,Glenelg,Defender,Midfield
+1,Chayce Jones,Jones,Chayce,58,23yr 1mth,14 Jan 2000,180cm,83kg,Launceston,Defender,NA
+48,Mark Keane,Keane,Mark,5,22yr 11mth,17 Mar 2000,194cm,95kg,Cork,Defender,NA
+2,Ben Keays,Keays,Ben,90,26yr,23 Feb 1997,185cm,89kg,Brisbane Reserves,Midfield,NA
+29,Rory Laird,Laird,Rory,202,29yr 1mth,29 Dec 1993,177cm,78kg,West Adelaide,Midfield,NA
+23,Shane McAdam,McAdam,Shane,43,27yr 9mth,28 May 1995,183cm,79kg,Sturt,Forward,NA
+25,Ned McHenry,McHenry,Ned,49,22yr 7mth,13 Jul 2000,179cm,73kg,Geelong Falcons,Forward,NA
+36,Andrew McPherson,McPherson,Andrew,28,23yr 8mth,20 Jun 1999,186cm,86kg,Woodville-West Torrens,Defender,NA
+16,Max Michalanney,Michalanney,Max,0,19yr,26 Feb 2004,190cm,78kg,Norwood,Defender,NA
+30,Wayne Milera,Milera,Wayne,74,25yr 5mth,14 Sep 1997,185cm,84kg,Central District,Forward,NA
+4,Lachlan Murphy,Murphy,Lachlan,76,24yr 2mth,4 Dec 1998,175cm,78kg,Adelaide Football Club,Forward,NA
+28,Nick Murray,Murray,Nick,29,22yr 2mth,18 Dec 2000,193cm,92kg,Allies,Defender,NA
+27,Luke Nankervis,Nankervis,Luke,0,19yr 9mth,25 May 2003,189cm,76kg,Sandringham Dragons,Midfield,Forward
+42,Tariek Newchurch,Newchurch,Tariek,0,20yr 7mth,21 Jul 2002,182cm,78kg,North Adelaide,Forward,NA
+43,Reilly O'Brien,O'Brien,Reilly,77,27yr 6mth,20 Aug 1995,202cm,102kg,Calder Cannons,Ruck,NA
+37,Patrick Parnell,Parnell,Patrick,11,20yr 11mth,4 Mar 2002,178cm,70kg,Murray Bushrangers,Defender,NA
+10,Luke Pedlar,Pedlar,Luke,5,20yr 9mth,17 May 2002,182cm,80kg,Glenelg,Forward,NA
+8,Josh Rachele,Rachele,Josh,13,19yr 10mth,11 Apr 2003,180cm,78kg,Murray Bushrangers,Forward,NA
+22,Izak Rankine,Rankine,Izak,48,22yr 10mth,23 Apr 2000,181cm,82kg,West Adelaide,Forward,NA
+26,Harry Schoenberg,Schoenberg,Harry,46,22yr,21 Feb 2001,182cm,86kg,Woodville West Torrens,Midfield,NA
+11,Paul Seedsman,Seedsman,Paul,132,31yr 1mth,22 Jan 1992,190cm,84kg,Eastern Ranges,Midfield,NA
+38,Lachlan Sholl,Sholl,Lachlan,38,22yr 11mth,7 Mar 2000,186cm,80kg,Calder Cannons,Midfield,NA
+9,Rory Sloane,Sloane,Rory,233,32yr 11mth,17 Mar 1990,182cm,82kg,Eastern Ranges,Midfield,NA
+33,Brodie Smith,Smith,Brodie,225,31yr 1mth,14 Jan 1992,189cm,86kg,Woodville West Torrens,Defender,NA
+14,Jake Soligo,Soligo,Jake,16,20yr 1mth,25 Jan 2003,180cm,80kg,Eastern Ranges,Midfield,NA
+45,Kieran Strachan,Strachan,Kieran,5,27yr 4mth,5 Oct 1995,204cm,103kg,Port Melbourne,Ruck,NA
+19,Zac Taylor,Taylor,Zac,0,20yr,31 Jan 2003,180cm,74kg,Calder Cannons,Midfield,NA
+7,Riley Thilthorpe,Thilthorpe,Riley,25,20yr 7mth,7 Jul 2002,201cm,102kg,West Adelaide Fc,Forward,NA
+13,Taylor Walker,Walker,Taylor,238,32yr 10mth,25 Apr 1990,194cm,102kg,Broken Hill North,Forward,NA
+24,Josh Worrell,Worrell,Josh,5,21yr 10mth,11 Apr 2001,194cm,94kg,Sandringham Dragons,Defender,NA
+11,James Aish,Aish,James,143,27yr 3mth,8 Nov 1995,183cm,80kg,Norwood,Midfield,NA
+24,Jye Amiss,Amiss,Jye,3,19yr 6mth,31 Jul 2003,196cm,83kg,East Perth,Forward,NA
+41,Bailey Banfield,Banfield,Bailey,61,25yr,26 Feb 1998,190cm,89kg,Claremont,Forward,NA
+38,Eric Benning,Benning,Eric,0,19yr 7mth,14 Jul 2003,195cm,84kg,Claremont,Ruck,NA
+8,Andrew Brayshaw,Brayshaw,Andrew,100,23yr 3mth,8 Nov 1999,185cm,86kg,Sandringham Dragons,Midfield,NA
+17,Will Brodie,Brodie,Will,49,24yr 6mth,23 Aug 1998,189cm,89kg,Murray Bushrangers,Midfield,NA
+27,Heath Chapman,Chapman,Heath,23,21yr,31 Jan 2002,193cm,81kg,West Perth,Defender,NA
+6,Jordan Clark,Clark,Jordan,56,22yr 4mth,16 Oct 2000,185cm,84kg,Claremont,Defender,NA
+33,Travis Colyer,Colyer,Travis,146,31yr 6mth,24 Aug 1991,173cm,75kg,Claremont,Forward,NA
+19,Josh Corbett,Corbett,Josh,36,26yr 10mth,23 Apr 1996,190cm,90kg,Werribee,Forward,NA
+36,Brennan Cox,Cox,Brennan,82,24yr 6mth,13 Aug 1998,195cm,98kg,Woodville-West Torrens,Defender,NA
+4,Sean Darcy,Darcy,Sean,83,24yr 8mth,12 Jun 1998,203cm,112kg,Geelong Falcons,Ruck,NA
+12,Hugh Davies,Davies,Hugh,0,18yr 5mth,28 Sep 2004,196cm,90kg,Claremont,Defender,NA
+37,Josh Draper,Draper,Josh,0,19yr,8 Feb 2004,197cm,93kg,Peel Thunder,Forward,NA
+18,Tom Emmett,Emmett,Tom,0,21yr 2mth,30 Nov 2001,186cm,88kg,Sturt,Forward,NA
+28,Neil Erasmus,Erasmus,Neil,5,19yr 2mth,2 Dec 2003,190cm,82kg,Subiaco,Midfield,NA
+32,Michael Frederick,Frederick,Michael,39,22yr 9mth,17 May 2000,183cm,75kg,Eagles,Forward,NA
+7,Nathan Fyfe,Fyfe,Nathan,209,31yr 5mth,18 Sep 1991,191cm,92kg,Claremont,Midfield,Forward
+21,Joel Hamling,Hamling,Joel,87,29yr 10mth,9 Apr 1993,194cm,92kg,Claremont,Defender,NA
+23,Liam Henry,Henry,Liam,27,21yr 6mth,28 Aug 2001,180cm,73kg,Claremont,Midfield,Forward
+15,Ethan Hughes,Hughes,Ethan,81,28yr 2mth,7 Dec 1994,188cm,88kg,Swan Districts,Defender,Midfield
+9,Luke Jackson,Jackson,Luke,52,21yr 4mth,29 Sep 2001,199cm,100kg,East Fremantle,Forward,Ruck
+44,Matt Johnson,Johnson,Matt,0,19yr 11mth,16 Mar 2003,192cm,81kg,Subiaco,Midfield,NA
+22,Max Knobel,Knobel,Max,0,18yr 8mth,27 Jun 2004,206cm,91kg,Gippsland Power,Ruck,NA
+43,Sebit Kuek,Kuek,Sebit,0,22yr 3mth,11 Nov 2000,195cm,73kg,East Perth,Forward,NA
+30,Nathan O'Driscoll,O'Driscoll,Nathan,12,20yr 9mth,17 May 2002,187cm,77kg,Perth,Midfield,NA
+2,Jaeger O'Meara,O'Meara,Jaeger,143,29yr,23 Feb 1994,183cm,83kg,Perth Demons,Midfield,NA
+25,Alex Pearce,Pearce,Alex,84,27yr 8mth,9 Jun 1995,201cm,99kg,Devonport,Defender,NA
+42,Liam Reidy,Reidy,Liam,0,22yr 8mth,14 Jun 2000,204cm,102kg,Frankston Dolphins,Ruck,NA
+13,Luke Ryan,Ryan,Luke,109,27yr,6 Feb 1996,186cm,89kg,Coburg,Defender,NA
+5,Lachlan Schultz,Schultz,Lachlan,67,25yr 2mth,30 Nov 1997,178cm,82kg,Williamstown,Forward,NA
+3,Caleb Serong,Serong,Caleb,58,22yr,9 Feb 2001,179cm,85kg,Gippsland Power,Midfield,NA
+1,Sam Sturt,Sturt,Sam,4,22yr 9mth,12 May 2000,188cm,80kg,Dandenong Stingrays,Forward,NA
+39,Sam Switkowski,Switkowski,Sam,46,26yr 3mth,20 Nov 1996,179cm,73kg,Box Hill Hawks,Forward,NA
+20,Matthew Taberner,Taberner,Matthew,116,29yr 8mth,17 Jun 1993,198cm,98kg,Murray Bushrangers,Forward,NA
+35,Josh Treacy,Treacy,Josh,19,20yr 6mth,4 Aug 2002,193cm,94kg,Bendigo Pioneers,Forward,NA
+34,Corey Wagner,Wagner,Corey,19,25yr 11mth,23 Mar 1997,181cm,75kg,Aspley,Defender,Midfield
+31,Brandon Walker,Walker,Brandon,31,20yr 4mth,17 Oct 2002,186cm,77kg,East Fremantle,Defender,NA
+10,Michael Walters,Walters,Michael,202,32yr 1mth,7 Jan 1991,176cm,79kg,Swan Districts,Forward,NA
+45,Conrad Williams,Williams,Conrad,0,18yr 2mth,30 Nov 2004,185cm,63kg,Claremont,Midfield,NA
+14,Nathan Wilson,Wilson,Nathan,151,30yr 1mth,7 Jan 1993,185cm,80kg,WA,Defender,NA
+40,Karl Worner,Worner,Karl,0,20yr 8mth,16 Jun 2002,188cm,81kg,Oakleigh Chargers,Defender,Midfield
+26,Hayden Young,Young,Hayden,35,21yr 10mth,11 Apr 2001,189cm,84kg,Dandenong Stingrays,Defender,NA
+12,Oscar Allen,Allen,Oscar,59,23yr 11mth,19 Mar 1999,192cm,87kg,West Perth,Forward,NA
+38,Jordyn Baker,Baker,Jordyn,0,18yr 9mth,10 May 2004,185cm,72kg,East Perth,Midfield,NA
+30,Harry Barnett,Barnett,Harry,0,19yr 1mth,22 Jan 2004,202cm,96kg,West Adelaide,Ruck,NA
+37,Tom Barrass,Barrass,Tom,118,27yr 4mth,8 Oct 1995,196cm,96kg,Claremont,Defender,NA
+33,Rhett Bazzo,Bazzo,Rhett,9,19yr 4mth,17 Oct 2003,194cm,81kg,Swan Districts,Defender,NA
+45,Coby Burgiel,Burgiel,Coby,0,18yr 5mth,9 Sep 2004,183cm,80kg,Gippsland Power,Midfield,Forward
+18,Campbell Chesser,Chesser,Campbell,0,19yr 10mth,27 Apr 2003,186cm,83kg,Sandringham Dragons,Defender,Midfield
+39,Greg Clark,Clark,Greg,9,25yr 9mth,24 May 1997,193cm,94kg,Subiaco,Midfield,NA
+28,Tom Cole,Cole,Tom,78,25yr 9mth,28 May 1997,186cm,81kg,Sandhurst Football Netball Club,Defender,NA
+15,Jamie Cripps,Cripps,Jamie,216,30yr 10mth,23 Apr 1992,183cm,84kg,East Fremantle,Forward,NA
+49,Jai Culley,Culley,Jai,4,20yr,24 Feb 2003,193cm,87kg,Dandenong Stingrays,Midfield,NA
+27,Jack Darling,Darling,Jack,257,30yr 8mth,13 Jun 1992,191cm,95kg,West Perth,Forward,NA
+43,Tyrell Dewar,Dewar,Tyrell,0,18yr 11mth,27 Mar 2004,183cm,67kg,Subiaco,Defender,Forward
+14,Liam Duggan,Duggan,Liam,136,26yr 2mth,11 Dec 1996,184cm,83kg,Western Jets,Defender,NA
+42,Harry Edwards,Edwards,Harry,28,22yr 4mth,1 Oct 2000,200cm,87kg,Swan Districts,Defender,NA
+16,Luke Edwards,Edwards,Luke,11,21yr 1mth,12 Jan 2002,188cm,83kg,Glenelg,Midfield,NA
+29,Luke Foley,Foley,Luke,23,23yr 4mth,8 Oct 1999,188cm,75kg,Subiaco,Defender,NA
+3,Andrew Gaff,Gaff,Andrew,252,30yr 8mth,16 Jun 1992,183cm,85kg,Oakleigh Chargers,Midfield,NA
+7,Reuben Ginbey,Ginbey,Reuben,0,18yr 5mth,10 Sep 2004,189cm,82kg,East Perth,Defender,Midfield
+8,Elijah Hewett,Hewett,Elijah,0,18yr 9mth,27 May 2004,185cm,84kg,Swan Districts,Midfield,NA
+19,Brady Hough,Hough,Brady,15,19yr 11mth,5 Mar 2003,189cm,71kg,Peel Thunder,Defender,Midfield
+5,Jayden Hunt,Hunt,Jayden,114,27yr 10mth,3 Apr 1995,187cm,81kg,Brighton Grammar,Defender,NA
+25,Shannon Hurn,Hurn,Shannon,320,35yr 5mth,4 Sep 1987,187cm,95kg,Central District,Defender,NA
+40,Callum Jamieson,Jamieson,Callum,9,22yr 6mth,31 Jul 2000,200cm,81kg,Claremont,Ruck,NA
+31,Jamaine Jones,Jones,Jamaine,42,24yr 4mth,29 Sep 1998,180cm,81kg,North Ballarat Rebels,Defender,NA
+11,Tim Kelly,Kelly,Tim,102,28yr 7mth,26 Jul 1994,182cm,81kg,South Fremantle,Midfield,NA
+44,Noah Long,Long,Noah,0,18yr 6mth,23 Aug 2004,178cm,74kg,Bendigo Pioneeers,Midfield,Forward
+20,Jeremy McGovern,McGovern,Jeremy,163,30yr 10mth,15 Apr 1992,196cm,99kg,Claremont,Defender,NA
+9,Nicholas Naitanui,Naitanui,Nicholas,213,32yr 9mth,4 May 1990,201cm,110kg,Swan Districts,Ruck,NA
+24,Xavier O'Neill,O'Neill,Xavier,24,22yr 6mth,3 Aug 2000,185cm,81kg,Oakleigh Chargers,Midfield,NA
+10,Sam Petrevski-Seton,Petrevski-Seton,Sam,108,25yr,19 Feb 1998,181cm,76kg,Claremont,Forward,NA
+21,Jack Petruccelle,Petruccelle,Jack,54,23yr 10mth,12 Apr 1999,185cm,80kg,Northern Knights,Forward,NA
+35,Josh Rotham,Rotham,Josh,46,25yr,25 Feb 1998,193cm,86kg,West Perth,Defender,NA
+1,Liam Ryan,Ryan,Liam,86,26yr 4mth,2 Oct 1996,179cm,72kg,Subiaco,Forward,NA
+4,Dominic Sheed,Sheed,Dominic,142,27yr 10mth,10 Apr 1995,185cm,87kg,Subiaco,Midfield,NA
+13,Luke Shuey,Shuey,Luke,238,32yr 8mth,2 Jun 1990,183cm,90kg,Oakleigh Chargers,Midfield,NA
+26,Zane Trew,Trew,Zane,2,20yr 10mth,26 Apr 2002,187cm,78kg,Swan Districts,Midfield,Forward
+2,Jake Waterman,Waterman,Jake,73,24yr 9mth,6 May 1998,191cm,92kg,Claremont,Forward,NA
+36,Connor West,West,Connor,19,23yr 9mth,7 May 1999,183cm,80kg,West Perth,Midfield,Forward
+32,Bailey Williams,Williams,Bailey,26,22yr 10mth,17 Apr 2000,199cm,95kg,Dandenong Stingrays,Ruck,NA
+34,Jack Williams,Williams,Jack,1,19yr 2mth,1 Dec 2003,195cm,94kg,East Fremantle,Forward,Ruck
+22,Isiah Winder,Winder,Isiah,7,20yr 9mth,16 May 2002,180cm,79kg,Peel Thunder,Forward,NA
+23,Alex Witherden,Witherden,Alex,81,24yr 5mth,10 Sep 1998,188cm,85kg,Geelong Falcons,Defender,NA
+6,Elliot Yeo,Yeo,Elliot,182,29yr 4mth,1 Oct 1993,190cm,89kg,East Fremantle,Defender,NA
+9,Ben Ainsworth,Ainsworth,Ben,96,25yr,10 Feb 1998,179cm,77kg,Gippsland Power,Forward,NA
+17,Jed Anderson,Anderson,Jed,99,29yr,2 Feb 1994,179cm,81kg,Territory Thunder,Midfield,Forward
+15,Noah Anderson,Anderson,Noah,58,22yr,17 Feb 2001,192cm,86kg,Oakleigh Chargers,Midfield,NA
+31,Mac Andrew,Andrew,Mac,4,19yr 10mth,12 Apr 2003,201cm,74kg,Dandenong Stingrays,Defender,NA
+2,Rory Atkins,Atkins,Rory,118,28yr 7mth,12 Jul 1994,186cm,85kg,Calder Cannons,Defender,Midfield
+10,Charlie Ballard,Ballard,Charlie,87,23yr 7mth,23 Jul 1999,196cm,93kg,Sturt,Defender,NA
+16,Thomas Berry,Berry,Thomas,20,22yr 9mth,1 May 2000,185cm,79kg,Gwv Rebels,Forward,NA
+26,Connor Blakely,Blakely,Connor,78,26yr 11mth,2 Mar 1996,189cm,88kg,Swan Districts,Midfield,NA
+45,Sandy Brock,Brock,Sandy,0,20yr 2mth,14 Dec 2002,198cm,86kg,Peel Thunder,Defender,NA
+35,Connor Budarick,Budarick,Connor,26,21yr 10mth,6 Apr 2001,175cm,74kg,Gold Coast Suns Academy,Defender,NA
+29,Chris Burgess,Burgess,Chris,35,27yr 3mth,26 Nov 1995,191cm,94kg,NA,Defender,Forward
+30,Levi Casboult,Casboult,Levi,175,32yr 11mth,15 Mar 1990,201cm,101kg,Dandenong Stingrays,Forward,NA
+1,Mabior Chol,Chol,Mabior,53,26yr,29 Jan 1997,200cm,96kg,Aspley,Forward,NA
+25,Samuel Collins,Collins,Samuel,81,28yr 8mth,15 Jun 1994,194cm,99kg,Box Hill Hawks,Defender,NA
+33,Charlie Constable,Constable,Charlie,14,23yr 9mth,18 May 1999,191cm,86kg,Sandringham Dragons,Defender,Midfield
+5,Alex Davies,Davies,Alex,16,20yr 11mth,18 Mar 2002,191cm,85kg,Suns Academy,Midfield,Forward
+12,Sam Day,Day,Sam,147,30yr 5mth,6 Sep 1992,197cm,99kg,Sturt,Forward,NA
+4,Brandon Ellis,Ellis,Brandon,231,29yr 6mth,3 Aug 1993,181cm,82kg,Calder Cannons,Defender,Midfield
+50,Jy Farrar,Farrar,Jy,25,26yr 2mth,7 Dec 1996,191cm,77kg,Scotch OC,Defender,NA
+37,Oskar Faulkhead,Faulkhead,Oskar,0,20yr,11 Feb 2003,182cm,76kg,Bendigo Pioneers,Midfield,Forward
+8,Brayden Fiorini,Fiorini,Brayden,76,25yr 6mth,22 Aug 1997,186cm,84kg,Northern Knights,Midfield,NA
+3,Sam Flanders,Flanders,Sam,30,21yr 7mth,24 Jul 2001,183cm,82kg,Gippsland Power,Midfield,Forward
+46,Caleb Graham,Graham,Caleb,37,22yr 5mth,12 Sep 2000,195cm,96kg,Gold Coast Academy,Defender,NA
+36,Elijah Hollands,Hollands,Elijah,5,20yr 10mth,25 Apr 2002,189cm,85kg,Murray Bushrangers,Midfield,NA
+7,Nicholas Holman,Holman,Nicholas,91,27yr 8mth,29 May 1995,189cm,86kg,Central District,Forward,NA
+19,Bailey Humphrey,Humphrey,Bailey,0,18yr 5mth,11 Sep 2004,186cm,83kg,Gippsland Power,Midfield,Forward
+40,Joel Jeffrey,Jeffrey,Joel,9,20yr 11mth,12 Mar 2002,192cm,80kg,Suns Academy,Forward,NA
+38,Lloyd Johnston,Johnston,Lloyd,0,18yr 5mth,21 Sep 2004,185cm,76kg,NT Thunder,Defender,NA
+34,Ben King,King,Ben,53,22yr 7mth,7 Jul 2000,202cm,96kg,Sandringham Dragons,Forward,NA
+23,Sean Lemmens,Lemmens,Sean,134,28yr 3mth,2 Nov 1994,184cm,81kg,Port Adelaide,Defender,NA
+22,Ben Long,Long,Ben,79,25yr 6mth,21 Aug 1997,183cm,80kg,Nt Thunder,Defender,Forward
+13,Jack Lukosius,Lukosius,Jack,73,22yr 6mth,9 Aug 2000,195cm,89kg,Woodville-West Torrens,Forward,NA
+44,Darcy Macpherson,Macpherson,Darcy,72,25yr 3mth,29 Oct 1997,174cm,79kg,Northern Knights,Defender,Forward
+43,Brodie McLaughlin,McLaughlin,Brodie,0,25yr 3mth,20 Nov 1997,193cm,85kg,Frankston,Forward,NA
+11,Touk Miller,Miller,Touk,160,27yr,22 Feb 1996,178cm,84kg,Calder Cannons,Midfield,NA
+49,Ned Moyle,Moyle,Ned,0,21yr,15 Feb 2002,205cm,96kg,Oakleigh Chargers,Ruck,NA
+47,Hewago Oea,Oea,Hewago,5,21yr 3mth,13 Nov 2001,172cm,70kg,Suns Academy,Forward,NA
+27,Wil Powell,Powell,Wil,69,23yr 6mth,26 Aug 1999,185cm,79kg,Claremont,Defender,NA
+41,Malcolm Rosas,Rosas,Malcolm,19,21yr 8mth,27 Jun 2001,175cm,70kg,NT Thunder,Forward,NA
+18,Matt Rowell,Rowell,Matt,39,21yr 7mth,1 Jul 2001,180cm,78kg,Oakleigh Chargers,Midfield,NA
+6,Alex Sexton,Sexton,Alex,158,29yr 2mth,3 Dec 1993,186cm,82kg,Redland,Forward,NA
+20,Jeremy Sharp,Sharp,Jeremy,23,21yr 6mth,13 Aug 2001,189cm,81kg,East Fremantle,Midfield,NA
+42,Jake Stein,Stein,Jake,20,29yr 1mth,17 Jan 1994,195cm,96kg,Penrith,Defender,NA
+24,David Swallow,Swallow,David,197,30yr 3mth,19 Nov 1992,185cm,87kg,East Fremantle,Midfield,NA
+21,James Tsitas,Tsitas,James,1,27yr 11mth,3 Mar 1995,181cm,78kg,Geelong Falcons,Midfield,Forward
+32,Bodhi Uwland,Uwland,Bodhi,0,19yr 7mth,25 Jul 2003,185cm,84kg,Allies,Defender,Midfield
+14,Lachlan Weller,Weller,Lachlan,127,27yr,23 Feb 1996,181cm,83kg,Southport,Defender,NA
+28,Jarrod Witts,Witts,Jarrod,144,30yr 5mth,13 Sep 1992,209cm,111kg,Sydney University,Ruck,NA
